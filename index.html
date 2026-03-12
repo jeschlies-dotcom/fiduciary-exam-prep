@@ -2628,8 +2628,10 @@ function renderBookmarks() {
           <span class="bm-remove" onclick="event.stopPropagation(); removeBookmark('${q.id}')">✕</span>
         </div>
         <div class="bm-detail" style="display: none; width: 100%; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);">
-          <div style="margin-bottom: 8px;">${domainTag} ${diffTag}</div>
-          <div style="color: var(--success-dark); font-weight: 600; margin-bottom: 6px;">${letters[q.correctAnswer]}. ${q.options[q.correctAnswer]}</div>
+          <div style="margin-bottom: 12px;">${domainTag} ${diffTag}</div>
+          <div style="display: flex; flex-direction: column; gap: 6px; margin-bottom: 12px;">
+            ${q.options.map((opt, idx) => `<div style="padding: 8px 12px; border-radius: var(--radius-sm); font-size: 14px; border: 1px solid ${idx === q.correctAnswer ? 'var(--success)' : 'var(--border)'}; background: ${idx === q.correctAnswer ? 'var(--success-light)' : 'transparent'}; color: ${idx === q.correctAnswer ? 'var(--success-dark)' : 'var(--text-secondary)'}; font-weight: ${idx === q.correctAnswer ? '600' : '400'};">${letters[idx]}. ${opt}</div>`).join('')}
+          </div>
           <div style="color: var(--text-secondary); font-size: 13px; line-height: 1.6;">${q.explanation}</div>
         </div>
       </div>
