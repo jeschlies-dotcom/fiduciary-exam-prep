@@ -1333,7 +1333,7 @@ body {
         <span class="nav-icon">✍️</span>
         <span>Quiz</span>
       </div>
-      <div class="nav-item" onclick="navigate('view-flashcards')">
+      <div class="nav-item" onclick="navigate('view-flashcards-setup')">
         <span class="nav-icon">🎴</span>
         <span>Flashcards</span>
       </div>
@@ -1378,6 +1378,8 @@ body {
         <p>Master the CA Fiduciary Exam with targeted practice</p>
       </div>
 
+      <div id="homeStats" style="display: flex; gap: 12px; margin-bottom: 24px; flex-wrap: wrap;"></div>
+
       <div id="newQuestionsCard"></div>
 
       <div class="mode-grid" id="modeGrid">
@@ -1386,7 +1388,7 @@ body {
           <h3>Quiz</h3>
           <p>Test your knowledge with custom quizzes</p>
         </div>
-        <div class="mode-card" onclick="navigate('view-flashcards')">
+        <div class="mode-card" onclick="navigate('view-flashcards-setup')">
           <div class="mode-icon">🎴</div>
           <h3>Flashcards</h3>
           <p>Learn and memorize key concepts</p>
@@ -1561,12 +1563,12 @@ body {
 
       <div class="flashcard-container" id="flashcardContainer">
         <div class="flashcard" id="flashcard" onclick="flipFlashcard()">
-          <div class="flashcard-face" style="display: flex;">
+          <div class="flashcard-face">
             <h3>Question</h3>
             <div class="question-text" id="flashcardQuestion"></div>
             <div class="flip-hint">(Click to reveal answer)</div>
           </div>
-          <div class="flashcard-face flashcard-back" style="display: none;">
+          <div class="flashcard-face flashcard-back">
             <h3>Answer</h3>
             <div class="flashcard-answer">
               <div class="correct-answer" id="flashcardAnswerText"></div>
@@ -1673,6 +1675,14 @@ body {
             </div>
             <button class="btn btn-secondary" onclick="exportData()">Export</button>
           </div>
+          <div class="settings-item">
+            <div class="si-text">
+              <h4>Import Data</h4>
+              <p>Restore progress from a previous export file</p>
+            </div>
+            <button class="btn btn-secondary" onclick="document.getElementById('importDataFile').click()">Import</button>
+            <input type="file" id="importDataFile" accept=".json" style="display:none;" onchange="importData()">
+          </div>
         </div>
 
         <div class="settings-group">
@@ -1724,7 +1734,8 @@ const state = {
   lastQuestionCount: 0,
   newQuestionsOnly: false,
   selectedSubtopics: new Set(),
-  sessionStartTime: null
+  sessionStartTime: null,
+  sessionAnswers: {}
 };
 
 // ===== EXTERNAL QUESTION LOADING =====
@@ -1880,10 +1891,29 @@ function navigate(viewId) {
   document.getElementById(viewId).classList.add('active');
 
   document.querySelectorAll('.nav-item').forEach(n => n.classList.remove('active'));
-  event.target.closest('.nav-item')?.classList.add('active');
+  if (typeof event !== 'undefined' && event && event.target) {
+    event.target.closest('.nav-item')?.classList.add('active');
+  }
 
-  toggleSidebar();
+  // Only auto-close sidebar on mobile (where it's an overlay)
+  if (window.innerWidth <= 768) {
+    const sidebar = document.querySelector('.sidebar');
+    const overlay = document.querySelector('.sidebar-overlay');
+    sidebar.classList.remove('open');
+    overlay.classList.remove('visible');
+  }
   window.scrollTo(0, 0);
+
+  // Render view content on navigation
+  const renderers = {
+    'view-home': renderHome,
+    'view-quiz-setup': renderQuizSetup,
+    'view-flashcards-setup': renderFlashcardSetup,
+    'view-review': renderReview,
+    'view-dashboard': renderDashboard,
+    'view-bookmarks': renderBookmarks
+  };
+  if (renderers[viewId]) renderers[viewId]();
 }
 
 function toggleSidebar() {
@@ -1895,6 +1925,37 @@ function toggleSidebar() {
 
 // ===== HOME VIEW =====
 function renderHome() {
+  // Home stats bar
+  const totalQs = state.questions.length;
+  const attempted = Object.keys(state.questionResults).filter(id => state.questionResults[id].attempted > 0).length;
+  const quizzesDone = state.history.length;
+  const avgScore = quizzesDone > 0 ? Math.round(state.history.reduce((s, h) => s + h.score, 0) / quizzesDone) : 0;
+
+  let statsHtml = `
+    <div class="card" style="flex: 1; min-width: 120px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; font-weight: 700; color: var(--primary);">${totalQs}</div>
+      <div style="font-size: 12px; color: var(--text-muted);">Questions</div>
+    </div>
+    <div class="card" style="flex: 1; min-width: 120px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; font-weight: 700; color: var(--accent);">${attempted}</div>
+      <div style="font-size: 12px; color: var(--text-muted);">Attempted</div>
+    </div>
+    <div class="card" style="flex: 1; min-width: 120px; padding: 16px; text-align: center;">
+      <div style="font-size: 24px; font-weight: 700; color: var(--success);">${quizzesDone}</div>
+      <div style="font-size: 12px; color: var(--text-muted);">Quizzes</div>
+    </div>
+  `;
+  if (quizzesDone > 0) {
+    statsHtml += `
+      <div class="card" style="flex: 1; min-width: 120px; padding: 16px; text-align: center;">
+        <div style="font-size: 24px; font-weight: 700; color: ${avgScore >= 80 ? 'var(--success)' : avgScore >= 60 ? 'var(--warning)' : 'var(--danger)'};">${avgScore}%</div>
+        <div style="font-size: 12px; color: var(--text-muted);">Avg Score</div>
+      </div>
+    `;
+  }
+  document.getElementById('homeStats').innerHTML = statsHtml;
+
+  // New questions card
   const newCount = getNewQuestionsCount();
   const newCardHtml = newCount > 0 ? `
     <div class="card mode-card" style="background: linear-gradient(135deg, var(--warning-light), var(--primary-light)); cursor: pointer;" onclick="startNewQuestionsQuiz()">
@@ -2037,11 +2098,21 @@ function selectOrder(order) {
 }
 
 function toggleAllDomains() {
-  const isChecked = document.getElementById('selectAllDomains').checked;
-  document.querySelectorAll('#domainCheckboxes input').forEach(cb => {
-    cb.checked = isChecked;
-  });
-  updateSubtopics();
+  const fcSetup = document.getElementById('view-flashcards-setup');
+  const isFcSetup = fcSetup && fcSetup.classList.contains('active');
+
+  if (isFcSetup) {
+    const isChecked = document.getElementById('fcSelectAllDomains').checked;
+    document.querySelectorAll('#fcDomainCheckboxes input[type="checkbox"]').forEach(cb => {
+      cb.checked = isChecked;
+    });
+  } else {
+    const isChecked = document.getElementById('selectAllDomains').checked;
+    document.querySelectorAll('#domainCheckboxes input[type="checkbox"]').forEach(cb => {
+      cb.checked = isChecked;
+    });
+    updateSubtopics();
+  }
 }
 
 function filterQuestions(domains, difficulty) {
@@ -2093,6 +2164,7 @@ function startQuiz(customQuestions = null) {
   state.currentQuizQuestions = questions.slice(0, size);
   state.currentQuizIndex = 0;
   state.sessionStartTime = new Date();
+  state.sessionAnswers = {}; // Track per-session correct/incorrect
 
   state.lastQuestionCount = state.questions.length;
   saveState();
@@ -2144,6 +2216,9 @@ function answerQuestion(selected) {
   }
   state.questionResults[q.id].attempted++;
   if (isCorrect) state.questionResults[q.id].correct++;
+
+  // Track this session's answer for accurate end-of-quiz scoring
+  state.sessionAnswers[q.id] = isCorrect;
 
   const btns = document.querySelectorAll('.option-btn');
   btns.forEach((btn, idx) => {
@@ -2210,8 +2285,9 @@ function finishQuiz() {
   const total = state.currentQuizQuestions.length;
   let correct = 0;
 
+  // Use per-session answers for accurate scoring
   state.currentQuizQuestions.forEach(q => {
-    if (state.questionResults[q.id]?.correct > 0) correct++;
+    if (state.sessionAnswers[q.id]) correct++;
   });
 
   const percentage = Math.round((correct / total) * 100);
@@ -2224,6 +2300,17 @@ function finishQuiz() {
   };
 
   state.history.push(historyEntry);
+
+  // Update streak tracking
+  const today = new Date().toDateString();
+  const lastQuizDate = localStorage.getItem('lastQuizDate');
+  const yesterday = new Date(Date.now() - 86400000).toDateString();
+  let streak = parseInt(localStorage.getItem('currentStreak') || '0');
+  if (lastQuizDate === yesterday) { streak++; }
+  else if (lastQuizDate !== today) { streak = 1; }
+  localStorage.setItem('lastQuizDate', today);
+  localStorage.setItem('currentStreak', streak);
+
   saveState();
 
   document.getElementById('resultScore').textContent = percentage + '%';
@@ -2235,7 +2322,7 @@ function finishQuiz() {
       byDomain[q.domainName] = { correct: 0, total: 0 };
     }
     byDomain[q.domainName].total++;
-    if (state.questionResults[q.id]?.correct > 0) {
+    if (state.sessionAnswers[q.id]) {
       byDomain[q.domainName].correct++;
     }
   });
@@ -2263,7 +2350,7 @@ function finishQuiz() {
 }
 
 function reviewMissed() {
-  const missed = state.currentQuizQuestions.filter(q => !state.questionResults[q.id] || state.questionResults[q.id].correct === 0);
+  const missed = state.currentQuizQuestions.filter(q => !state.sessionAnswers[q.id]);
   if (missed.length === 0) {
     alert('No missed questions to review!');
     return;
@@ -2325,7 +2412,43 @@ function nextFlashcard() {
   if (state.currentFlashcardIndex < state.currentFlashcardDeck.length - 1) {
     state.currentFlashcardIndex++;
     renderFlashcard();
+  } else {
+    // Deck complete
+    document.getElementById('flashcardContainer').innerHTML = `
+      <div class="card" style="text-align: center; padding: 48px 32px; max-width: 600px; margin: 0 auto;">
+        <div style="font-size: 48px; margin-bottom: 16px;">🎉</div>
+        <h3 style="margin-bottom: 8px;">Deck Complete!</h3>
+        <p style="color: var(--text-secondary); margin-bottom: 24px;">You've reviewed all ${state.currentFlashcardDeck.length} cards.</p>
+        <div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap;">
+          <button class="btn btn-primary" onclick="restartFlashcards()">Restart Deck</button>
+          <button class="btn btn-secondary" onclick="navigate('view-flashcards-setup')">New Deck</button>
+          <button class="btn btn-secondary" onclick="navigate('view-home')">Home</button>
+        </div>
+      </div>
+    `;
   }
+}
+
+function restartFlashcards() {
+  state.currentFlashcardIndex = 0;
+  // Restore the flashcard HTML
+  document.getElementById('flashcardContainer').innerHTML = `
+    <div class="flashcard" id="flashcard" onclick="flipFlashcard()">
+      <div class="flashcard-face">
+        <h3>Question</h3>
+        <div class="question-text" id="flashcardQuestion"></div>
+        <div class="flip-hint">(Click to reveal answer)</div>
+      </div>
+      <div class="flashcard-face flashcard-back">
+        <h3>Answer</h3>
+        <div class="flashcard-answer">
+          <div class="correct-answer" id="flashcardAnswerText"></div>
+          <div id="flashcardExplanation"></div>
+        </div>
+      </div>
+    </div>
+  `;
+  renderFlashcard();
 }
 
 function prevFlashcard() {
@@ -2347,21 +2470,25 @@ function markFlashcardKnown() {
 
 // ===== TARGETED REVIEW =====
 function renderReview() {
-  if (state.history.length === 0) {
+  // Check if user has attempted any questions at all
+  const attemptedIds = Object.keys(state.questionResults).filter(id => state.questionResults[id].attempted > 0);
+  if (attemptedIds.length === 0) {
     document.getElementById('reviewContent').innerHTML = '<div class="empty-state"><div class="empty-icon">📊</div><h3>No Quiz History</h3><p>Complete some quizzes first to see weak areas</p></div>';
     return;
   }
 
+  // Analyze ALL attempted questions across all sessions
   let weakAreas = {};
-  state.currentQuizQuestions.forEach(q => {
-    const key = q.subtopic;
+  state.questions.forEach(q => {
+    const result = state.questionResults[q.id];
+    if (!result || result.attempted === 0) return;
+
+    const key = q.subtopic || q.domainName;
     if (!weakAreas[key]) {
       weakAreas[key] = { correct: 0, total: 0, domain: q.domainName };
     }
-    weakAreas[key].total++;
-    if (state.questionResults[q.id]?.correct > 0) {
-      weakAreas[key].correct++;
-    }
+    weakAreas[key].total += result.attempted;
+    weakAreas[key].correct += result.correct;
   });
 
   let sorted = Object.entries(weakAreas).map(([key, data]) => {
@@ -2369,16 +2496,18 @@ function renderReview() {
   }).sort((a, b) => a.score - b.score);
 
   let html = '';
-  if (sorted.length === 0) {
+  if (sorted.length === 0 || sorted[0].score >= 90) {
     html = '<div class="empty-state"><div class="empty-icon">✓</div><h3>Strong Performance!</h3><p>You\'re doing great across all areas</p></div>';
   } else {
     html = '<div class="weak-areas">';
     sorted.forEach(area => {
+      const color = area.score >= 80 ? 'var(--success)' : area.score >= 60 ? 'var(--warning)' : 'var(--danger)';
       html += `
         <div class="weak-area-card" onclick="startWeakAreaDrill('${area.key.replace(/'/g, "\\'")}')">
           <div class="area-name">${area.key}</div>
-          <div class="area-score">${area.score}%</div>
-          <div class="area-detail">${area.correct} of ${area.total} correct</div>
+          <div class="area-domain" style="font-size: 12px; color: var(--text-muted);">${area.domain}</div>
+          <div class="area-score" style="color: ${color};">${area.score}%</div>
+          <div class="area-detail">${area.correct} of ${area.total} attempts correct</div>
         </div>
       `;
     });
@@ -2489,10 +2618,20 @@ function renderBookmarks() {
   const bookmarked = state.questions.filter(q => state.bookmarks.has(q.id));
   let html = '<div class="bookmark-list">';
   bookmarked.forEach(q => {
+    const letters = ['A', 'B', 'C', 'D'];
+    const domainTag = `<span class="tag tag-domain" style="font-size: 11px;">${q.domainName || 'Domain ' + q.domain}</span>`;
+    const diffTag = `<span class="tag tag-${q.difficulty}" style="font-size: 11px;">${q.difficulty ? q.difficulty.charAt(0).toUpperCase() + q.difficulty.slice(1) : ''}</span>`;
     html += `
-      <div class="bookmark-item">
-        <div class="bm-question">${q.question}</div>
-        <span class="bm-remove" onclick="removeBookmark('${q.id}')">✕</span>
+      <div class="bookmark-item" onclick="toggleBookmarkExpand(this)" style="flex-wrap: wrap;">
+        <div style="display: flex; align-items: center; gap: 16px; width: 100%;">
+          <div class="bm-question" style="flex: 1;">${q.question}</div>
+          <span class="bm-remove" onclick="event.stopPropagation(); removeBookmark('${q.id}')">✕</span>
+        </div>
+        <div class="bm-detail" style="display: none; width: 100%; margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border);">
+          <div style="margin-bottom: 8px;">${domainTag} ${diffTag}</div>
+          <div style="color: var(--success-dark); font-weight: 600; margin-bottom: 6px;">${letters[q.correctAnswer]}. ${q.options[q.correctAnswer]}</div>
+          <div style="color: var(--text-secondary); font-size: 13px; line-height: 1.6;">${q.explanation}</div>
+        </div>
       </div>
     `;
   });
@@ -2501,16 +2640,18 @@ function renderBookmarks() {
   document.getElementById('bookmarkContent').innerHTML = html;
 }
 
+function toggleBookmarkExpand(el) {
+  const detail = el.querySelector('.bm-detail');
+  if (detail) {
+    detail.style.display = detail.style.display === 'none' ? 'block' : 'none';
+  }
+}
+
 function removeBookmark(id) {
   state.bookmarks.delete(id);
   updateBookmarkBadge();
   saveState();
   renderBookmarks();
-}
-
-function previewBookmark(id) {
-  const q = state.questions.find(x => x.id === id);
-  if (q) alert(q.question + '\n\nAnswer: ' + q.options[q.correctAnswer]);
 }
 
 // ===== IMPORT =====
@@ -2611,6 +2752,61 @@ function exportData() {
   URL.revokeObjectURL(url);
 }
 
+function importData() {
+  const file = document.getElementById('importDataFile').files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const data = JSON.parse(e.target.result);
+      if (!data.exportDate) throw new Error('Not a valid export file');
+
+      if (!confirm('This will merge the imported data with your current progress. Continue?')) return;
+
+      // Merge history
+      if (data.history && Array.isArray(data.history)) {
+        const existingDates = new Set(state.history.map(h => h.date));
+        const newHistory = data.history.filter(h => !existingDates.has(h.date));
+        state.history.push(...newHistory);
+      }
+
+      // Merge question results (keep best of both)
+      if (data.questionResults) {
+        Object.entries(data.questionResults).forEach(([id, result]) => {
+          if (!state.questionResults[id]) {
+            state.questionResults[id] = result;
+          } else {
+            state.questionResults[id].correct = Math.max(state.questionResults[id].correct, result.correct);
+            state.questionResults[id].attempted = Math.max(state.questionResults[id].attempted, result.attempted);
+          }
+        });
+      }
+
+      // Merge bookmarks
+      if (data.bookmarks && Array.isArray(data.bookmarks)) {
+        data.bookmarks.forEach(b => state.bookmarks.add(b));
+      }
+
+      // Merge any extra questions
+      if (data.questions && Array.isArray(data.questions)) {
+        const existingIds = new Set(state.questions.map(q => q.id));
+        const newQs = data.questions.filter(q => !existingIds.has(q.id));
+        state.questions.push(...newQs);
+      }
+
+      saveState();
+      updateBookmarkBadge();
+      renderHome();
+      alert('Data imported successfully!');
+    } catch(err) {
+      alert('Invalid import file: ' + err.message);
+    }
+    document.getElementById('importDataFile').value = '';
+  };
+  reader.readAsText(file);
+}
+
 // ===== KEYBOARD SHORTCUTS =====
 document.addEventListener('keydown', e => {
   if (document.getElementById('view-flashcards').classList.contains('active')) {
@@ -2640,19 +2836,7 @@ renderHome();
   await initializeQuestions();
 })();
 
-document.querySelectorAll('.nav-item').forEach(item => {
-  item.addEventListener('click', function() {
-    const view = this.querySelector('.nav-icon')?.parentElement?.textContent;
-    if (view === 'Home') navigate('view-home');
-    if (view === 'Quiz') navigate('view-quiz-setup');
-    if (view === 'Flashcards') navigate('view-flashcards-setup');
-    if (view === 'Targeted Review') navigate('view-review');
-    if (view === 'Dashboard') { renderDashboard(); navigate('view-dashboard'); }
-    if (view === 'Bookmarks') { renderBookmarks(); navigate('view-bookmarks'); }
-    if (view === 'Import') navigate('view-import');
-    if (view === 'Settings') navigate('view-settings');
-  });
-});
+
 </script>
 </body>
 </html>
