@@ -1,0 +1,21 @@
+{
+  "name": "CA Fiduciary Exam Practice",
+  "short_name": "PF Exam Prep",
+  "description": "Practice questions for the California Professional Fiduciary Licensing Exam",
+  "start_url": "/fiduciary-exam-prep/",
+  "display": "standalone",
+  "background_color": "#f5f6fa",
+  "theme_color": "#4f6ef7",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

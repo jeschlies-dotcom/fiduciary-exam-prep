@@ -4,6 +4,28 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>CA Fiduciary Exam Practice</title>
+<meta name="description" content="Free practice questions for the California Professional Fiduciary Licensing Exam. 100+ scenario-based questions across all 7 exam domains with instant feedback, flashcards, and progress tracking.">
+<meta name="theme-color" content="#4f6ef7">
+
+<!-- Open Graph / Social Sharing -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="CA Fiduciary Exam Practice">
+<meta property="og:description" content="Free practice questions for the California Professional Fiduciary Licensing Exam. Quiz mode, flashcards, targeted review, and progress tracking.">
+<meta property="og:image" content="https://jeschlies-dotcom.github.io/fiduciary-exam-prep/og-image.png">
+<meta property="og:url" content="https://jeschlies-dotcom.github.io/fiduciary-exam-prep/">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="CA Fiduciary Exam Practice">
+<meta name="twitter:description" content="Free practice questions for the CA Professional Fiduciary Licensing Exam. All 7 domains covered.">
+<meta name="twitter:image" content="https://jeschlies-dotcom.github.io/fiduciary-exam-prep/og-image.png">
+
+<!-- Favicon (embedded SVG) -->
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%234f6ef7'/><text x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='system-ui' font-weight='700'>PF</text></svg>">
+<link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='20' fill='%234f6ef7'/><text x='50' y='68' font-size='52' text-anchor='middle' fill='white' font-family='system-ui' font-weight='700'>PF</text></svg>">
+
+<!-- PWA -->
+<link rel="manifest" href="manifest.json">
 <style>
 /* ===== CSS RESET & VARIABLES ===== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
@@ -1306,9 +1328,78 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: var(--border-light);
 }
+/* ===== LOADING SPLASH ===== */
+#loadingSplash {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: var(--bg);
+  transition: opacity 0.4s ease;
+}
+#loadingSplash.fade-out {
+  opacity: 0;
+  pointer-events: none;
+}
+#loadingSplash .splash-icon {
+  width: 72px;
+  height: 72px;
+  background: linear-gradient(135deg, #4f6ef7, #8b5cf6);
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 32px;
+  color: white;
+  font-weight: 700;
+  margin-bottom: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+#loadingSplash h2 {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+  margin-bottom: 6px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+#loadingSplash p {
+  font-size: 14px;
+  color: var(--text-muted);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+#loadingSplash .loader-bar {
+  width: 120px;
+  height: 3px;
+  background: var(--border);
+  border-radius: 2px;
+  margin-top: 24px;
+  overflow: hidden;
+}
+#loadingSplash .loader-fill {
+  width: 40%;
+  height: 100%;
+  background: linear-gradient(90deg, #4f6ef7, #8b5cf6);
+  border-radius: 2px;
+  animation: loaderSlide 1s ease-in-out infinite;
+}
+@keyframes loaderSlide {
+  0% { transform: translateX(-100%); }
+  100% { transform: translateX(350%); }
+}
 </style>
 </head>
 <body>
+<!-- Loading Splash -->
+<div id="loadingSplash">
+  <div class="splash-icon">PF</div>
+  <h2>CA Fiduciary Exam Practice</h2>
+  <p>Loading questions...</p>
+  <div class="loader-bar"><div class="loader-fill"></div></div>
+</div>
+
 <div class="sidebar-overlay" onclick="toggleSidebar()"></div>
 <div class="mobile-header">
   <button class="hamburger" onclick="toggleSidebar()">☰</button>
@@ -2833,11 +2924,20 @@ renderQuizSetup();
 renderFlashcardSetup();
 renderHome();
 
-// Initialize with external questions if available
+// Initialize with external questions if available, then dismiss splash
 (async () => {
   await initializeQuestions();
+  const splash = document.getElementById('loadingSplash');
+  if (splash) {
+    splash.classList.add('fade-out');
+    setTimeout(() => splash.remove(), 400);
+  }
 })();
 
+// Register service worker for PWA/offline support
+if ('serviceWorker' in navigator) {
+  navigator.serviceWorker.register('sw.js').catch(() => {});
+}
 
 </script>
 </body>

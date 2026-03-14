@@ -1,0 +1,2423 @@
+{
+  "total_questions": 301,
+  "last_updated": "2026-03-12",
+  "questions": [
+    {
+      "id": "D1_001",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Code of Ethics & NGA Standards",
+      "difficulty": "easy",
+      "question_preview": "A professional fiduciary learns that a conservatee's family member is asking for personal informatio..."
+    },
+    {
+      "id": "D1_002",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary discovers that her spouse owns a property management company. A conservatee..."
+    },
+    {
+      "id": "D1_003",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Alternatives to Court-Appointed Fiduciaries",
+      "difficulty": "easy",
+      "question_preview": "An elderly widow is beginning to have memory lapses but still has full capacity to make decisions. S..."
+    },
+    {
+      "id": "D1_004",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Working with Co-Fiduciary",
+      "difficulty": "medium",
+      "question_preview": "Two professional fiduciaries are appointed as co-conservators of the estate for a conservatee. One c..."
+    },
+    {
+      "id": "D1_005",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Fiduciary Licensing Requirements",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary must file the Annual Statement with the Professional Fiduciaries Bureau. Wh..."
+    },
+    {
+      "id": "D1_006",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fees",
+      "difficulty": "medium",
+      "question_preview": "A conservator seeks court approval for initial fees nine weeks after being appointed. The conservate..."
+    },
+    {
+      "id": "D1_007",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary represents two unrelated clients: a mother and her adult son. The mother is..."
+    },
+    {
+      "id": "D1_008",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Risk Management",
+      "difficulty": "easy",
+      "question_preview": "What is the primary purpose of professional liability (E&O) insurance for a professional fiduciary?"
+    },
+    {
+      "id": "D1_009",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "NGA Standards & Fiduciary Practice Management",
+      "difficulty": "hard",
+      "question_preview": "A fiduciary discovers that a conservatee has three separate brokerage accounts from different time p..."
+    },
+    {
+      "id": "D1_010",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fees & Fiduciary Practice Management",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary invoices for time spent reorganizing a conservatee's cluttered home office ..."
+    },
+    {
+      "id": "D1_011",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Confidentiality",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary receives a phone call from a conservatee's lifelong friend asking for updat..."
+    },
+    {
+      "id": "D1_012",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Alternatives to Court-Appointed Fiduciaries",
+      "difficulty": "medium",
+      "question_preview": "An elderly man with early-stage dementia is refusing to apply for Medi-Cal because he does not want ..."
+    },
+    {
+      "id": "D1_013",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Working with Co-Fiduciary",
+      "difficulty": "easy",
+      "question_preview": "A conservatee has a conservator of the person and a conservator of the estate. The conservator of th..."
+    },
+    {
+      "id": "D1_014",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Code of Ethics & Fiduciary Practice Management",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary maintains a master client database listing all active clients, their spouse..."
+    },
+    {
+      "id": "D1_015",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Hiring & Fiduciary Practice Management",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's adult son asks to be hired as a care aide for his mother (the conservatee), at a rat..."
+    },
+    {
+      "id": "D1_016",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "NGA Standards & Fiduciary Responsibility",
+      "difficulty": "hard",
+      "question_preview": "A fiduciary is evaluating whether to agree to serve as conservator for an individual with severe hoa..."
+    },
+    {
+      "id": "D1_017",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Professional Practices (General)",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary receives a subpoena for client records related to a conservatee. The fiduci..."
+    },
+    {
+      "id": "D2_001",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "easy",
+      "question_preview": "A conservatee from a collectivist cultural background has expressed that major decisions should be m..."
+    },
+    {
+      "id": "D2_002",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with early-stage Alzheimer's disease sometimes insists they need to go to work at a jo..."
+    },
+    {
+      "id": "D2_003",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "medium",
+      "question_preview": "A county public guardian obtains an LPS conservatorship for an individual with schizophrenia who is ..."
+    },
+    {
+      "id": "D2_004",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with paranoid ideation repeatedly accuses the fiduciary of stealing from them, despite..."
+    },
+    {
+      "id": "D2_005",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "medium",
+      "question_preview": "The fiduciary receives hostile communications from a conservatee's adult daughter who believes her m..."
+    },
+    {
+      "id": "D2_006",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Social History, Values & Beliefs",
+      "difficulty": "easy",
+      "question_preview": "A fiduciary learns that a conservatee was a lifelong musician and teacher before cognitive decline. ..."
+    },
+    {
+      "id": "D2_007",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with severe intellectual disability also has cerebral palsy affecting speech and mobil..."
+    },
+    {
+      "id": "D2_008",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "hard",
+      "question_preview": "A conservatee practices a faith that emphasizes prayer and natural healing, and refuses recommended ..."
+    },
+    {
+      "id": "D2_009",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with major depressive disorder reports suicidal thoughts but has capacity to refuse ps..."
+    },
+    {
+      "id": "D2_010",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's estranged adult child contacts the fiduciary demanding visitation rights and threate..."
+    },
+    {
+      "id": "D2_011",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "easy",
+      "question_preview": "A conservatee with dementia tests the fiduciary's authority by refusing to follow reasonable househo..."
+    },
+    {
+      "id": "D2_012",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "medium",
+      "question_preview": "A conservatee from a culture that practices multi-generational decision-making is recovering from su..."
+    },
+    {
+      "id": "D2_013",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Social History, Values & Beliefs",
+      "difficulty": "hard",
+      "question_preview": "A conservatee was a devout volunteer for their church for 50 years before cognitive decline. They no..."
+    },
+    {
+      "id": "D3_001",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Functional Assessment",
+      "difficulty": "easy",
+      "question_preview": "A conservator is evaluating whether a conservatee needs in-home care assistance. The conservatee has..."
+    },
+    {
+      "id": "D3_002",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "medium",
+      "question_preview": "A conservatee objects to a conservatorship, claiming they retain full capacity. Upon appointment, wh..."
+    },
+    {
+      "id": "D3_003",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "medium",
+      "question_preview": "A conservator receives a request for the conservatee to undergo a surgical procedure. The conservate..."
+    },
+    {
+      "id": "D3_004",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "hard",
+      "question_preview": "A conservator seeks to consent to a complex medical procedure on behalf of the conservatee, who lack..."
+    },
+    {
+      "id": "D3_005",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Least Restrictive Alternatives",
+      "difficulty": "medium",
+      "question_preview": "A conservatee has been living in a memory care facility for two years and is doing well with appropr..."
+    },
+    {
+      "id": "D3_006",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Least Restrictive Alternatives",
+      "difficulty": "hard",
+      "question_preview": "A conservatee is living independently with the aid of home care services. The conservatee is functio..."
+    },
+    {
+      "id": "D3_007",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "easy",
+      "question_preview": "A conservator of the person receives a request to make decisions about the conservatee's investment ..."
+    },
+    {
+      "id": "D3_008",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "medium",
+      "question_preview": "A temporary conservator has been appointed for an emergency situation. The conservatee's home needs ..."
+    },
+    {
+      "id": "D3_009",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "medium",
+      "question_preview": "A conservator is making a decision about the conservatee's residential placement. The conservatee pr..."
+    },
+    {
+      "id": "D3_010",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "hard",
+      "question_preview": "A conservatee asks their fiduciary to help them purchase a new car. The conservatee believes they ca..."
+    },
+    {
+      "id": "D3_011",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "hard",
+      "question_preview": "A plenary conservator has been in place for three years. The conservatee's condition has improved si..."
+    },
+    {
+      "id": "D4_001",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "easy",
+      "question_preview": "A person is facing a conservatorship petition. What due process protections are they entitled to und..."
+    },
+    {
+      "id": "D4_002",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "medium",
+      "question_preview": "A temporary conservatorship petition has been filed. The proposed conservatee lives in the state and..."
+    },
+    {
+      "id": "D4_003",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Conservatee's Rights",
+      "difficulty": "easy",
+      "question_preview": "A conservatee is dissatisfied with how the conservator is managing their affairs. Which of the follo..."
+    },
+    {
+      "id": "D4_004",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Conservatee's Rights",
+      "difficulty": "medium",
+      "question_preview": "A conservatee has been living under a conservatorship for five years. A court-appointed investigator..."
+    },
+    {
+      "id": "D4_005",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "medium",
+      "question_preview": "A court-appointed investigator is conducting a periodic review of a conservatorship. What is the pri..."
+    },
+    {
+      "id": "D4_006",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "hard",
+      "question_preview": "A conservator's decisions have resulted in an outcome that conflicts with what the court-appointed c..."
+    },
+    {
+      "id": "D4_007",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "easy",
+      "question_preview": "A conservator needs to open a bank account to manage the conservatee's funds. What critical document..."
+    },
+    {
+      "id": "D4_008",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the estate discovers that the conservatee's bond is about to expire. The bond has b..."
+    },
+    {
+      "id": "D4_009",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "hard",
+      "question_preview": "A conservator wants to give the conservatee a gift from their estate\u2014a small amount ($500) to purcha..."
+    },
+    {
+      "id": "D4_010",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Modification of Conservatorships or Trusts, Successors",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's condition has deteriorated significantly due to advancing dementia. The conservator ..."
+    },
+    {
+      "id": "D4_011",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Modification of Conservatorships or Trusts, Successors",
+      "difficulty": "hard",
+      "question_preview": "A conservatee has a small estate and wishes to create a trust and make specific gifts to family memb..."
+    },
+    {
+      "id": "D4_012",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Compliance with Monitoring Systems",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the estate is preparing to file their first account with the court. What period of ..."
+    },
+    {
+      "id": "D4_013",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Financial Powers of Attorney",
+      "difficulty": "medium",
+      "question_preview": "A conservatee has a durable power of attorney for finances that was signed years before the conserva..."
+    },
+    {
+      "id": "D4_014",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Mediation",
+      "difficulty": "hard",
+      "question_preview": "A conservatee's adult children are in conflict about the conservatee's care plan. One child believes..."
+    },
+    {
+      "id": "D6_001",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "easy",
+      "question_preview": "You are appointed conservator of the estate for a new client. What is the deadline for filing an inv..."
+    },
+    {
+      "id": "D6_002",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "medium",
+      "question_preview": "You are beginning to marshal assets for a new conservatee. You discover several old bank statements ..."
+    },
+    {
+      "id": "D6_003",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "hard",
+      "question_preview": "You discover that the conservatee owns a property with a $200,000 first mortgage. The probate refere..."
+    },
+    {
+      "id": "D6_004",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Personal Property Management",
+      "difficulty": "easy",
+      "question_preview": "The conservatee owns a collection of jewelry that was estimated at $8,000 when the inventory was pre..."
+    },
+    {
+      "id": "D6_005",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Personal Property Management",
+      "difficulty": "medium",
+      "question_preview": "You are appraising the conservatee's personal property for the inventory. The conservatee owns a val..."
+    },
+    {
+      "id": "D6_006",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "easy",
+      "question_preview": "You are newly appointed conservator of the estate and the conservatee owns a rental property. What i..."
+    },
+    {
+      "id": "D6_007",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "medium",
+      "question_preview": "You are managing a residential rental property for the conservatee. You are considering hiring a pro..."
+    },
+    {
+      "id": "D6_008",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "hard",
+      "question_preview": "The conservatee owns a home in which the conservatee lives. The property needs significant repairs (..."
+    },
+    {
+      "id": "D6_009",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales/Escrow Procedures",
+      "difficulty": "easy",
+      "question_preview": "You are planning to sell estate real property. You have identified a buyer and received an offer. Be..."
+    },
+    {
+      "id": "D6_010",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales/Escrow Procedures",
+      "difficulty": "medium",
+      "question_preview": "You are preparing to sell a piece of real property from the conservatee's estate. The probate refere..."
+    },
+    {
+      "id": "D6_011",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales/Escrow Procedures",
+      "difficulty": "hard",
+      "question_preview": "You are selling estate property and have published a Notice of Intent to Sell in a local publication..."
+    },
+    {
+      "id": "D6_012",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "easy",
+      "question_preview": "You are establishing bank accounts for the conservatee's estate. How should you title these accounts..."
+    },
+    {
+      "id": "D6_013",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "medium",
+      "question_preview": "The conservatee owns physical stock certificates. You are concerned about loss or theft. What is the..."
+    },
+    {
+      "id": "D6_014",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "easy",
+      "question_preview": "A conservatee is age 72 and has never worked. The conservatee has a monthly income of $2,500 and ass..."
+    },
+    {
+      "id": "D6_015",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "medium",
+      "question_preview": "A conservatee age 58 became disabled and has been unable to work for 18 months. The conservatee has ..."
+    },
+    {
+      "id": "D6_016",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "hard",
+      "question_preview": "A conservatee on SSI receives monthly benefits of $994. The conservatee lives in the home of a non-r..."
+    },
+    {
+      "id": "D6_017",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "medium",
+      "question_preview": "A conservatee age 68 recently became eligible for Medicare and needs to choose a Part B coverage opt..."
+    },
+    {
+      "id": "D6_018",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "easy",
+      "question_preview": "A conservatee has been approved for Medi-Cal long-term care and is moving to a nursing home. What is..."
+    },
+    {
+      "id": "D6_019",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "medium",
+      "question_preview": "A conservatee is about to apply for Medi-Cal. The conservatee owns a primary residence valued at $45..."
+    },
+    {
+      "id": "D6_020",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "hard",
+      "question_preview": "A conservatee's spouse (capable, non-disabled) is still living in the family home while the conserva..."
+    },
+    {
+      "id": "D6_021",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning/Budgeting",
+      "difficulty": "easy",
+      "question_preview": "You are newly appointed conservator of the estate and must create a financial plan. What should this..."
+    },
+    {
+      "id": "D6_022",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning/Budgeting",
+      "difficulty": "medium",
+      "question_preview": "A conservatee receives $2,000/month from Social Security, has $45,000 in liquid savings, and require..."
+    },
+    {
+      "id": "D6_023",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "easy",
+      "question_preview": "A conservatee created a revocable living trust ten years ago that holds real property and investment..."
+    },
+    {
+      "id": "D6_024",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's revocable trust holds investment accounts worth $200,000. The trust document names s..."
+    },
+    {
+      "id": "D6_025",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "hard",
+      "question_preview": "A conservatee's revocable living trust contains a family residence and an investment portfolio. The ..."
+    },
+    {
+      "id": "D6_026",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "medium",
+      "question_preview": "A first-party special needs trust was established with the conservatee's own assets ($80,000). The c..."
+    },
+    {
+      "id": "D6_027",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "hard",
+      "question_preview": "A third-party special needs trust was created by the conservatee's parents (using their own assets, ..."
+    },
+    {
+      "id": "D6_028",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "easy",
+      "question_preview": "You are managing the conservatee's investment portfolio. The conservatee is 82 years old, in poor he..."
+    },
+    {
+      "id": "D6_029",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "hard",
+      "question_preview": "You are managing a conservatee's investment portfolio. A professional financial advisor recommends i..."
+    },
+    {
+      "id": "D6_030",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "medium",
+      "question_preview": "As a conservator, you are reviewing the investment portfolio. You notice the entire estate is invest..."
+    },
+    {
+      "id": "D5_001",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Needs Assessment",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the person is appointed for a 78-year-old man with advanced Parkinson's disease who..."
+    },
+    {
+      "id": "D5_002",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Care Plans and Reports",
+      "difficulty": "medium",
+      "question_preview": "A conservator is developing a care plan for a 55-year-old conservatee who was injured in an accident..."
+    },
+    {
+      "id": "D5_003",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Residential Placement",
+      "difficulty": "hard",
+      "question_preview": "A conservator is considering placement options for a 72-year-old conservatee with early-stage dement..."
+    },
+    {
+      "id": "D5_004",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Well-Being Oversight and Monitoring",
+      "difficulty": "easy",
+      "question_preview": "A conservator of the person visits a skilled nursing facility monthly to monitor the conservatee's w..."
+    },
+    {
+      "id": "D5_005",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Abuse, Neglect and Exploitation",
+      "difficulty": "medium",
+      "question_preview": "During a facility visit, a conservator notices the conservatee has several unexplained bruises on he..."
+    },
+    {
+      "id": "D5_006",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Death of the Conservatee",
+      "difficulty": "medium",
+      "question_preview": "A conservator's conservatee passes away after a brief illness. The conservator was the conservator o..."
+    },
+    {
+      "id": "D5_007",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Community and Professional Resources",
+      "difficulty": "hard",
+      "question_preview": "A conservator is developing a care plan for a 32-year-old conservatee with intellectual disability. ..."
+    },
+    {
+      "id": "D5_008",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Well-Being Oversight and Monitoring",
+      "difficulty": "easy",
+      "question_preview": "A conservator is responsible for monitoring the conservatee's overall well-being, which includes att..."
+    },
+    {
+      "id": "D5_009",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Community and Professional Resources",
+      "difficulty": "medium",
+      "question_preview": "A conservator is helping a conservatee access In-Home Supportive Services (IHSS). The conservatee wa..."
+    },
+    {
+      "id": "D7_001",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "End of Life Care",
+      "difficulty": "medium",
+      "question_preview": "A conservator discovers that the conservatee, who is now in end-stage Alzheimer's disease, executed ..."
+    },
+    {
+      "id": "D7_002",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Special Medical Decisions and Conditions",
+      "difficulty": "hard",
+      "question_preview": "A conservator is approached by the conservatee's physician regarding a proposed experimental treatme..."
+    },
+    {
+      "id": "D7_003",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Medical Advocacy",
+      "difficulty": "medium",
+      "question_preview": "A conservator notices that the conservatee, who has diabetes and is in a skilled nursing facility, h..."
+    },
+    {
+      "id": "D7_004",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "DNR/Withhold/Withdraw Medical Care",
+      "difficulty": "hard",
+      "question_preview": "A conservator's conservatee, age 86 with multiple chronic conditions and significant cognitive decli..."
+    },
+    {
+      "id": "D7_005",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Durable Power of Attorney for Health Care",
+      "difficulty": "easy",
+      "question_preview": "A conservator is appointed for a conservatee who, prior to incapacity, executed a valid Durable Powe..."
+    },
+    {
+      "id": "D7_006",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "End of Life Care",
+      "difficulty": "medium",
+      "question_preview": "A conservator is involved in a complex medical decision for the conservatee who has end-stage dement..."
+    },
+    {
+      "id": "D7_007",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Medical Advocacy",
+      "difficulty": "hard",
+      "question_preview": "A conservator is aware that the conservatee, who is on multiple medications for psychiatric conditio..."
+    },
+    {
+      "id": "D1_018",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Code of Ethics & NGA Standards",
+      "difficulty": "medium",
+      "question_preview": "You are appointed as conservator of a 72-year-old retired teacher who has significant assets and ear..."
+    },
+    {
+      "id": "D1_019",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Alternatives to Court-Appointed Fiduciaries",
+      "difficulty": "easy",
+      "question_preview": "A 68-year-old client with stable chronic health conditions has early memory issues but is still capa..."
+    },
+    {
+      "id": "D1_020",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Working with Co-Fiduciary",
+      "difficulty": "medium",
+      "question_preview": "You are appointed as conservator of the estate jointly with the conservatee's adult daughter. After ..."
+    },
+    {
+      "id": "D1_021",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Confidentiality",
+      "difficulty": "medium",
+      "question_preview": "Your conservatee confides to you that she receives psychiatric treatment and has experienced depress..."
+    },
+    {
+      "id": "D1_022",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "hard",
+      "question_preview": "You manage conservatorships for two unrelated clients. Client A is an investor in a limited partners..."
+    },
+    {
+      "id": "D1_023",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fiduciary Practice Management / Fees",
+      "difficulty": "medium",
+      "question_preview": "You have been conservator of a client's estate for three months. You have performed significant work..."
+    },
+    {
+      "id": "D1_024",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Fiduciary Licensing Requirements",
+      "difficulty": "easy",
+      "question_preview": "You are a professional fiduciary managing conservatorships for three unrelated individuals, one trus..."
+    },
+    {
+      "id": "D1_025",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Risk Management",
+      "difficulty": "medium",
+      "question_preview": "You manage a conservatee's substantial investment portfolio. Your E&O insurance policy has a $1 mill..."
+    },
+    {
+      "id": "D1_026",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "NGA Standards & Fiduciary Practice Management",
+      "difficulty": "hard",
+      "question_preview": "A conservator is appointed for a 45-year-old conservatee with bipolar disorder and substance abuse h..."
+    },
+    {
+      "id": "D1_027",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Alternatives to Court-Appointed Fiduciaries",
+      "difficulty": "easy",
+      "question_preview": "An 80-year-old client is independent, capable, and wants to plan for future incapacity. She has two ..."
+    },
+    {
+      "id": "D1_028",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "hard",
+      "question_preview": "Your firm provides fiduciary services to Mr. and Mrs. Chen. You serve as conservator of Mrs. Chen's ..."
+    },
+    {
+      "id": "D1_029",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Code of Ethics & NGA Standards",
+      "difficulty": "medium",
+      "question_preview": "You discover that your client's residential care facility is billing the conservatee $2,000 per mont..."
+    },
+    {
+      "id": "D1_030",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fiduciary Practice Management / Fees",
+      "difficulty": "hard",
+      "question_preview": "You bill your conservatee 5 hours per month at your standard rate of $300/hour for monthly financial..."
+    },
+    {
+      "id": "D1_031",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Risk Management",
+      "difficulty": "easy",
+      "question_preview": "You are managing a significant investment portfolio for your conservatee. You carry E&O insurance wi..."
+    },
+    {
+      "id": "D1_032",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Working with Co-Fiduciary",
+      "difficulty": "medium",
+      "question_preview": "You serve as conservator of the person while a family member serves as conservator of the estate. Th..."
+    },
+    {
+      "id": "D1_033",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Confidentiality",
+      "difficulty": "hard",
+      "question_preview": "A court investigator assigned to monitor your conservatorship requests detailed information about yo..."
+    },
+    {
+      "id": "D2_014",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "easy",
+      "question_preview": "You are appointed conservator of a 58-year-old client who follows a traditional indigenous spiritual..."
+    },
+    {
+      "id": "D2_015",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "medium",
+      "question_preview": "Your conservatee has a diagnosis of cerebral palsy affecting her speech and motor control. A speech ..."
+    },
+    {
+      "id": "D2_016",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "hard",
+      "question_preview": "You are appointed LPS conservator of the estate for a 52-year-old individual with a diagnosis of bip..."
+    },
+    {
+      "id": "D2_017",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "medium",
+      "question_preview": "Your conservatee, a 64-year-old with paranoid ideation related to a mental health condition, frequen..."
+    },
+    {
+      "id": "D2_018",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "hard",
+      "question_preview": "You are appointed conservator for a 75-year-old who has three adult children with very different per..."
+    },
+    {
+      "id": "D2_019",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Social History, Values & Beliefs",
+      "difficulty": "medium",
+      "question_preview": "You are appointed conservator of an 82-year-old retired librarian who has advanced dementia. Before ..."
+    },
+    {
+      "id": "D2_020",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "medium",
+      "question_preview": "Your conservatee is from a culture where major life and health decisions are traditionally made by t..."
+    },
+    {
+      "id": "D2_021",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "hard",
+      "question_preview": "Your conservatee has schizoaffective disorder and a lifelong history of refusing psychiatric medicat..."
+    },
+    {
+      "id": "D2_022",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "easy",
+      "question_preview": "Your conservatee frequently becomes angry and verbally aggressive during your visits, sometimes thre..."
+    },
+    {
+      "id": "D2_023",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "medium",
+      "question_preview": "The conservatee's adult daughter frequently visits and provides hands-on caregiving support. However..."
+    },
+    {
+      "id": "D2_024",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Social History, Values & Beliefs",
+      "difficulty": "hard",
+      "question_preview": "Your conservatee is a 70-year-old retired military officer who strongly values independence and self..."
+    },
+    {
+      "id": "D2_025",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "easy",
+      "question_preview": "Your conservatee follows a faith that practices dietary restrictions\u2014she does not eat meat and follo..."
+    },
+    {
+      "id": "D2_026",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "medium",
+      "question_preview": "You are an LPS conservator of the person for a 48-year-old with severe bipolar disorder who has been..."
+    },
+    {
+      "id": "D3_012",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Functional Assessment",
+      "difficulty": "medium",
+      "question_preview": "A 78-year-old conservatee with mild cognitive impairment is capable of managing routine daily tasks ..."
+    },
+    {
+      "id": "D3_013",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with dementia is proposed for a cataract surgery with moderate risk of complications. ..."
+    },
+    {
+      "id": "D3_014",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Least Restrictive Alternatives",
+      "difficulty": "medium",
+      "question_preview": "A 65-year-old conservatee of the person has mild mobility issues and early-stage dementia. The conse..."
+    },
+    {
+      "id": "D3_015",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "easy",
+      "question_preview": "A plenary conservatee loses legal capacity to make binding contracts upon appointment of the conserv..."
+    },
+    {
+      "id": "D3_016",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "hard",
+      "question_preview": "A temporary conservator seeks to authorize electroconvulsive therapy (ECT) for a conservatee with se..."
+    },
+    {
+      "id": "D3_017",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the person is asked by the conservatee to purchase a luxury vehicle because the con..."
+    },
+    {
+      "id": "D3_018",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Functional Assessment",
+      "difficulty": "easy",
+      "question_preview": "A conservatee with a spinal cord injury has clear decision-making capacity but cannot perform physic..."
+    },
+    {
+      "id": "D3_019",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with moderate intellectual disability is proposed for orthopedic surgery to correct a ..."
+    },
+    {
+      "id": "D3_020",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "medium",
+      "question_preview": "A conservator receives a request to enroll a conservatee with developmental disability in a pharmace..."
+    },
+    {
+      "id": "D3_021",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "hard",
+      "question_preview": "A conservatee asks the conservator to make a large gift to a charity the conservatee has supported f..."
+    },
+    {
+      "id": "D3_022",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "easy",
+      "question_preview": "A limited conservatee retains several rights that a plenary conservatee loses. In a limited conserva..."
+    },
+    {
+      "id": "D4_015",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "medium",
+      "question_preview": "A proposed conservatee receives notice of a probate conservatorship petition and a notice that a hea..."
+    },
+    {
+      "id": "D4_016",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Conservatee's Rights",
+      "difficulty": "easy",
+      "question_preview": "A conservatee directly receives a salary payment from an employer. What is the conservatee's right r..."
+    },
+    {
+      "id": "D4_017",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "medium",
+      "question_preview": "During a five-year court investigator review, the investigator interviews the conservatee separately..."
+    },
+    {
+      "id": "D4_018",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "hard",
+      "question_preview": "An estate conservator's bond expires on March 31. The conservator does not renew it and continues to..."
+    },
+    {
+      "id": "D4_019",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Modification of Conservatorships or Trusts, Successors",
+      "difficulty": "medium",
+      "question_preview": "A conservatee who has been plenary for five years shows significant cognitive improvement. The conse..."
+    },
+    {
+      "id": "D4_020",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Compliance with Monitoring Systems",
+      "difficulty": "hard",
+      "question_preview": "A conservator files the first account covering the period from appointment (January 15) through Dece..."
+    },
+    {
+      "id": "D4_021",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Financial Powers of Attorney",
+      "difficulty": "medium",
+      "question_preview": "A durable power of attorney names an agent to manage the principal's finances. The principal subsequ..."
+    },
+    {
+      "id": "D4_022",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Mediation",
+      "difficulty": "easy",
+      "question_preview": "A conservatee's adult child frequently disagrees with the conservator's care decisions and accuses t..."
+    },
+    {
+      "id": "D4_023",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Substituted Judgment",
+      "difficulty": "hard",
+      "question_preview": "A conservatee has substantial assets and no will or trust. The conservatee once mentioned to family ..."
+    },
+    {
+      "id": "D4_024",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "medium",
+      "question_preview": "At a conservatorship hearing, the proposed conservatee is present but visibly anxious and unable to ..."
+    },
+    {
+      "id": "D4_025",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Conservatee's Rights",
+      "difficulty": "medium",
+      "question_preview": "A conservatee wishes to send a personal letter to family members living out of state. The conservato..."
+    },
+    {
+      "id": "D4_026",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "hard",
+      "question_preview": "A conservator pays personal bills (utilities, food, care attendants) from the estate account without..."
+    },
+    {
+      "id": "D4_027",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Compliance with Monitoring Systems",
+      "difficulty": "easy",
+      "question_preview": "A conservator is required to file an accounting with the court. The accounting must include which of..."
+    },
+    {
+      "id": "D4_028",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's court-appointed counsel provides a report stating that the conservatee wants to fire..."
+    },
+    {
+      "id": "D6_031",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "easy",
+      "question_preview": "You were appointed conservator of the estate for a 72-year-old client three weeks ago. While gatheri..."
+    },
+    {
+      "id": "D6_032",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "medium",
+      "question_preview": "You've located three bank accounts during the estate inventory: one in the client's sole name, one t..."
+    },
+    {
+      "id": "D6_033",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory/Marshal of Estate",
+      "difficulty": "hard",
+      "question_preview": "During inventory, you discover the conservatee owns a rental property mortgaged for $180,000 with an..."
+    },
+    {
+      "id": "D6_034",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Personal Property Management",
+      "difficulty": "easy",
+      "question_preview": "The conservatee owns several items of personal property: a 1965 vintage guitar, a collection of 200+..."
+    },
+    {
+      "id": "D6_035",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Personal Property Management",
+      "difficulty": "medium",
+      "question_preview": "You are managing the estate of a conservatee with a diagnosed anxiety disorder who has expressed str..."
+    },
+    {
+      "id": "D6_036",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "easy",
+      "question_preview": "You've just taken over management of a conservatee's rental property. The property manager was termi..."
+    },
+    {
+      "id": "D6_037",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "medium",
+      "question_preview": "A conservatee owns a multi-unit apartment complex generating $8,000 monthly rental income but requir..."
+    },
+    {
+      "id": "D6_038",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales/Escrow Procedures",
+      "difficulty": "medium",
+      "question_preview": "You've decided to sell a conservatee's home. The property was appraised by the probate referee at $4..."
+    },
+    {
+      "id": "D6_039",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales/Escrow Procedures",
+      "difficulty": "hard",
+      "question_preview": "You're selling conservatee real property in probate. The sales contract contains financing contingen..."
+    },
+    {
+      "id": "D6_040",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "easy",
+      "question_preview": "Upon appointment as conservator of the estate, you receive a forwarded stock certificate from a brok..."
+    },
+    {
+      "id": "D6_041",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "medium",
+      "question_preview": "You've discovered that the conservatee owns a safe deposit box with keys registered in two names: th..."
+    },
+    {
+      "id": "D6_042",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "easy",
+      "question_preview": "A conservatee is 68 years old with a work history and turned 65 two years ago. She receives Social S..."
+    },
+    {
+      "id": "D6_043",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "medium",
+      "question_preview": "A conservatee receives SSDI (Social Security Disability Insurance) benefits of $1,200/month and live..."
+    },
+    {
+      "id": "D6_044",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "hard",
+      "question_preview": "A conservatee receives SSI (Supplemental Security Income) of $994/month (2026 Federal Benefit Rate)...."
+    },
+    {
+      "id": "D6_045",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA, VA, Medicare",
+      "difficulty": "medium",
+      "question_preview": "A conservatee is a wartime veteran with significant medical needs and limited income. She requests a..."
+    },
+    {
+      "id": "D6_046",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "easy",
+      "question_preview": "A conservatee requires skilled nursing facility (SNF) care and is applying for Medi-Cal to help cove..."
+    },
+    {
+      "id": "D6_047",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "medium",
+      "question_preview": "A conservatee is married and being admitted to a skilled nursing facility on Medi-Cal. The couple ha..."
+    },
+    {
+      "id": "D6_048",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning",
+      "difficulty": "hard",
+      "question_preview": "A conservatee transferred $100,000 to a family member in March 2024 and then was admitted to a nursi..."
+    },
+    {
+      "id": "D6_049",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning/Budgeting",
+      "difficulty": "easy",
+      "question_preview": "You've been appointed conservator and are developing a financial plan and budget for the conservatee..."
+    },
+    {
+      "id": "D6_050",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning/Budgeting",
+      "difficulty": "medium",
+      "question_preview": "You've created a budget for the conservatee showing monthly income of $2,000 (Social Security and pe..."
+    },
+    {
+      "id": "D6_051",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "easy",
+      "question_preview": "The conservatee's sister established a revocable living trust for her own estate 10 years ago. Upon ..."
+    },
+    {
+      "id": "D6_052",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's revocable living trust contains instructions that all income 'shall be invested in d..."
+    },
+    {
+      "id": "D6_053",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "hard",
+      "question_preview": "A conservatee is the beneficiary of a trust established by her deceased parent. The trust document s..."
+    },
+    {
+      "id": "D6_054",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with developmental disabilities receives SSI benefits ($994/month in 2026) and lives i..."
+    },
+    {
+      "id": "D6_055",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "hard",
+      "question_preview": "A first-party Special Needs Trust is established for a conservatee age 45 with autism who receives S..."
+    },
+    {
+      "id": "D6_056",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "hard",
+      "question_preview": "A first-party Special Needs Trust for a conservatee age 52 with cerebral palsy and Medi-Cal coverage..."
+    },
+    {
+      "id": "D6_057",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "easy",
+      "question_preview": "You're managing a conservatee's estate with $200,000 in liquid assets and a 15-year time horizon. Th..."
+    },
+    {
+      "id": "D6_058",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's estate has $300,000 under your management. The prior conservator invested 85% in U.S..."
+    },
+    {
+      "id": "D6_059",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule / Investment Principles",
+      "difficulty": "hard",
+      "question_preview": "A conservatee inherits $500,000 from a relative's estate. You receive a call from a financial adviso..."
+    },
+    {
+      "id": "D6_060",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "medium",
+      "question_preview": "You've engaged a CPA to prepare the conservatee's annual tax returns and a financial advisor to mana..."
+    },
+    {
+      "id": "D5_010",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Needs Assessment",
+      "difficulty": "easy",
+      "question_preview": "A newly appointed conservator for a 72-year-old woman with early-stage arthritis learns that the con..."
+    },
+    {
+      "id": "D5_011",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Care Plans and Reports",
+      "difficulty": "medium",
+      "question_preview": "A conservator develops a comprehensive care plan for a 58-year-old conservatee with moderate intelle..."
+    },
+    {
+      "id": "D5_012",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Residential Placement",
+      "difficulty": "hard",
+      "question_preview": "A conservator is exploring residential options for a 79-year-old conservatee with moderate cognitive..."
+    },
+    {
+      "id": "D5_013",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Well-Being Oversight and Monitoring",
+      "difficulty": "medium",
+      "question_preview": "A conservator visits the SNF where their conservatee resides. During the visit, the conservator noti..."
+    },
+    {
+      "id": "D5_014",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Abuse, Neglect and Exploitation",
+      "difficulty": "easy",
+      "question_preview": "During a facility visit, a conservator notices their 84-year-old conservatee has several new finger-..."
+    },
+    {
+      "id": "D5_015",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Community and Professional Resources",
+      "difficulty": "hard",
+      "question_preview": "A conservator is responsible for a 35-year-old with a documented developmental disability (intellect..."
+    },
+    {
+      "id": "D5_016",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Death of the Conservatee",
+      "difficulty": "medium",
+      "question_preview": "A conservatee dies unexpectedly from acute illness. The conservator has been managing both person an..."
+    },
+    {
+      "id": "D5_017",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Needs Assessment",
+      "difficulty": "medium",
+      "question_preview": "A conservator for a 67-year-old with severe heart disease must file a Level-of-Care Determination wi..."
+    },
+    {
+      "id": "D5_018",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Well-Being Oversight and Monitoring",
+      "difficulty": "hard",
+      "question_preview": "A conservator is monitoring a conservatee in an RCFE (Residential Care Facility for Elderly). The co..."
+    },
+    {
+      "id": "D7_008",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "End of Life Care",
+      "difficulty": "easy",
+      "question_preview": "A conservator discovers that their conservatee has a living will on file at the hospital that expres..."
+    },
+    {
+      "id": "D7_009",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Special Medical Decisions and Conditions",
+      "difficulty": "medium",
+      "question_preview": "A conservator receives a proposal from a research hospital to enroll their conservatee in an experim..."
+    },
+    {
+      "id": "D7_010",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Medical Advocacy",
+      "difficulty": "medium",
+      "question_preview": "A conservator visits an SNF and reviews the medication record for their conservatee, who is taking f..."
+    },
+    {
+      "id": "D7_011",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "DNR/Withhold/Withdraw Medical Care",
+      "difficulty": "hard",
+      "question_preview": "A conservatee has advanced dementia and has been hospitalized with aspiration pneumonia. The hospita..."
+    },
+    {
+      "id": "D7_012",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Durable Power of Attorney for Health Care",
+      "difficulty": "easy",
+      "question_preview": "A conservator is appointed for a 70-year-old conservatee. During intake, the conservator learns that..."
+    },
+    {
+      "id": "D7_013",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "End of Life Care",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with advanced cancer is in hospice care and experiencing significant pain. The hospice..."
+    },
+    {
+      "id": "D7_014",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Medical Advocacy",
+      "difficulty": "medium",
+      "question_preview": "A conservator's 68-year-old conservatee with a history of significant cognitive decline is prescribe..."
+    },
+    {
+      "id": "D1_034",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Fiduciary Licensing Requirements",
+      "difficulty": "medium",
+      "question_preview": "Maria is a professional fiduciary managing estates for 2 unrelated individuals and acts as trustee f..."
+    },
+    {
+      "id": "D1_035",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Fiduciary Licensing Requirements",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary's license is set to expire on December 15, 2026. She has been managing seve..."
+    },
+    {
+      "id": "D1_036",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fiduciary Practice Management / Fees",
+      "difficulty": "medium",
+      "question_preview": "A conservator was appointed on March 1, 2026. She completed the Inventory & Appraisal filing on May ..."
+    },
+    {
+      "id": "D1_037",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fiduciary Practice Management / Fees",
+      "difficulty": "hard",
+      "question_preview": "A conservator submitted a fee petition requesting $15,000 for the first year of managing a conservat..."
+    },
+    {
+      "id": "D1_038",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "NGA Standards & Ethical Principles",
+      "difficulty": "easy",
+      "question_preview": "A conservator is deciding whether to place her conservatee in a secure-perimeter memory care facilit..."
+    },
+    {
+      "id": "D1_039",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Risk Management",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary manages multiple estates and trusts. She has not obtained professional liab..."
+    },
+    {
+      "id": "D1_040",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "medium",
+      "question_preview": "A professional fiduciary serves as conservator for two sisters whose parents have passed. One sister..."
+    },
+    {
+      "id": "D1_041",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Confidentiality",
+      "difficulty": "medium",
+      "question_preview": "A conservator receives a call from the conservatee's sister, who is very concerned about the conserv..."
+    },
+    {
+      "id": "D1_042",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Alternatives to Court-Appointed Fiduciaries",
+      "difficulty": "easy",
+      "question_preview": "An elderly person with early-stage cognitive decline has executed a durable power of attorney for fi..."
+    },
+    {
+      "id": "D1_043",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Working with Co-Fiduciary",
+      "difficulty": "medium",
+      "question_preview": "Two co-conservators are managing a conservatee's estate. They disagree on a major financial decision..."
+    },
+    {
+      "id": "D1_044",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Code of Ethics & NGA Standards",
+      "difficulty": "easy",
+      "question_preview": "Under NGA Standards of Practice, a guardian/conservator serves in multiple simultaneous roles. Which..."
+    },
+    {
+      "id": "D1_045",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Confidentiality",
+      "difficulty": "hard",
+      "question_preview": "A conservator discovers evidence that the conservatee is being neglected by a paid caregiver at the ..."
+    },
+    {
+      "id": "D1_046",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Risk Management",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary is managing a conservatee's $500,000 investment portfolio. An investment ad..."
+    },
+    {
+      "id": "D1_047",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Fiduciary Practice Management / Fees",
+      "difficulty": "easy",
+      "question_preview": "When invoicing a conservatee for administrative services, which of the following costs are typically..."
+    },
+    {
+      "id": "D1_048",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "Conflict of Interest",
+      "difficulty": "hard",
+      "question_preview": "A professional fiduciary manages estates for multiple clients. She has invested several client estat..."
+    },
+    {
+      "id": "D1_049",
+      "domain": 1,
+      "domainName": "Professional Practices",
+      "subtopic": "CA Fiduciary Licensing Requirements",
+      "difficulty": "easy",
+      "question_preview": "A conservator must report certain information to the Professional Fiduciaries Bureau in her annual s..."
+    },
+    {
+      "id": "D2_027",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "medium",
+      "question_preview": "A person with a serious mental illness is unable to provide for their personal safety because of act..."
+    },
+    {
+      "id": "D2_028",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "hard",
+      "question_preview": "A person is under an LPS conservatorship for serious mental illness and is on involuntary antipsycho..."
+    },
+    {
+      "id": "D2_029",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "LPS Conservatorships",
+      "difficulty": "easy",
+      "question_preview": "Which of the following statements about LPS conservatorships is accurate?..."
+    },
+    {
+      "id": "D2_030",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with advanced dementia periodically accuses the conservator of stealing her money and ..."
+    },
+    {
+      "id": "D2_031",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with intellectual disability and limited communication abilities is expressing resista..."
+    },
+    {
+      "id": "D2_032",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "medium",
+      "question_preview": "A conservator discovers a conflict between the conservatee's adult children over access and decision..."
+    },
+    {
+      "id": "D2_033",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Family Dynamics & Concerns",
+      "difficulty": "easy",
+      "question_preview": "When family members engage in disputes over a conservatee's care or decision-making, what role does ..."
+    },
+    {
+      "id": "D2_034",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "medium",
+      "question_preview": "A conservatee from a collectivist cultural background prefers that major decisions (medical, residen..."
+    },
+    {
+      "id": "D2_035",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Social History, Values & Beliefs",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with advanced dementia has a documented lifelong commitment to environmental causes an..."
+    },
+    {
+      "id": "D2_036",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "easy",
+      "question_preview": "A conservatee with moderate intellectual disability has significant limitations in self-care and dec..."
+    },
+    {
+      "id": "D2_037",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Mental Illness & Intellectual Disabilities",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with bipolar disorder is experiencing a manic episode with inflated self-confidence an..."
+    },
+    {
+      "id": "D2_038",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Cultural & Religious Diversity",
+      "difficulty": "hard",
+      "question_preview": "A conservatee practices a religious faith that relies exclusively on prayer for healing and rejects ..."
+    },
+    {
+      "id": "D2_039",
+      "domain": 2,
+      "domainName": "Conservatees",
+      "subtopic": "Difficult Clients",
+      "difficulty": "easy",
+      "question_preview": "A conservatee with severe anxiety disorder frequently expresses worry that the conservator will aban..."
+    },
+    {
+      "id": "D3_023",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with fluctuating dementia has good days when they can discuss their life and poor days..."
+    },
+    {
+      "id": "D3_024",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with autism spectrum disorder is proposed for a dental procedure under light sedation...."
+    },
+    {
+      "id": "D3_025",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Least Restrictive Alternatives",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with a history of medication non-compliance is proposed for a new psychiatric treatmen..."
+    },
+    {
+      "id": "D3_026",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Functional Assessment",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with progressive multiple sclerosis has significant physical disability (requires whee..."
+    },
+    {
+      "id": "D3_027",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the person receives a court order granting exclusive medical authority to authorize..."
+    },
+    {
+      "id": "D3_028",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with significant wealth has asked to establish a personal foundation to support disabi..."
+    },
+    {
+      "id": "D3_029",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Capacity",
+      "difficulty": "easy",
+      "question_preview": "A conservatee with intellectual disability retains the legal right to marry and to make or amend a w..."
+    },
+    {
+      "id": "D3_030",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Informed Consent",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with limited English proficiency is proposed for an outpatient surgical procedure. The..."
+    },
+    {
+      "id": "D3_031",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Limits to Fiduciary's Authority",
+      "difficulty": "easy",
+      "question_preview": "A conservator of the person receives a request from a conservatee's employer to authorize deductions..."
+    },
+    {
+      "id": "D3_032",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Functional Assessment",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with traumatic brain injury has regained physical mobility and can perform self-care t..."
+    },
+    {
+      "id": "D3_033",
+      "domain": 3,
+      "domainName": "Surrogate Decision-Making",
+      "subtopic": "Fiduciary Responsibilities",
+      "difficulty": "medium",
+      "question_preview": "A conservatee with moderate dementia strongly wants to give a significant sum of money to a new roma..."
+    },
+    {
+      "id": "D4_029",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "easy",
+      "question_preview": "A temporary conservatorship hearing is scheduled with only 3 days of notice to the proposed conserva..."
+    },
+    {
+      "id": "D4_030",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Conservatee's Rights",
+      "difficulty": "medium",
+      "question_preview": "A conservatee receives a monthly public benefits payment (SSI) of $943. The conservator, as represen..."
+    },
+    {
+      "id": "D4_031",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Substituted Judgment",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with advanced dementia has no will or trust. The conservatee's assets total $600,000. ..."
+    },
+    {
+      "id": "D4_032",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "medium",
+      "question_preview": "A court investigator conducts a periodic review and interviews the conservatee separately. The conse..."
+    },
+    {
+      "id": "D4_033",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "hard",
+      "question_preview": "An estate conservator invests conservatee assets in a speculative technology stock that the conserva..."
+    },
+    {
+      "id": "D4_034",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Modification of Conservatorships or Trusts, Successors",
+      "difficulty": "medium",
+      "question_preview": "A conservatee who has been plenary for eight years is now living independently in supported housing ..."
+    },
+    {
+      "id": "D4_035",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Financial Powers of Attorney",
+      "difficulty": "medium",
+      "question_preview": "A nondurable power of attorney signed three years ago names an agent to manage the principal's finan..."
+    },
+    {
+      "id": "D4_036",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Compliance with Monitoring Systems",
+      "difficulty": "hard",
+      "question_preview": "A conservator files an accounting showing opening assets of $150,000 and closing assets of $120,000...."
+    },
+    {
+      "id": "D4_037",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Mediation",
+      "difficulty": "easy",
+      "question_preview": "A conservatee's adult child repeatedly contacts the conservator with concerns about medication choic..."
+    },
+    {
+      "id": "D4_038",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Substituted Judgment",
+      "difficulty": "hard",
+      "question_preview": "A conservatee with dementia has substantial assets and a surviving spouse. Before dementia, the cons..."
+    },
+    {
+      "id": "D4_039",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Due Process",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's attorney submits a report to the court requesting appointment of a second attorney, ..."
+    },
+    {
+      "id": "D4_040",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Court Supervision, Sanctions, Surcharge",
+      "difficulty": "hard",
+      "question_preview": "An estate conservator uses conservatee assets to pay a $15,000 bill for home modifications (installi..."
+    },
+    {
+      "id": "D4_041",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Relationship with Other Officers of the Court",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's court-appointed counsel requests that the conservator provide detailed documentation..."
+    },
+    {
+      "id": "D4_042",
+      "domain": 4,
+      "domainName": "Legal and Courts",
+      "subtopic": "Financial Powers of Attorney",
+      "difficulty": "hard",
+      "question_preview": "A principal executed a springing power of attorney for financial matters that becomes effective \"upo..."
+    },
+    {
+      "id": "D6_061",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "medium",
+      "question_preview": "A conservator of the estate manages a diversified investment portfolio including rental properties, ..."
+    },
+    {
+      "id": "D6_062",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "hard",
+      "question_preview": "The conservator discovers that the conservatee (age 58, disabled) has significant income from a trus..."
+    },
+    {
+      "id": "D6_063",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "medium",
+      "question_preview": "A conservator faces a Medi-Cal planning challenge: the conservatee has $200,000 in assets, qualifies..."
+    },
+    {
+      "id": "D6_064",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "medium",
+      "question_preview": "The conservatee receives a large inheritance check while in conservatorship. The conservator must de..."
+    },
+    {
+      "id": "D6_065",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Consulting with Other Professionals",
+      "difficulty": "hard",
+      "question_preview": "A conservator discovers a conflict between recommendations from the conservatee's treating physician..."
+    },
+    {
+      "id": "D6_066",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning and Budgeting",
+      "difficulty": "easy",
+      "question_preview": "A conservator of the estate creates an annual budget for the conservatee. The budget includes: month..."
+    },
+    {
+      "id": "D6_067",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "medium",
+      "question_preview": "The conservatee owns a rental property generating $2,200/month in gross rent. The property requires ..."
+    },
+    {
+      "id": "D6_068",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Property Management",
+      "difficulty": "medium",
+      "question_preview": "The conservatee's home (primary residence, estimated value $450,000) is fully paid off but is in dis..."
+    },
+    {
+      "id": "D6_069",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales and Escrow Procedures",
+      "difficulty": "hard",
+      "question_preview": "A conservator proposes to sell the conservatee's rental property appraised at $500,000. The probate ..."
+    },
+    {
+      "id": "D6_070",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Real Estate Sales and Escrow Procedures",
+      "difficulty": "medium",
+      "question_preview": "A conservator prepares to list the conservatee's home for sale. The property is valued at $350,000. ..."
+    },
+    {
+      "id": "D6_071",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Personal Property Management",
+      "difficulty": "medium",
+      "question_preview": "The conservatee's estate includes a collection of vintage automobiles (5 classic cars valued at $120..."
+    },
+    {
+      "id": "D6_072",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "easy",
+      "question_preview": "A conservator receives the conservatee's securities (stock certificates for publicly traded companie..."
+    },
+    {
+      "id": "D6_073",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Asset Safekeeping and Protection",
+      "difficulty": "medium",
+      "question_preview": "The conservatee's estate includes a safe deposit box containing jewelry, documents, and a handwritte..."
+    },
+    {
+      "id": "D6_074",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory and Marshal of Estate",
+      "difficulty": "easy",
+      "question_preview": "A conservator was appointed on March 15, 2026. When must the Inventory and Appraisal be filed with t..."
+    },
+    {
+      "id": "D6_075",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Inventory and Marshal of Estate",
+      "difficulty": "medium",
+      "question_preview": "During marshaling, the conservator discovers that the conservatee has multiple bank accounts with va..."
+    },
+    {
+      "id": "D6_076",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA and Disability",
+      "difficulty": "medium",
+      "question_preview": "A conservatee age 35 is receiving SSDI (Social Security Disability Insurance) based on a work histor..."
+    },
+    {
+      "id": "D6_077",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Public Benefits \u2014 SSA and Disability",
+      "difficulty": "hard",
+      "question_preview": "A conservatee age 28 receives SSI ($994/month in 2026) and lives in the home of a family member. The..."
+    },
+    {
+      "id": "D6_078",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medicare Planning and Enrollment",
+      "difficulty": "medium",
+      "question_preview": "The conservatee turns 65 on September 15, 2026. The conservatee is currently employed part-time and ..."
+    },
+    {
+      "id": "D6_079",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medicare Planning and Enrollment",
+      "difficulty": "hard",
+      "question_preview": "The conservatee (age 72, on Medicare) is admitted to a skilled nursing facility (SNF) with a diagnos..."
+    },
+    {
+      "id": "D6_080",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning and Eligibility",
+      "difficulty": "medium",
+      "question_preview": "The conservatee (age 74) qualifies for community-based Medi-Cal and receives long-term care services..."
+    },
+    {
+      "id": "D6_081",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Medi-Cal Planning and Eligibility",
+      "difficulty": "hard",
+      "question_preview": "The conservatee (age 69) has $220,000 in liquid assets and has been advised that they will need SNF ..."
+    },
+    {
+      "id": "D6_082",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "medium",
+      "question_preview": "A revocable living trust created by the conservatee 10 years ago lists $400,000 in real property and..."
+    },
+    {
+      "id": "D6_083",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Trusts and Trust Administration",
+      "difficulty": "hard",
+      "question_preview": "A first-party Special Needs Trust (SNT) was created with $250,000 of the conservatee's own assets. T..."
+    },
+    {
+      "id": "D6_084",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Special Needs Trusts",
+      "difficulty": "hard",
+      "question_preview": "A third-party SNT for a beneficiary age 28 with autism is funded by the beneficiary's parents with $..."
+    },
+    {
+      "id": "D6_085",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule and Investment Principles",
+      "difficulty": "medium",
+      "question_preview": "A conservator is managing an investment portfolio of $500,000 for a conservatee age 85 with a 15-yea..."
+    },
+    {
+      "id": "D6_086",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule and Investment Principles",
+      "difficulty": "hard",
+      "question_preview": "A conservatorship estate has $200,000 available for investment. The conservator is risk-averse and i..."
+    },
+    {
+      "id": "D6_087",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Prudent Investor Rule and Investment Principles",
+      "difficulty": "medium",
+      "question_preview": "A conservatee's trust document gives the trustee specific investment instructions: 'Invest all trust..."
+    },
+    {
+      "id": "D6_088",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Veterans Benefits Planning",
+      "difficulty": "medium",
+      "question_preview": "A conservatee is a wartime veteran age 74 with no service-connected disability. The conservatee has ..."
+    },
+    {
+      "id": "D6_089",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Veterans Benefits Planning",
+      "difficulty": "hard",
+      "question_preview": "A conservatee is a veteran age 68 with service-connected disability (rated 50%). The conservatee rec..."
+    },
+    {
+      "id": "D6_090",
+      "domain": 6,
+      "domainName": "Financial Management",
+      "subtopic": "Financial Planning and Budgeting",
+      "difficulty": "hard",
+      "question_preview": "A conservator creates a 5-year financial projection for a 72-year-old conservatee. The projection in..."
+    },
+    {
+      "id": "D5_019",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Care Plans and Reports",
+      "difficulty": "medium",
+      "question_preview": "Maria is a 72-year-old conservatee with early-stage dementia recently placed in a residential facili..."
+    },
+    {
+      "id": "D5_020",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Residential Placement",
+      "difficulty": "hard",
+      "question_preview": "A conservator is considering placing an 85-year-old conservatee with moderate dementia in a secure-p..."
+    },
+    {
+      "id": "D5_021",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Residential Placement",
+      "difficulty": "medium",
+      "question_preview": "The conservator is evaluating three potential residential facilities for an elderly conservatee. Wha..."
+    },
+    {
+      "id": "D5_022",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Abuse, Neglect and Exploitation",
+      "difficulty": "hard",
+      "question_preview": "While visiting a conservatee at a facility, the conservator notices unexplained bruises on the conse..."
+    },
+    {
+      "id": "D5_023",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Abuse, Neglect and Exploitation",
+      "difficulty": "medium",
+      "question_preview": "A conservator receives a notification that the conservatee's ATM card has been repeatedly used to wi..."
+    },
+    {
+      "id": "D5_024",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Death of the Conservatee",
+      "difficulty": "easy",
+      "question_preview": "A conservatee has passed away. What is the conservator's immediate responsibility and what form must..."
+    },
+    {
+      "id": "D5_025",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Community and Professional Resources",
+      "difficulty": "easy",
+      "question_preview": "A conservator is seeking services for a conservatee with developmental disabilities who needs assist..."
+    },
+    {
+      "id": "D5_026",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Needs Assessment",
+      "difficulty": "hard",
+      "question_preview": "A conservator is conducting the mandatory 60-day Level-of-Care Determination. What specific elements..."
+    },
+    {
+      "id": "D5_027",
+      "domain": 5,
+      "domainName": "Personal Management",
+      "subtopic": "Well-Being Oversight and Monitoring",
+      "difficulty": "medium",
+      "question_preview": "A conservator is responsible for ongoing well-being oversight of a conservatee in a care facility. W..."
+    },
+    {
+      "id": "D7_015",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Special Medical Decisions and Conditions",
+      "difficulty": "hard",
+      "question_preview": "A conservator receives a request from a physician to authorize psychotropic medication for a conserv..."
+    },
+    {
+      "id": "D7_016",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Special Medical Decisions and Conditions",
+      "difficulty": "hard",
+      "question_preview": "A research hospital requests the conservator's authorization for an experimental medical treatment p..."
+    },
+    {
+      "id": "D7_017",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "DNR/Withhold/Withdraw Medical Care",
+      "difficulty": "medium",
+      "question_preview": "A conservatee has a living will that states a preference for comfort care only if in a terminal cond..."
+    },
+    {
+      "id": "D7_018",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "DNR/Withhold/Withdraw Medical Care",
+      "difficulty": "hard",
+      "question_preview": "A conservatee has no advance directive and has been minimally responsive for six months due to sever..."
+    },
+    {
+      "id": "D7_019",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Durable Power of Attorney for Health Care",
+      "difficulty": "medium",
+      "question_preview": "A conservatee executed a Durable Power of Attorney for Health Care (DPAHC) designating her daughter ..."
+    },
+    {
+      "id": "D7_020",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "Durable Power of Attorney for Health Care",
+      "difficulty": "hard",
+      "question_preview": "A conservator discovers that the conservatee has a DPAHC designating a healthcare agent, but the age..."
+    },
+    {
+      "id": "D7_021",
+      "domain": 7,
+      "domainName": "Medical Decision-Making",
+      "subtopic": "End of Life Care",
+      "difficulty": "medium",
+      "question_preview": "A conservator is discussing palliative and hospice care options for a conservatee in the final stage..."
+    }
+  ],
+  "next_available_ids": {
+    "D1": "D1_050",
+    "D2": "D2_040",
+    "D3": "D3_034",
+    "D4": "D4_043",
+    "D5": "D5_028",
+    "D6": "D6_091",
+    "D7": "D7_022"
+  }
+}
