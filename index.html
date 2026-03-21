@@ -568,6 +568,31 @@ body {
   color: var(--primary);
 }
 
+.type-options {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.type-btn {
+  padding: 8px 18px;
+  border: 2px solid var(--border);
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 13px;
+  font-weight: 600;
+  background: transparent;
+  color: var(--text-secondary);
+  transition: all var(--transition);
+  font-family: inherit;
+}
+
+.type-btn.selected {
+  border-color: var(--primary);
+  background: var(--primary-light);
+  color: var(--primary);
+}
+
 .subtopic-selector {
   display: flex;
   flex-wrap: wrap;
@@ -1543,6 +1568,15 @@ body {
         </div>
 
         <div class="setup-section">
+          <h3>Question Type</h3>
+          <div class="type-options">
+            <button class="type-btn selected" onclick="selectType('all')">All Types</button>
+            <button class="type-btn" onclick="selectType('scenario')">Scenario</button>
+            <button class="type-btn" onclick="selectType('knowledge')">Knowledge</button>
+          </div>
+        </div>
+
+        <div class="setup-section">
           <h3>Quiz Size</h3>
           <div class="slider-container">
             <input type="range" id="quizSizeSlider" min="1" max="50" value="10" oninput="updateAvailableCount()" onchange="updateAvailableCount()">
@@ -2144,11 +2178,13 @@ function renderQuizSetup() {
 function updateAvailableCount() {
   const domains = getSelectedDomains();
   const difficulty = getSelectedDifficulty();
+  const type = getSelectedType();
   const newOnly = document.getElementById('newQuestionsOnlyToggle')?.checked || false;
 
   let available = state.questions.filter(q => {
     if (domains.length > 0 && !domains.includes(q.domain)) return false;
     if (difficulty !== 'all' && q.difficulty !== difficulty) return false;
+    if (type !== 'all' && q.type !== type) return false;
     if (newOnly) {
       const newQs = getNewQuestions();
       return newQs.some(nq => nq.id === q.id);
@@ -2224,6 +2260,21 @@ function selectDifficulty(level) {
   updateAvailableCount();
 }
 
+function getSelectedType() {
+  const selected = document.querySelector('.type-options .type-btn.selected');
+  if (!selected) return 'all';
+  const text = selected.textContent.toLowerCase();
+  return text === 'all types' ? 'all' : text;
+}
+
+function selectType(type) {
+  document.querySelectorAll('.type-options .type-btn').forEach(btn => {
+    btn.classList.remove('selected');
+  });
+  event.target.classList.add('selected');
+  updateAvailableCount();
+}
+
 function selectOrder(order) {
   const buttons = document.querySelectorAll('.difficulty-options');
   buttons[buttons.length - 1].querySelectorAll('.diff-btn').forEach(btn => {
@@ -2250,7 +2301,7 @@ function toggleAllDomains() {
   }
 }
 
-function filterQuestions(domains, difficulty) {
+function filterQuestions(domains, difficulty, type) {
   let filtered = state.questions;
 
   if (domains.length > 0) {
@@ -2259,6 +2310,10 @@ function filterQuestions(domains, difficulty) {
 
   if (difficulty !== 'all') {
     filtered = filtered.filter(q => q.difficulty === difficulty);
+  }
+
+  if (type && type !== 'all') {
+    filtered = filtered.filter(q => q.type === type);
   }
 
   if (state.selectedSubtopics.size > 0) {
@@ -2285,11 +2340,12 @@ function shuffleArray(arr) {
 function startQuiz(customQuestions = null) {
   const domains = getSelectedDomains();
   const difficulty = getSelectedDifficulty();
+  const type = getSelectedType();
   const size = parseInt(document.getElementById('quizSizeSlider').value);
 
   state.newQuestionsOnly = document.getElementById('newQuestionsOnlyToggle')?.checked || false;
 
-  let questions = customQuestions || filterQuestions(domains, difficulty);
+  let questions = customQuestions || filterQuestions(domains, difficulty, type);
   questions = shuffleArray(questions);
 
   state.currentQuizQuestions = questions.slice(0, size);
