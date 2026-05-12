@@ -1,0 +1,7 @@
+PROJECT_HANDOVER.md
+*.bak
+*.bak_*
+_batch_*.json
+*.NEW.json
+.DS_Store
+Thumbs.db
