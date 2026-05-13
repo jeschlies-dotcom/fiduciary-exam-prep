@@ -2481,7 +2481,7 @@
                         "Accept the gift only if its value is under $300"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Accepting a gift from a beneficiary or close family member of a conservatee creates an appearance of impropriety and can compromise the fiduciary\u0027s loyalty and independence â€” the source of the gift is effectively the estate. NGA Standards and the CA Code of Ethics direct fiduciaries to avoid even the appearance of self-dealing or conflicts. Declining and documenting both the offer and the refusal protects the fiduciary professionally. Accepting the gift (options 0, 2, 3) â€” even with disclosure or under a dollar threshold â€” still creates a problematic interest in the family relationship and the estate\u0027s eventual distribution.",
+        "explanation":  "Accepting a gift from a beneficiary or close family member of a conservatee creates an appearance of impropriety and can compromise the fiduciary\u0027s loyalty and independence — the source of the gift is effectively the estate. NGA Standards and the CA Code of Ethics direct fiduciaries to avoid even the appearance of self-dealing or conflicts. Declining and documenting both the offer and the refusal protects the fiduciary professionally. Accepting the gift (options 0, 2, 3) — even with disclosure or under a dollar threshold — still creates a problematic interest in the family relationship and the estate\u0027s eventual distribution.",
         "tags":  [
                      "conflict-of-interest",
                      "gifts-from-clients",
@@ -2505,7 +2505,7 @@
                         "Confidentiality applies only to financial records; medical and personal information is not subject to confidentiality duties"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Under NGA Standards and the CA Code of Ethics, the fiduciary must guard the conservatee\u0027s personal information and disclose only what is reasonably necessary to perform fiduciary duties, generally consistent with what the conservatee would want. Mandated reporting of abuse/neglect/exploitation is a recognized exception. The \u0027family-may-know\u0027 option is wrong because family members are not automatically entitled to private information. The \u0027attorney-client privilege\u0027 option is wrong â€” the fiduciary-beneficiary relationship does NOT carry that privilege. The \u0027financial-records-only\u0027 option ignores that medical and personal information receive heightened protection under HIPAA and state law.",
+        "explanation":  "Under NGA Standards and the CA Code of Ethics, the fiduciary must guard the conservatee\u0027s personal information and disclose only what is reasonably necessary to perform fiduciary duties, generally consistent with what the conservatee would want. Mandated reporting of abuse/neglect/exploitation is a recognized exception. The \u0027family-may-know\u0027 option is wrong because family members are not automatically entitled to private information. The \u0027attorney-client privilege\u0027 option is wrong — the fiduciary-beneficiary relationship does NOT carry that privilege. The \u0027financial-records-only\u0027 option ignores that medical and personal information receive heightened protection under HIPAA and state law.",
         "tags":  [
                      "confidentiality",
                      "hipaa",
@@ -2523,13 +2523,13 @@
         "difficulty":  "medium",
         "question":  "A professional fiduciary serving as conservator of the estate inherits a complex situation: the conservatee owns a small commercial building, holds restricted stock in a private company, and recently received a settlement that may affect Medi-Cal eligibility. The fiduciary is competent in general fiduciary practice but is not a CPA, attorney, or real estate professional. What is the most appropriate next step?",
         "options":  [
-                        "Assemble a professional team â€” attorney, CPA, real estate professional, and benefits planner â€” and document the basis for each engagement",
+                        "Assemble a professional team — attorney, CPA, real estate professional, and benefits planner — and document the basis for each engagement",
                         "Handle everything personally to minimize estate expenses charged to the conservatee",
                         "Decline the appointment immediately because the matters exceed routine fiduciary practice",
                         "Hire only one general practitioner attorney who can advise on all three issues"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Under NGA Standards and the CA Code of Ethics, the fiduciary must recognize the limits of their expertise and retain appropriate professionals when matters exceed their competence. Engaging an attorney, CPA, real estate professional, and benefits planner â€” each within their specialty â€” protects the conservatee. Handling everything personally risks malpractice and conservatee harm. Declining the appointment abandons the conservatee unnecessarily. Hiring a single general-practitioner attorney sacrifices the specialization that the estate\u0027s complexity warrants. The cost of qualified professionals is a legitimate estate expense subject to court review.",
+        "explanation":  "Under NGA Standards and the CA Code of Ethics, the fiduciary must recognize the limits of their expertise and retain appropriate professionals when matters exceed their competence. Engaging an attorney, CPA, real estate professional, and benefits planner — each within their specialty — protects the conservatee. Handling everything personally risks malpractice and conservatee harm. Declining the appointment abandons the conservatee unnecessarily. Hiring a single general-practitioner attorney sacrifices the specialization that the estate\u0027s complexity warrants. The cost of qualified professionals is a legitimate estate expense subject to court review.",
         "tags":  [
                      "working-with-professionals",
                      "scope-of-competence",
@@ -2553,7 +2553,7 @@
                         "Do not hire the son\u0027s agency if other reasonable alternatives exist; if no alternative is feasible, fully disclose the relationship to the court in advance, document that terms are in the conservatee\u0027s best interest, and obtain court approval"
                     ],
         "correctAnswer":  3,
-        "explanation":  "Hiring a family member to provide services to the conservatorship is prohibited if other reasonable alternatives exist. If a family-member arrangement is genuinely the best option for the conservatee, the fiduciary must fully disclose the relationship to the court, demonstrate that terms are in the conservatee\u0027s best interest compared to independent providers, and obtain prior court approval. Options 0 and 1 commit self-dealing and breach the duty of loyalty. Option 2 misstates the rule â€” the test is whether reasonable alternatives exist, not solely whether the family member\u0027s price is lowest.",
+        "explanation":  "Hiring a family member to provide services to the conservatorship is prohibited if other reasonable alternatives exist. If a family-member arrangement is genuinely the best option for the conservatee, the fiduciary must fully disclose the relationship to the court, demonstrate that terms are in the conservatee\u0027s best interest compared to independent providers, and obtain prior court approval. Options 0 and 1 commit self-dealing and breach the duty of loyalty. Option 2 misstates the rule — the test is whether reasonable alternatives exist, not solely whether the family member\u0027s price is lowest.",
         "tags":  [
                      "self-dealing",
                      "hiring-family",
@@ -2602,7 +2602,7 @@
                         "It is acceptable as long as the entries are made reasonably contemporaneously and accurately reflect the work performed; the fiduciary should aim for same-day entry going forward"
                     ],
         "correctAnswer":  3,
-        "explanation":  "Best practice is contemporaneous time entry to support the reasonableness of fees, but reasonable delay (such as catching up a few business days later) is acceptable so long as entries are accurate, detailed, and reflect actual work. The reasonableness test for fees requires that the activity was necessary, the rate reasonable, and skill levels appropriately differentiated. The \u0027serious breach\u0027 option overstates the issue. The \u0027rounding\u0027 option confuses rounding conventions with the timing of entry. The \u0027fraud\u0027 option wrongly treats same-day entry as a legal requirement â€” it is a best practice, not an absolute rule.",
+        "explanation":  "Best practice is contemporaneous time entry to support the reasonableness of fees, but reasonable delay (such as catching up a few business days later) is acceptable so long as entries are accurate, detailed, and reflect actual work. The reasonableness test for fees requires that the activity was necessary, the rate reasonable, and skill levels appropriately differentiated. The \u0027serious breach\u0027 option overstates the issue. The \u0027rounding\u0027 option confuses rounding conventions with the timing of entry. The \u0027fraud\u0027 option wrongly treats same-day entry as a legal requirement — it is a best practice, not an absolute rule.",
         "tags":  [
                      "recordkeeping",
                      "billing-practices",
@@ -2623,7 +2623,7 @@
                         "Yes, interim fees can be drawn at any time as long as a fee petition is later filed",
                         "Yes, but only if total interim fees stay under $5,000",
                         "Yes, because urgent work justifies bypassing normal fee-approval procedures",
-                        "No â€” the fiduciary generally cannot request fees until at least 90 days after appointment AND the Inventory \u0026 Appraisal has been filed, and fees must be approved by the court"
+                        "No — the fiduciary generally cannot request fees until at least 90 days after appointment AND the Inventory \u0026 Appraisal has been filed, and fees must be approved by the court"
                     ],
         "correctAnswer":  3,
         "explanation":  "California practice generally bars a conservator from requesting fees until at least 90 days after appointment AND after the Inventory \u0026 Appraisal is filed. Fees must be reasonable and court-approved; periodic self-payment exceeding projected total fees is also prohibited. This rule protects the estate and ensures court oversight of compensation. The \u0027draw any time\u0027 and \u0027urgent work justifies bypass\u0027 options ignore the timing and approval rules. The \u0027$5,000 cap\u0027 has no basis in California fee rules.",
@@ -2651,7 +2651,7 @@
                         "Continuing education hours can be self-selected from any general business or law topic"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Licensed professional fiduciaries are required by the Professional Fiduciaries Bureau to complete continuing education hours each renewal period in topics relevant to fiduciary practice (such as ethics, estate management, capacity, and elder law). This protects consumers by ensuring ongoing competency. Option 0 is false. Option 2 misstates the rule â€” CE is required of all licensees, not just those disciplined. Option 4 misstates the requirement: CE must be in approved, fiduciary-relevant subject areas, not any general topic.",
+        "explanation":  "Licensed professional fiduciaries are required by the Professional Fiduciaries Bureau to complete continuing education hours each renewal period in topics relevant to fiduciary practice (such as ethics, estate management, capacity, and elder law). This protects consumers by ensuring ongoing competency. Option 0 is false. Option 2 misstates the rule — CE is required of all licensees, not just those disciplined. Option 4 misstates the requirement: CE must be in approved, fiduciary-relevant subject areas, not any general topic.",
         "tags":  [
                      "continuing-education",
                      "license-renewal",
@@ -2667,7 +2667,7 @@
         "type":  "scenario",
         "subtopic":  "Working with Co-Fiduciaries",
         "difficulty":  "hard",
-        "question":  "Two co-conservators of the estate â€” a licensed professional fiduciary and the conservatee\u0027s adult daughter â€” disagree about whether to sell the conservatee\u0027s home or rent it out while she lives in memory care. The professional fiduciary believes selling is in the conservatee\u0027s best financial interest; the daughter wants to keep the property in the family. They have reached an impasse after multiple discussions. What is the appropriate next step?",
+        "question":  "Two co-conservators of the estate — a licensed professional fiduciary and the conservatee\u0027s adult daughter — disagree about whether to sell the conservatee\u0027s home or rent it out while she lives in memory care. The professional fiduciary believes selling is in the conservatee\u0027s best financial interest; the daughter wants to keep the property in the family. They have reached an impasse after multiple discussions. What is the appropriate next step?",
         "options":  [
                         "Petition the court for instructions, presenting both views and supporting analyses, and let the court resolve the disagreement",
                         "The professional fiduciary should act unilaterally because of professional expertise",
@@ -2675,7 +2675,7 @@
                         "Hire a mediator and bind both parties to whatever decision the mediator reaches"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Co-fiduciaries who cannot resolve a material disagreement should petition the court for instructions rather than act unilaterally. The court can weigh both perspectives, the conservatee\u0027s best interest, and the substituted-judgment evidence (if any) to decide. The \u0027professional acts unilaterally\u0027 and \u0027daughter prevails because she is family\u0027 options both ignore that co-fiduciaries share authority â€” neither can override the other based on status or expertise. The \u0027private mediator binds both\u0027 option is wrong because a private mediator cannot bind co-fiduciaries to a decision affecting court-supervised estate property; the court retains ultimate authority.",
+        "explanation":  "Co-fiduciaries who cannot resolve a material disagreement should petition the court for instructions rather than act unilaterally. The court can weigh both perspectives, the conservatee\u0027s best interest, and the substituted-judgment evidence (if any) to decide. The \u0027professional acts unilaterally\u0027 and \u0027daughter prevails because she is family\u0027 options both ignore that co-fiduciaries share authority — neither can override the other based on status or expertise. The \u0027private mediator binds both\u0027 option is wrong because a private mediator cannot bind co-fiduciaries to a decision affecting court-supervised estate property; the court retains ultimate authority.",
         "tags":  [
                      "co-fiduciary",
                      "disagreement",
@@ -2699,7 +2699,7 @@
                         "This is an indirect conflict of interest; the fiduciary must decline the referral fee, disclose the advisor relationship to the court, and confirm the advisor was selected solely on merit for the conservatee\u0027s benefit"
                     ],
         "correctAnswer":  3,
-        "explanation":  "Receiving any compensation, kickback, or \u0027courtesy fee\u0027 from a professional retained on behalf of the conservatee is a classic indirect conflict of interest and a form of self-dealing. The fiduciary must refuse the payment, ensure the advisor was chosen on the merits for the conservatee, and disclose the relationship to the court for transparency. The two \u0027accept the fee\u0027 options permit the fiduciary to receive an undisclosed benefit from a third party at the conservatee\u0027s expense. The \u0027reject any prior relationship\u0027 option is overbroad â€” prior working relationships are not prohibited as long as the selection is merit-based and properly disclosed.",
+        "explanation":  "Receiving any compensation, kickback, or \u0027courtesy fee\u0027 from a professional retained on behalf of the conservatee is a classic indirect conflict of interest and a form of self-dealing. The fiduciary must refuse the payment, ensure the advisor was chosen on the merits for the conservatee, and disclose the relationship to the court for transparency. The two \u0027accept the fee\u0027 options permit the fiduciary to receive an undisclosed benefit from a third party at the conservatee\u0027s expense. The \u0027reject any prior relationship\u0027 option is overbroad — prior working relationships are not prohibited as long as the selection is merit-based and properly disclosed.",
         "tags":  [
                      "indirect-conflict",
                      "referral-fees",
@@ -2724,7 +2724,7 @@
                         "Least restrictive alternative and self-determination of the person"
                     ],
         "correctAnswer":  2,
-        "explanation":  "The NGA Standards of Practice cover applicable law, the guardian\u0027s relationship to the court, the professional relationship with the person, relationship with family/friends, relationship with other professionals, informed consent, decision-making standards, least restrictive alternative, and self-determination. The Standards do NOT prescribe maximum allowable hourly rates â€” fee reasonableness is judged case-by-case under local court practice and statutory standards. Options 0, 1, and 3 are all genuine subject areas in the Standards.",
+        "explanation":  "The NGA Standards of Practice cover applicable law, the guardian\u0027s relationship to the court, the professional relationship with the person, relationship with family/friends, relationship with other professionals, informed consent, decision-making standards, least restrictive alternative, and self-determination. The Standards do NOT prescribe maximum allowable hourly rates — fee reasonableness is judged case-by-case under local court practice and statutory standards. Options 0, 1, and 3 are all genuine subject areas in the Standards.",
         "tags":  [
                      "nga-standards",
                      "standards-of-practice",
@@ -2748,7 +2748,7 @@
                         "Temporary conservatorship, which can be renewed indefinitely"
                     ],
         "correctAnswer":  1,
-        "explanation":  "A limited conservatorship is the type designed specifically for adults with developmental disabilities. Unlike a general probate conservatorship (which removes most rights), the limited conservatorship grants the conservator only specific enumerated powers â€” preserving the conservatee\u0027s autonomy in all areas not specifically restricted by the court. This honors the least-restrictive-alternative principle. Option 0 is overbroad. Option 2 is wrong â€” LPS is for grave disability from serious mental illness or severe substance use disorder, not developmental disability. Option 3 misuses temporary conservatorship, which is short-term emergency authority.",
+        "explanation":  "A limited conservatorship is the type designed specifically for adults with developmental disabilities. Unlike a general probate conservatorship (which removes most rights), the limited conservatorship grants the conservator only specific enumerated powers — preserving the conservatee\u0027s autonomy in all areas not specifically restricted by the court. This honors the least-restrictive-alternative principle. Option 0 is overbroad. Option 2 is wrong — LPS is for grave disability from serious mental illness or severe substance use disorder, not developmental disability. Option 3 misuses temporary conservatorship, which is short-term emergency authority.",
         "tags":  [
                      "limited-conservatorship",
                      "developmental-disability",
@@ -2772,7 +2772,7 @@
                         "The right to sell their primary residence without court oversight"
                     ],
         "correctAnswer":  1,
-        "explanation":  "California probate law preserves to the conservatee the right to make or amend a will (testamentary capacity is a separate domain-specific capacity assessment) and the right to marry, unless the judge specifically determines the conservatee lacks that capacity. Option 0 is wrong â€” appointment of a conservator of the estate generally removes the conservatee\u0027s contracting capacity (with limited exceptions). Option 2 misstates the rule â€” the conservator does NOT have exclusive medical authority unless the court has specifically granted it. Option 3 is wrong â€” residence sales require court approval.",
+        "explanation":  "California probate law preserves to the conservatee the right to make or amend a will (testamentary capacity is a separate domain-specific capacity assessment) and the right to marry, unless the judge specifically determines the conservatee lacks that capacity. Option 0 is wrong — appointment of a conservator of the estate generally removes the conservatee\u0027s contracting capacity (with limited exceptions). Option 2 misstates the rule — the conservator does NOT have exclusive medical authority unless the court has specifically granted it. Option 3 is wrong — residence sales require court approval.",
         "tags":  [
                      "retained-rights",
                      "testamentary-capacity",
@@ -2796,7 +2796,7 @@
                         "Hide the medication discontinuation from family members to avoid family conflict"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Capacity is presumed and is domain-specific â€” a conservatee can lack capacity in some areas while retaining it in others. Where the conservator does NOT have exclusive medical authority, the conservatee retains the right to refuse treatment if currently capable of an informed decision. The fiduciary should respect that decision while documenting it, coordinating with the treating provider, and preparing for potential relapse. Option 0 wrongly overrides a capable refusal. Option 2 misuses LPS, which has specific grave-disability criteria. Option 3 violates transparency and proper care coordination.",
+        "explanation":  "Capacity is presumed and is domain-specific — a conservatee can lack capacity in some areas while retaining it in others. Where the conservator does NOT have exclusive medical authority, the conservatee retains the right to refuse treatment if currently capable of an informed decision. The fiduciary should respect that decision while documenting it, coordinating with the treating provider, and preparing for potential relapse. Option 0 wrongly overrides a capable refusal. Option 2 misuses LPS, which has specific grave-disability criteria. Option 3 violates transparency and proper care coordination.",
         "tags":  [
                      "presumption-of-capacity",
                      "domain-specific-capacity",
@@ -2821,7 +2821,7 @@
                         "Any inability to manage finances responsibly as a result of any mental health condition"
                     ],
         "correctAnswer":  0,
-        "explanation":  "SB 43 expanded \u0027gravely disabled\u0027 in two ways: (1) it added severe substance use disorder (and co-occurring disorders) as standalone qualifying conditions alongside serious mental illness, and (2) it expanded the functional inability test beyond food/clothing/shelter to also include personal safety and necessary medical care. The \u0027food, clothing, or shelter only\u0027 option is the pre-SB 43 definition. The \u0027diagnosis-only\u0027 option confuses a CARE Court eligibility consideration with LPS criteria â€” diagnosis alone is not sufficient. The \u0027inability to manage finances\u0027 option is far too broad and not the legal standard.",
+        "explanation":  "SB 43 expanded \u0027gravely disabled\u0027 in two ways: (1) it added severe substance use disorder (and co-occurring disorders) as standalone qualifying conditions alongside serious mental illness, and (2) it expanded the functional inability test beyond food/clothing/shelter to also include personal safety and necessary medical care. The \u0027food, clothing, or shelter only\u0027 option is the pre-SB 43 definition. The \u0027diagnosis-only\u0027 option confuses a CARE Court eligibility consideration with LPS criteria — diagnosis alone is not sufficient. The \u0027inability to manage finances\u0027 option is far too broad and not the legal standard.",
         "tags":  [
                      "lps-conservatorship",
                      "sb-43",
@@ -2845,7 +2845,7 @@
                         "Engage a qualified, neutral interpreter (not a family member) for substantive conversations with the conservatee, learn about and respect family decision-making norms, and document language and cultural preferences in the care plan"
                     ],
         "correctAnswer":  3,
-        "explanation":  "Cultural competency requires the fiduciary to provide meaningful language access (through a qualified, neutral interpreter â€” not a family member, who has potential conflicts) and to respect the conservatee\u0027s cultural norms about family-based decision-making. Routing communication exclusively through a family proxy denies the conservatee a direct voice. Insisting she learn English places an unreasonable burden on her. Excluding family entirely ignores that family involvement, properly bounded, is consistent with collectivist cultural values and the conservatee\u0027s preferences.",
+        "explanation":  "Cultural competency requires the fiduciary to provide meaningful language access (through a qualified, neutral interpreter — not a family member, who has potential conflicts) and to respect the conservatee\u0027s cultural norms about family-based decision-making. Routing communication exclusively through a family proxy denies the conservatee a direct voice. Insisting she learn English places an unreasonable burden on her. Excluding family entirely ignores that family involvement, properly bounded, is consistent with collectivist cultural values and the conservatee\u0027s preferences.",
         "tags":  [
                      "cultural-competency",
                      "language-access",
@@ -2869,7 +2869,7 @@
                         "Terminate the conservatee\u0027s access to all spending money to force compliance"
                     ],
         "correctAnswer":  2,
-        "explanation":  "Substance use relapse in a conservatee calls for a measured, person-centered response. Best practice is to engage the conservatee respectfully, coordinate with treating providers, reassess care needs, and only consider more restrictive interventions if supportive measures fail and risk is high. Option 0 jumps to LPS â€” which requires grave disability and is the county\u0027s role to petition. Option 1 ignores legitimate fiduciary safety concerns. Option 3 (cutting off money entirely) is punitive, restrictive, and unlikely to address the underlying disorder.",
+        "explanation":  "Substance use relapse in a conservatee calls for a measured, person-centered response. Best practice is to engage the conservatee respectfully, coordinate with treating providers, reassess care needs, and only consider more restrictive interventions if supportive measures fail and risk is high. Option 0 jumps to LPS — which requires grave disability and is the county\u0027s role to petition. Option 1 ignores legitimate fiduciary safety concerns. Option 3 (cutting off money entirely) is punitive, restrictive, and unlikely to address the underlying disorder.",
         "tags":  [
                      "substance-use-disorder",
                      "relapse",
@@ -2893,7 +2893,7 @@
                         "Defer the care plan until the conservatee can articulate her preferences fully"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Person-centered planning combines the conservatee\u0027s currently expressed preferences (to the greatest extent of her ability) with a robust social history reflecting her lifelong values, relationships, religious practices, and stated wishes. Option 0 ignores the values dimension entirely. Option 2 substitutes a family member\u0027s view for the conservatee\u0027s actual history. Option 3 delays care unnecessarily â€” the plan can be drafted now and updated as more is learned.",
+        "explanation":  "Person-centered planning combines the conservatee\u0027s currently expressed preferences (to the greatest extent of her ability) with a robust social history reflecting her lifelong values, relationships, religious practices, and stated wishes. Option 0 ignores the values dimension entirely. Option 2 substitutes a family member\u0027s view for the conservatee\u0027s actual history. Option 3 delays care unnecessarily — the plan can be drafted now and updated as more is learned.",
         "tags":  [
                      "person-centered-planning",
                      "social-history",
@@ -2917,7 +2917,7 @@
                         "A limited conservatorship is for the estate only; a general conservatorship is for the person"
                     ],
         "correctAnswer":  1,
-        "explanation":  "A limited conservatorship is designed for adults with developmental disabilities (e.g., intellectual disability, cerebral palsy, autism, epilepsy, or related conditions originating before age 22). The court grants the conservator only specific enumerated powers â€” all other rights remain with the conservatee. Option 0 confuses limited conservatorship with LPS. Option 2 confuses limited with temporary conservatorship. Option 3 confuses the limited/general distinction with the person/estate distinction.",
+        "explanation":  "A limited conservatorship is designed for adults with developmental disabilities (e.g., intellectual disability, cerebral palsy, autism, epilepsy, or related conditions originating before age 22). The court grants the conservator only specific enumerated powers — all other rights remain with the conservatee. Option 0 confuses limited conservatorship with LPS. Option 2 confuses limited with temporary conservatorship. Option 3 confuses the limited/general distinction with the person/estate distinction.",
         "tags":  [
                      "limited-conservatorship",
                      "general-probate-conservatorship",
@@ -2941,7 +2941,7 @@
                         "Defer entirely to the daughter\u0027s preference because she sees the conservatee most often"
                     ],
         "correctAnswer":  2,
-        "explanation":  "California law and NGA standards both prefer the conservatee\u0027s personal residence and the least-restrictive setting that adequately meets her needs. The right approach is a functional assessment, layered supports, and ongoing reassessment â€” placement is appropriate only when supports prove inadequate. Option 0 jumps to the most restrictive setting before exhausting alternatives. Option 1 ignores safety concerns. Option 3 substitutes a family member\u0027s preference for the conservatee\u0027s needs-based and preference-based analysis.",
+        "explanation":  "California law and NGA standards both prefer the conservatee\u0027s personal residence and the least-restrictive setting that adequately meets her needs. The right approach is a functional assessment, layered supports, and ongoing reassessment — placement is appropriate only when supports prove inadequate. Option 0 jumps to the most restrictive setting before exhausting alternatives. Option 1 ignores safety concerns. Option 3 substitutes a family member\u0027s preference for the conservatee\u0027s needs-based and preference-based analysis.",
         "tags":  [
                      "least-restrictive-setting",
                      "independent-living",
@@ -2958,15 +2958,15 @@
         "type":  "scenario",
         "subtopic":  "Cultural \u0026 Religious Diversity",
         "difficulty":  "medium",
-        "question":  "A conservatee is an observant Orthodox Jew who keeps kosher. The skilled nursing facility where she now lives has a general menu and a vegetarian option, but no kosher kitchen. The dietary director suggests she \u0027just eat the vegetarian meals â€” close enough.\u0027 What should the professional fiduciary do?",
+        "question":  "A conservatee is an observant Orthodox Jew who keeps kosher. The skilled nursing facility where she now lives has a general menu and a vegetarian option, but no kosher kitchen. The dietary director suggests she \u0027just eat the vegetarian meals — close enough.\u0027 What should the professional fiduciary do?",
         "options":  [
                         "Accept the vegetarian alternative because it is reasonably close to kosher and avoids cost",
-                        "Advocate for accommodation â€” kosher meal service (catered or partner program), supervised kosher preparation, or transfer to a facility with kosher options â€” and document the conservatee\u0027s religious dietary requirements in her care plan as a non-negotiable preference",
+                        "Advocate for accommodation — kosher meal service (catered or partner program), supervised kosher preparation, or transfer to a facility with kosher options — and document the conservatee\u0027s religious dietary requirements in her care plan as a non-negotiable preference",
                         "Insist that the conservatee abandon religious dietary practices since she has dementia and may not remember",
                         "Wait until the conservatee complains before raising the issue with the facility"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Religious practice â€” including dietary observance â€” is a retained right and a core element of the conservatee\u0027s identity and dignity. Under NGA Ethical Principles and CA Code of Ethics, the fiduciary must respect and advocate for the conservatee\u0027s religious and cultural practices. Vegetarian is NOT kosher (kosher concerns slaughter, separation of meat and dairy, kashrut supervision). Option 0 substitutes the facility\u0027s convenience for the conservatee\u0027s faith. Option 2 wrongly assumes dementia eliminates the importance of lifelong religious commitments. Option 3 fails the duty of proactive advocacy.",
+        "explanation":  "Religious practice — including dietary observance — is a retained right and a core element of the conservatee\u0027s identity and dignity. Under NGA Ethical Principles and CA Code of Ethics, the fiduciary must respect and advocate for the conservatee\u0027s religious and cultural practices. Vegetarian is NOT kosher (kosher concerns slaughter, separation of meat and dairy, kashrut supervision). Option 0 substitutes the facility\u0027s convenience for the conservatee\u0027s faith. Option 2 wrongly assumes dementia eliminates the importance of lifelong religious commitments. Option 3 fails the duty of proactive advocacy.",
         "tags":  [
                      "religious-observance",
                      "kosher",
@@ -3188,7 +3188,7 @@
                         "Tell the family there is nothing they can do until the father is completely incapacitated"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Conservatorship is the most restrictive intervention into a person\u0027s autonomy and should be a last resort. When valid POA and AHCD instruments are in place and functioning, they serve as less restrictive alternatives that should be preferred. NGA standards and California law both require that the least restrictive alternative be chosen. Option A is wrong because the fiduciary owes a duty of professional judgment, not blind acceptance of cases. Option C misstates limited conservatorship, which is reserved for adults with developmental disabilities under Probate Code Â§1801, not general elder cognitive decline. Option D is also wrong; if circumstances later deteriorate, conservatorship may become appropriate, and families can monitor and act when warranted.",
+        "explanation":  "Conservatorship is the most restrictive intervention into a person\u0027s autonomy and should be a last resort. When valid POA and AHCD instruments are in place and functioning, they serve as less restrictive alternatives that should be preferred. NGA standards and California law both require that the least restrictive alternative be chosen. Option A is wrong because the fiduciary owes a duty of professional judgment, not blind acceptance of cases. Option C misstates limited conservatorship, which is reserved for adults with developmental disabilities under Probate Code §1801, not general elder cognitive decline. Option D is also wrong; if circumstances later deteriorate, conservatorship may become appropriate, and families can monitor and act when warranted.",
         "tags":  [
                      "least-restrictive-alternative",
                      "POA",
@@ -3384,7 +3384,7 @@
                         "Grant a general (plenary) probate conservatorship instead because it is administratively simpler"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Limited conservatorship under Probate Code Â§1801 is reserved for adults with developmental disabilities and is designed to preserve as much autonomy as possible. The court grants only the specific powers (among the seven available) that the proposed conservatee cannot manage; the conservatee retains all powers not specifically granted to the conservator. Functional assessment must drive the analysis, and the least restrictive alternative principle controls. Option A defeats the entire purpose of limited conservatorship. Option C overgeneralizes; some adults with developmental disabilities benefit from targeted limited conservatorships. Option D is incorrect because converting a limited case to plenary just for administrative convenience violates the least restrictive alternative principle and harms the conservatee\u0027s rights.",
+        "explanation":  "Limited conservatorship under Probate Code §1801 is reserved for adults with developmental disabilities and is designed to preserve as much autonomy as possible. The court grants only the specific powers (among the seven available) that the proposed conservatee cannot manage; the conservatee retains all powers not specifically granted to the conservator. Functional assessment must drive the analysis, and the least restrictive alternative principle controls. Option A defeats the entire purpose of limited conservatorship. Option C overgeneralizes; some adults with developmental disabilities benefit from targeted limited conservatorships. Option D is incorrect because converting a limited case to plenary just for administrative convenience violates the least restrictive alternative principle and harms the conservatee\u0027s rights.",
         "tags":  [
                      "limited-conservatorship",
                      "developmental-disability",
@@ -3409,7 +3409,7 @@
                         "LPS conservatorships are governed by the same statutes and forms as probate conservatorships"
                     ],
         "correctAnswer":  1,
-        "explanation":  "LPS conservatorships, governed by the Lanterman-Petris-Short Act (Welfare \u0026 Institutions Code Â§5350 et seq.), have several distinctive features: (1) only the county (Public Guardian or designated officer) may petition, not private parties or family; (2) they apply only to persons who are \u0027gravely disabled\u0027 due to a qualifying mental disorder, severe substance use disorder, or co-occurring conditions (broadened by SB 43); (3) they expire after one year and must be re-petitioned and renewed annually with a fresh showing. Option A misstates the petitioning rules. Option C ignores the annual renewal requirement. Option D ignores that LPS is a separate legal framework from probate conservatorships, with different statutes, different forms, and different substantive standards.",
+        "explanation":  "LPS conservatorships, governed by the Lanterman-Petris-Short Act (Welfare \u0026 Institutions Code §5350 et seq.), have several distinctive features: (1) only the county (Public Guardian or designated officer) may petition, not private parties or family; (2) they apply only to persons who are \u0027gravely disabled\u0027 due to a qualifying mental disorder, severe substance use disorder, or co-occurring conditions (broadened by SB 43); (3) they expire after one year and must be re-petitioned and renewed annually with a fresh showing. Option A misstates the petitioning rules. Option C ignores the annual renewal requirement. Option D ignores that LPS is a separate legal framework from probate conservatorships, with different statutes, different forms, and different substantive standards.",
         "tags":  [
                      "LPS-conservatorship",
                      "gravely-disabled",
@@ -3454,12 +3454,12 @@
         "question":  "A conservator wants to make a $50,000 charitable gift from the conservatee\u0027s estate to a university where the conservatee, while still capable, had pledged a donation she never completed. The conservatee\u0027s existing estate plan and prior conduct strongly support the gift. What must the conservator do?",
         "options":  [
                         "Simply write the check; gifts are part of routine estate management",
-                        "File a substituted judgment petition with the court under Probate Code Â§2580 et seq., providing evidence of the conservatee\u0027s prior expressed intent, the impact on her care needs, and any tax or estate-planning rationale, and obtain court authorization before making the gift",
+                        "File a substituted judgment petition with the court under Probate Code §2580 et seq., providing evidence of the conservatee\u0027s prior expressed intent, the impact on her care needs, and any tax or estate-planning rationale, and obtain court authorization before making the gift",
                         "Ask the conservatee for verbal consent and proceed if she nods affirmatively",
                         "Refuse to make the gift because conservators can never give to charities"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Gifts from a conservatee\u0027s estate, even those that reflect known prior wishes, require prior court approval through a substituted judgment petition under Probate Code Â§2580 et seq. The petition must show evidence of the conservatee\u0027s intent, that the gift is consistent with what the conservatee would have done, that it does not jeopardize the conservatee\u0027s ongoing care, and any estate-planning or tax rationale. Option A bypasses the required court process. Option C is wrong because the conservatee, by virtue of conservatorship, lacks capacity to authorize gifts informally. Option D is too absolute; charitable gifts can be authorized, but only through the substituted judgment process.",
+        "explanation":  "Gifts from a conservatee\u0027s estate, even those that reflect known prior wishes, require prior court approval through a substituted judgment petition under Probate Code §2580 et seq. The petition must show evidence of the conservatee\u0027s intent, that the gift is consistent with what the conservatee would have done, that it does not jeopardize the conservatee\u0027s ongoing care, and any estate-planning or tax rationale. Option A bypasses the required court process. Option C is wrong because the conservatee, by virtue of conservatorship, lacks capacity to authorize gifts informally. Option D is too absolute; charitable gifts can be authorized, but only through the substituted judgment process.",
         "tags":  [
                      "substituted-judgment",
                      "Probate-Code-2580",
@@ -3499,7 +3499,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "knowledge",
-        "subtopic":  "Tax Compliance â€” Fiduciary Income Tax",
+        "subtopic":  "Tax Compliance — Fiduciary Income Tax",
         "difficulty":  "medium",
         "question":  "A conservator manages an estate that generates interest, dividends, and rental income on assets titled in the conservatee\u0027s name. Which federal income tax return is the conservator generally responsible for filing on behalf of the conservatee?",
         "options":  [
@@ -3509,7 +3509,7 @@
                         "Form 990 (Return of Organization Exempt From Income Tax)"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Conservatorship assets remain titled in the conservatee\u0027s name; the conservatee is still a living individual taxpayer. The conservator therefore signs and files a Form 1040 on the conservatee\u0027s behalf, reporting the conservatee\u0027s income. Form 1041 is for estates of decedents and for irrevocable trusts that have their own taxpayer identification number â€” a conservatorship is not a separate taxable entity. Form 706 is the federal estate tax return filed only at death for taxable estates. Form 990 is for tax-exempt organizations.",
+        "explanation":  "Conservatorship assets remain titled in the conservatee\u0027s name; the conservatee is still a living individual taxpayer. The conservator therefore signs and files a Form 1040 on the conservatee\u0027s behalf, reporting the conservatee\u0027s income. Form 1041 is for estates of decedents and for irrevocable trusts that have their own taxpayer identification number — a conservatorship is not a separate taxable entity. Form 706 is the federal estate tax return filed only at death for taxable estates. Form 990 is for tax-exempt organizations.",
         "tags":  [
                      "tax-compliance",
                      "form-1040",
@@ -3523,17 +3523,17 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Property Tax â€” Prop 13 / Prop 19",
+        "subtopic":  "Property Tax — Prop 13 / Prop 19",
         "difficulty":  "hard",
         "question":  "An 84-year-old conservatee owns her long-time California home with a Prop 13 assessed value of $180,000; current market value is $1.4 million. Her adult daughter, who has never lived in the home, hopes to inherit it and continue paying the low property tax. The conservator is asked whether the daughter can keep the low base year value when she inherits. What is the best response under current California law?",
         "options":  [
-                        "Yes â€” the parent-child exclusion fully transfers the low base year value to any child who inherits a parent\u0027s primary residence, regardless of how the child uses it.",
-                        "No â€” since Prop 19 took effect in February 2021, the parent-child exclusion only applies if the child makes the home her own primary residence within one year, and even then only the first $1 million of value above the base is excluded.",
+                        "Yes — the parent-child exclusion fully transfers the low base year value to any child who inherits a parent\u0027s primary residence, regardless of how the child uses it.",
+                        "No — since Prop 19 took effect in February 2021, the parent-child exclusion only applies if the child makes the home her own primary residence within one year, and even then only the first $1 million of value above the base is excluded.",
                         "Yes, but only if the conservator petitions the court for a substituted-judgment order before the conservatee\u0027s death.",
-                        "No â€” Prop 19 eliminated the parent-child exclusion entirely for all real property transfers."
+                        "No — Prop 19 eliminated the parent-child exclusion entirely for all real property transfers."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Proposition 19 (effective Feb. 16, 2021) sharply limited the parent-child reassessment exclusion. The child must move in and claim the home as a principal residence within one year, and only roughly the first $1 million of value above the parent\u0027s base year value is excluded; value above that is reassessed. A daughter who never lives in the home does not qualify, so the property will be reassessed to market value. Option A reflects the pre-Prop 19 rule. Option C confuses substituted judgment, which cannot override property tax law. Option D overstates the change â€” the exclusion still exists but is narrowed.",
+        "explanation":  "Proposition 19 (effective Feb. 16, 2021) sharply limited the parent-child reassessment exclusion. The child must move in and claim the home as a principal residence within one year, and only roughly the first $1 million of value above the parent\u0027s base year value is excluded; value above that is reassessed. A daughter who never lives in the home does not qualify, so the property will be reassessed to market value. Option A reflects the pre-Prop 19 rule. Option C confuses substituted judgment, which cannot override property tax law. Option D overstates the change — the exclusion still exists but is narrowed.",
         "tags":  [
                      "property-tax",
                      "prop-19",
@@ -3547,13 +3547,13 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Prudent Investor Rule â€” Concentrated Stock",
+        "subtopic":  "Prudent Investor Rule — Concentrated Stock",
         "difficulty":  "hard",
         "question":  "A conservatee\u0027s estate is 78% concentrated in employer stock she received over a 40-year career; the stock has an extremely low cost basis. Selling now would diversify the portfolio but trigger a large capital gains tax. The conservatee is 91 and in declining health. What is the most prudent course of action for the conservator?",
         "options":  [
                         "Sell the entire concentrated position immediately to comply with the duty to diversify.",
                         "Hold the entire position indefinitely; diversification rules don\u0027t apply when the conservatee has sentimental ties to the stock.",
-                        "Weigh the diversification duty against the stepped-up basis the heirs would receive at death, and develop a documented plan â€” for example, partial sales using hedges or options â€” that balances risk reduction with tax efficiency.",
+                        "Weigh the diversification duty against the stepped-up basis the heirs would receive at death, and develop a documented plan — for example, partial sales using hedges or options — that balances risk reduction with tax efficiency.",
                         "Liquidate exactly half immediately as a safe-harbor compromise."
                     ],
         "correctAnswer":  2,
@@ -3582,7 +3582,7 @@
                         "As a payable-on-death account to the conservatee\u0027s heirs"
                     ],
         "correctAnswer":  1,
-        "explanation":  "Conservatorship accounts must be titled to reflect the fiduciary capacity and use the conservatee\u0027s Social Security number, because the funds belong to the conservatee â€” not the conservator or the conservator\u0027s firm. Joint accounts with the conservator (Option A) create commingling and presumption-of-survivorship issues. Titling under the firm\u0027s name (Option C) commingles client funds with business funds â€” a serious ethics breach. A POD designation (Option D) is an estate-planning step the conservator cannot unilaterally impose; it requires court authorization through substituted judgment.",
+        "explanation":  "Conservatorship accounts must be titled to reflect the fiduciary capacity and use the conservatee\u0027s Social Security number, because the funds belong to the conservatee — not the conservator or the conservator\u0027s firm. Joint accounts with the conservator (Option A) create commingling and presumption-of-survivorship issues. Titling under the firm\u0027s name (Option C) commingles client funds with business funds — a serious ethics breach. A POD designation (Option D) is an estate-planning step the conservator cannot unilaterally impose; it requires court authorization through substituted judgment.",
         "tags":  [
                      "account-titling",
                      "commingling",
@@ -3596,7 +3596,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "SSI â€” In-Kind Support and Maintenance",
+        "subtopic":  "SSI — In-Kind Support and Maintenance",
         "difficulty":  "hard",
         "question":  "A conservatee receives SSI and lives in a home owned by his sister, who charges no rent and pays his utilities. The conservatee has accumulated savings of $1,650 in the conservatorship estate. The conservator is concerned about benefit impact. Which statement most accurately describes the SSI risk?",
         "options":  [
@@ -3606,7 +3606,7 @@
                         "The savings of $1,650 will disqualify the conservatee because all conservatorship funds are deemed available regardless of amount."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Food and shelter provided by another person are treated by SSA as In-Kind Support and Maintenance (ISM). Under the Presumed Maximum Value or one-third reduction rules, SSI can be reduced (historically by about one-third of the federal benefit rate plus $20). Option A is wrong because being below the resource limit doesn\u0027t address the ISM income reduction. Option C is incorrect â€” ISM is explicitly counted under SSI rules. Option D misstates the resource limit, which for an individual in 2026 remains $2,000 (the $1,650 is under the limit).",
+        "explanation":  "Food and shelter provided by another person are treated by SSA as In-Kind Support and Maintenance (ISM). Under the Presumed Maximum Value or one-third reduction rules, SSI can be reduced (historically by about one-third of the federal benefit rate plus $20). Option A is wrong because being below the resource limit doesn\u0027t address the ISM income reduction. Option C is incorrect — ISM is explicitly counted under SSI rules. Option D misstates the resource limit, which for an individual in 2026 remains $2,000 (the $1,650 is under the limit).",
         "tags":  [
                      "SSI",
                      "in-kind-support-maintenance",
@@ -3621,7 +3621,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "knowledge",
-        "subtopic":  "Fee Setting â€” Probate Code Â§2640",
+        "subtopic":  "Fee Setting — Probate Code §2640",
         "difficulty":  "medium",
         "question":  "Which statement best describes the standard governing professional fiduciary fees in a California conservatorship of the estate?",
         "options":  [
@@ -3631,7 +3631,7 @@
                         "Fees can never exceed 5% of the estate\u0027s annual income, regardless of work performed."
                     ],
         "correctAnswer":  1,
-        "explanation":  "California Probate Code governs conservator compensation under a \u0027just and reasonable\u0027 standard. The court evaluates factors such as the time spent, complexity, results obtained, the conservator\u0027s professional license, and the size of the estate. Contemporaneous timekeeping is essential documentation. Option A is wrong: unlike statutory probate-estate fees, conservator fees are not a strict percentage. Option C is wrong because family agreement cannot replace court approval â€” the conservatee, not the family, is the fiduciary\u0027s principal. Option D invents a cap that does not exist.",
+        "explanation":  "California Probate Code governs conservator compensation under a \u0027just and reasonable\u0027 standard. The court evaluates factors such as the time spent, complexity, results obtained, the conservator\u0027s professional license, and the size of the estate. Contemporaneous timekeeping is essential documentation. Option A is wrong: unlike statutory probate-estate fees, conservator fees are not a strict percentage. Option C is wrong because family agreement cannot replace court approval — the conservatee, not the family, is the fiduciary\u0027s principal. Option D invents a cap that does not exist.",
         "tags":  [
                      "fiduciary-fees",
                      "just-and-reasonable",
@@ -3646,17 +3646,17 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Substituted Judgment â€” Gifting",
+        "subtopic":  "Substituted Judgment — Gifting",
         "difficulty":  "hard",
         "question":  "A conservatee with capacity issues has a long-documented pattern of making annual $15,000 holiday gifts to each of her three children. The conservator believes the gifting reduces estate tax exposure and fits the conservatee\u0027s clear historic intent. The estate is healthy and the gifts will not impair the conservatee\u0027s care budget. What must the conservator do?",
         "options":  [
-                        "Make the annual gifts directly under the conservator\u0027s general financial authority â€” gifts under the federal annual exclusion amount are exempt from any court oversight.",
+                        "Make the annual gifts directly under the conservator\u0027s general financial authority — gifts under the federal annual exclusion amount are exempt from any court oversight.",
                         "Refuse the gifts entirely because conservators have no legal mechanism to authorize gifts from a conservatee\u0027s estate.",
                         "Petition the court for a substituted-judgment order authorizing the gifts, presenting evidence of the conservatee\u0027s prior pattern, the estate\u0027s ability to absorb the gifts, and the absence of harm to the conservatee.",
                         "Have the children sign a promissory note for each gift to make it look like a loan."
                     ],
         "correctAnswer":  2,
-        "explanation":  "Conservators have no inherent authority to gift the conservatee\u0027s assets â€” gifting is not \u0027management.\u0027 California Probate Code\u0027s substituted-judgment provisions (around Â§2580) require court authorization for estate planning acts including gifts, trust creation, and beneficiary designations. The petition must show the act is consistent with the conservatee\u0027s known intent and does not harm her interests. Option A confuses federal gift-tax exclusion with state-law authority. Option B is too rigid. Option D is fraudulent disguising of the transaction.",
+        "explanation":  "Conservators have no inherent authority to gift the conservatee\u0027s assets — gifting is not \u0027management.\u0027 California Probate Code\u0027s substituted-judgment provisions (around §2580) require court authorization for estate planning acts including gifts, trust creation, and beneficiary designations. The petition must show the act is consistent with the conservatee\u0027s known intent and does not harm her interests. Option A confuses federal gift-tax exclusion with state-law authority. Option B is too rigid. Option D is fraudulent disguising of the transaction.",
         "tags":  [
                      "substituted-judgment",
                      "gifting",
@@ -3671,17 +3671,17 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Special Needs Trusts â€” First-Party (d4A)",
+        "subtopic":  "Special Needs Trusts — First-Party (d4A)",
         "difficulty":  "medium",
         "question":  "A 35-year-old conservatee with developmental disabilities receives a $200,000 personal-injury settlement. He currently receives SSI and Medi-Cal. The conservator wants to preserve those benefits. Which trust is the appropriate vehicle?",
         "options":  [
                         "A revocable living trust naming the conservatee as both grantor and beneficiary.",
-                        "A first-party (self-settled) special needs trust under 42 U.S.C. Â§1396p(d)(4)(A), funded with the settlement and containing a Medicaid payback provision.",
+                        "A first-party (self-settled) special needs trust under 42 U.S.C. §1396p(d)(4)(A), funded with the settlement and containing a Medicaid payback provision.",
                         "A third-party special needs trust funded by the conservatee\u0027s settlement.",
                         "An ABLE account, regardless of the amount, because ABLE balances are entirely exempt for SSI."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Because the settlement belongs to the disabled individual himself, the appropriate vehicle is a first-party (d4A) special needs trust authorized by OBRA-93. The trust must be established for someone under 65, irrevocable, for the sole benefit of the disabled individual, and contain a payback to state Medicaid at death. A revocable trust (A) is a countable resource and offers no benefits protection. A third-party SNT (C) cannot be funded with the beneficiary\u0027s own money. ABLE accounts (D) have annual contribution limits and an aggregate cap; only the first $100,000 is excluded for SSI â€” placing $200,000 there would exceed limits.",
+        "explanation":  "Because the settlement belongs to the disabled individual himself, the appropriate vehicle is a first-party (d4A) special needs trust authorized by OBRA-93. The trust must be established for someone under 65, irrevocable, for the sole benefit of the disabled individual, and contain a payback to state Medicaid at death. A revocable trust (A) is a countable resource and offers no benefits protection. A third-party SNT (C) cannot be funded with the beneficiary\u0027s own money. ABLE accounts (D) have annual contribution limits and an aggregate cap; only the first $100,000 is excluded for SSI — placing $200,000 there would exceed limits.",
         "tags":  [
                      "special-needs-trust",
                      "first-party-SNT",
@@ -3732,7 +3732,7 @@
                         "Confront the overseas recipient directly to demand return of the funds."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Professional fiduciaries are mandated reporters of elder financial abuse under California law. The pattern described â€” wire transfers, exploitative loans, and \u0027romance scam\u0027 indicators â€” is textbook elder financial exploitation. The conservator must report to APS and law enforcement promptly, secure accounts to stop further loss, and document everything to support both criminal investigation and civil recovery (including filing a creditor claim or civil action against the perpetrators and lenders). Option A absurdly punishes the victim. Option C breaches the mandatory-reporting duty. Option D risks personal safety and contaminates the investigation.",
+        "explanation":  "Professional fiduciaries are mandated reporters of elder financial abuse under California law. The pattern described — wire transfers, exploitative loans, and \u0027romance scam\u0027 indicators — is textbook elder financial exploitation. The conservator must report to APS and law enforcement promptly, secure accounts to stop further loss, and document everything to support both criminal investigation and civil recovery (including filing a creditor claim or civil action against the perpetrators and lenders). Option A absurdly punishes the victim. Option C breaches the mandatory-reporting duty. Option D risks personal safety and contaminates the investigation.",
         "tags":  [
                      "financial-exploitation",
                      "mandatory-reporter",
@@ -3757,7 +3757,7 @@
                         "Bonds are required only for non-professional family conservators; licensed professional fiduciaries are exempt."
                     ],
         "correctAnswer":  1,
-        "explanation":  "A surety bond protects the conservatorship estate against breach of fiduciary duty. The bond amount is generally calculated to cover the personal property of the estate plus one year\u0027s anticipated income, sometimes with additional sums for expected sales or recoveries. Real property held in fee is typically excluded (it can\u0027t easily walk off). The bond premium is an estate expense, not a fee paid to the court (A). The premium pays for coverage and isn\u0027t a personal payment forfeited regardless of outcome (C). Professional fiduciaries are NOT exempt â€” licensed status often makes obtaining a bond easier but doesn\u0027t waive the requirement (D).",
+        "explanation":  "A surety bond protects the conservatorship estate against breach of fiduciary duty. The bond amount is generally calculated to cover the personal property of the estate plus one year\u0027s anticipated income, sometimes with additional sums for expected sales or recoveries. Real property held in fee is typically excluded (it can\u0027t easily walk off). The bond premium is an estate expense, not a fee paid to the court (A). The premium pays for coverage and isn\u0027t a personal payment forfeited regardless of outcome (C). Professional fiduciaries are NOT exempt — licensed status often makes obtaining a bond easier but doesn\u0027t waive the requirement (D).",
         "tags":  [
                      "surety-bond",
                      "fiduciary-bond",
@@ -3771,17 +3771,17 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Medicare â€” Coverage Gaps",
+        "subtopic":  "Medicare — Coverage Gaps",
         "difficulty":  "medium",
         "question":  "A conservatee who has been on Medicare Part A and B is discharged from a 35-day hospital stay to a skilled nursing facility (SNF) for rehabilitation following a hip fracture. The conservator wants to know what Medicare will cover. Which statement is correct?",
         "options":  [
                         "Medicare Part A will cover SNF care indefinitely as long as the conservatee continues to improve.",
-                        "Medicare Part A covers up to 100 days of skilled nursing care per benefit period â€” fully covered days 1-20, with daily coinsurance days 21-100 â€” but only if the conservatee had a qualifying three-day inpatient hospital stay and continues to need skilled care.",
+                        "Medicare Part A covers up to 100 days of skilled nursing care per benefit period — fully covered days 1-20, with daily coinsurance days 21-100 — but only if the conservatee had a qualifying three-day inpatient hospital stay and continues to need skilled care.",
                         "Medicare covers no skilled nursing facility costs; only Medi-Cal covers SNF.",
                         "Medicare Part B, not Part A, is the source of SNF coverage."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Medicare Part A SNF benefits require a qualifying three-day inpatient hospital admission (observation status doesn\u0027t count) and admission to a Medicare-certified SNF within 30 days. Days 1-20 are fully covered; days 21-100 require daily coinsurance (over $200/day in recent years); after day 100 the beneficiary is fully responsible. Medicare never covers true long-term custodial care â€” that\u0027s where Medi-Cal becomes critical. Option A overstates duration. Option C is too absolute. Option D misidentifies the part â€” Part B covers outpatient services and physician care.",
+        "explanation":  "Medicare Part A SNF benefits require a qualifying three-day inpatient hospital admission (observation status doesn\u0027t count) and admission to a Medicare-certified SNF within 30 days. Days 1-20 are fully covered; days 21-100 require daily coinsurance (over $200/day in recent years); after day 100 the beneficiary is fully responsible. Medicare never covers true long-term custodial care — that\u0027s where Medi-Cal becomes critical. Option A overstates duration. Option C is too absolute. Option D misidentifies the part — Part B covers outpatient services and physician care.",
         "tags":  [
                      "Medicare",
                      "skilled-nursing-facility",
@@ -3806,7 +3806,7 @@
                         "The conservator should immediately list the home for sale; conservatees cannot remain in their own homes once a conservatorship is established."
                     ],
         "correctAnswer":  2,
-        "explanation":  "Encumbering a conservatee\u0027s real property generally requires prior court approval, just like a sale. The conservator must compare alternatives â€” selling and downsizing, a HELOC, applying for community-based Medi-Cal services, or family contribution â€” and document why the chosen option best serves the conservatee. HECM reverse mortgages have unique risks (occupancy requirement, declining equity, complex disclosures) that require careful vetting and court oversight. Option A is too absolute. Option B ignores court oversight on encumbrances. Option D ignores autonomy and best-interest principles.",
+        "explanation":  "Encumbering a conservatee\u0027s real property generally requires prior court approval, just like a sale. The conservator must compare alternatives — selling and downsizing, a HELOC, applying for community-based Medi-Cal services, or family contribution — and document why the chosen option best serves the conservatee. HECM reverse mortgages have unique risks (occupancy requirement, declining equity, complex disclosures) that require careful vetting and court oversight. Option A is too absolute. Option B ignores court oversight on encumbrances. Option D ignores autonomy and best-interest principles.",
         "tags":  [
                      "reverse-mortgage",
                      "HECM",
@@ -3846,7 +3846,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Probate Accounting â€” Capital vs. Income",
+        "subtopic":  "Probate Accounting — Capital vs. Income",
         "difficulty":  "hard",
         "question":  "Preparing the first accounting for the court, the conservator must classify several items. Which classification is most consistent with traditional fiduciary accounting principles?",
         "options":  [
@@ -3856,7 +3856,7 @@
                         "All cash inflows are income and all cash outflows are expenses, without separate principal/income accounts."
                     ],
         "correctAnswer":  2,
-        "explanation":  "Fiduciary accounting (California Probate Code accounting standards) distinguishes principal (capital) from income. Receipts that replace the corpus â€” like sale proceeds â€” are principal; receipts produced by the corpus â€” like rent and interest â€” are income. Ordinary expenses of producing income (routine maintenance, property tax on income property, ordinary repairs) are typically charged to income; extraordinary expenses (capital improvements, debt principal payments) are charged to principal. Option A misclassifies sale proceeds. Option B misclassifies routine expenses. Option D collapses the required distinction.",
+        "explanation":  "Fiduciary accounting (California Probate Code accounting standards) distinguishes principal (capital) from income. Receipts that replace the corpus — like sale proceeds — are principal; receipts produced by the corpus — like rent and interest — are income. Ordinary expenses of producing income (routine maintenance, property tax on income property, ordinary repairs) are typically charged to income; extraordinary expenses (capital improvements, debt principal payments) are charged to principal. Option A misclassifies sale proceeds. Option B misclassifies routine expenses. Option D collapses the required distinction.",
         "tags":  [
                      "fiduciary-accounting",
                      "capital-vs-income",
@@ -3895,7 +3895,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Trust Administration â€” Revocable Living Trust",
+        "subtopic":  "Trust Administration — Revocable Living Trust",
         "difficulty":  "medium",
         "question":  "A conservatee created a fully funded revocable living trust years before her capacity declined. The trust names her as both grantor and lifetime beneficiary and names her son as successor trustee, effective on her incapacity. Now that conservatorship has been imposed, what is the conservator\u0027s relationship to the trust?",
         "options":  [
@@ -3905,7 +3905,7 @@
                         "The conservator has no role at all and the trust is unaffected by the conservatorship."
                     ],
         "correctAnswer":  1,
-        "explanation":  "A funded revocable trust continues to function during incapacity under its own succession rules â€” that\u0027s a core reason people create them. The successor trustee owes fiduciary duties to the conservatee (the lifetime beneficiary), and the conservator manages whatever assets sit outside the trust. The two fiduciaries must coordinate. Option A is wrong: conservatorship doesn\u0027t dissolve the trust. Option C is wrong: the conservator doesn\u0027t automatically replace the named trustee. Option D ignores the conservator\u0027s duty to monitor trust administration on the conservatee\u0027s behalf and intervene if the trustee fails in their duties.",
+        "explanation":  "A funded revocable trust continues to function during incapacity under its own succession rules — that\u0027s a core reason people create them. The successor trustee owes fiduciary duties to the conservatee (the lifetime beneficiary), and the conservator manages whatever assets sit outside the trust. The two fiduciaries must coordinate. Option A is wrong: conservatorship doesn\u0027t dissolve the trust. Option C is wrong: the conservator doesn\u0027t automatically replace the named trustee. Option D ignores the conservator\u0027s duty to monitor trust administration on the conservatee\u0027s behalf and intervene if the trustee fails in their duties.",
         "tags":  [
                      "revocable-trust",
                      "successor-trustee",
@@ -3920,17 +3920,17 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Marshaling Assets â€” Lost Assets",
+        "subtopic":  "Marshaling Assets — Lost Assets",
         "difficulty":  "easy",
         "question":  "While marshaling a new conservatee\u0027s estate, the conservator suspects she has unclaimed property such as old bank accounts and uncashed dividend checks. Where is the best place to search?",
         "options":  [
                         "Only the conservatee\u0027s most recent tax return.",
                         "The California State Controller\u0027s Unclaimed Property database and similar databases in other states where she has lived.",
                         "Local newspaper classified ads.",
-                        "Nowhere â€” once funds are dormant, they are permanently lost."
+                        "Nowhere — once funds are dormant, they are permanently lost."
                     ],
         "correctAnswer":  1,
-        "explanation":  "California\u0027s State Controller maintains an Unclaimed Property database holding billions of dollars from dormant accounts, uncashed checks, safe-deposit box contents, and abandoned securities. Multi-state searches (every state where the conservatee lived) are part of due diligence in marshaling assets. Tax returns are useful as a starting point (Option A) but miss assets generating no recent income. Option C is not a recognized methodology. Option D is wrong â€” unclaimed property can be claimed by the rightful owner or fiduciary indefinitely.",
+        "explanation":  "California\u0027s State Controller maintains an Unclaimed Property database holding billions of dollars from dormant accounts, uncashed checks, safe-deposit box contents, and abandoned securities. Multi-state searches (every state where the conservatee lived) are part of due diligence in marshaling assets. Tax returns are useful as a starting point (Option A) but miss assets generating no recent income. Option C is not a recognized methodology. Option D is wrong — unclaimed property can be claimed by the rightful owner or fiduciary indefinitely.",
         "tags":  [
                      "marshaling-assets",
                      "unclaimed-property",
@@ -3975,12 +3975,12 @@
         "question":  "A conservatee owns a long-term care insurance policy paid up years ago. She has just been admitted to a memory-care assisted living facility costing $9,500 per month. The conservator should:",
         "options":  [
                         "Wait to file a claim until after the conservatee has paid privately for at least one year, because LTCi never pays in the first year of care.",
-                        "Promptly review the policy for triggering conditions (typically inability to perform 2+ ADLs or severe cognitive impairment) and elimination period, gather medical documentation from the facility and physicians, and file a claim â€” paying out-of-pocket only during any required elimination period.",
+                        "Promptly review the policy for triggering conditions (typically inability to perform 2+ ADLs or severe cognitive impairment) and elimination period, gather medical documentation from the facility and physicians, and file a claim — paying out-of-pocket only during any required elimination period.",
                         "Cancel the policy to reduce monthly expenses now that care has begun.",
                         "Ignore the policy because LTCi only covers nursing-home care, not assisted living."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Most LTCi policies are triggered by inability to perform a stated number of activities of daily living (often 2 of 6) or by severe cognitive impairment â€” dementia in memory care typically qualifies. After a contractual elimination period (commonly 30, 60, or 90 days of self-pay), benefits begin. Modern policies usually do cover assisted living and home care, not just nursing homes. Option A invents a one-year wait. Option C wastes a paid-up asset. Option D reflects outdated policies â€” coverage scope must be verified, not assumed.",
+        "explanation":  "Most LTCi policies are triggered by inability to perform a stated number of activities of daily living (often 2 of 6) or by severe cognitive impairment — dementia in memory care typically qualifies. After a contractual elimination period (commonly 30, 60, or 90 days of self-pay), benefits begin. Modern policies usually do cover assisted living and home care, not just nursing homes. Option A invents a one-year wait. Option C wastes a paid-up asset. Option D reflects outdated policies — coverage scope must be verified, not assumed.",
         "tags":  [
                      "long-term-care-insurance",
                      "LTCi",
@@ -4000,12 +4000,12 @@
         "question":  "A 68-year-old disabled conservatee on Medi-Cal receives a $40,000 inheritance. The conservator wants to preserve benefits but the conservatee is over 65 (disqualifying her from a standard first-party d4A trust in many cases). What option should the conservator most carefully evaluate?",
         "options":  [
                         "Open a new ABLE account regardless of when the disability began.",
-                        "Contribute the funds to a pooled special needs trust managed by a nonprofit under 42 U.S.C. Â§1396p(d)(4)(C), which may accept beneficiaries of any age, with any Medicaid payback handled per the master trust\u0027s terms.",
+                        "Contribute the funds to a pooled special needs trust managed by a nonprofit under 42 U.S.C. §1396p(d)(4)(C), which may accept beneficiaries of any age, with any Medicaid payback handled per the master trust\u0027s terms.",
                         "Spend the entire $40,000 immediately, no documentation required, to preserve eligibility.",
                         "Place the funds in the conservatee\u0027s checking account; Medi-Cal does not apply an asset test to seniors."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Pooled (d4C) special needs trusts, managed by nonprofits with separate accounts for each beneficiary, can accept first-party funding from individuals of any age, though some state Medicaid agencies have challenged use over age 65. They are an important benefit-preservation tool for older disabled beneficiaries. ABLE accounts (A) require disability onset before age 26 (recently expanding to 46 under SECURE 2.0 in 2026). Option C (\u0027spend everything fast\u0027) ignores documentation and prudent management duties and can trigger transfer penalties if not legitimate spend-down. Option D is wrong â€” Medi-Cal long-term care does apply asset tests.",
+        "explanation":  "Pooled (d4C) special needs trusts, managed by nonprofits with separate accounts for each beneficiary, can accept first-party funding from individuals of any age, though some state Medicaid agencies have challenged use over age 65. They are an important benefit-preservation tool for older disabled beneficiaries. ABLE accounts (A) require disability onset before age 26 (recently expanding to 46 under SECURE 2.0 in 2026). Option C (\u0027spend everything fast\u0027) ignores documentation and prudent management duties and can trigger transfer penalties if not legitimate spend-down. Option D is wrong — Medi-Cal long-term care does apply asset tests.",
         "tags":  [
                      "pooled-SNT",
                      "d4C",
@@ -4020,11 +4020,11 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Prudent Investor â€” Real Estate Holding",
+        "subtopic":  "Prudent Investor — Real Estate Holding",
         "difficulty":  "medium",
         "question":  "A conservatee\u0027s estate includes a vacant single-family home in another state that has been empty for two years, generates no income, costs $14,000/year in taxes and insurance, and the conservatee has no plans to occupy it. Closest relatives have no interest in it. Under the prudent investor rule, what is the conservator\u0027s most defensible course of action?",
         "options":  [
-                        "Continue to hold the property indefinitely â€” real estate is always a prudent investment.",
+                        "Continue to hold the property indefinitely — real estate is always a prudent investment.",
                         "Quitclaim the property to the closest relative for no consideration to eliminate the carrying cost.",
                         "Document the carrying costs and lack of utility, evaluate sale versus rental, obtain appraisals, and, if sale is appropriate, petition the court for confirmation of sale of real property at a noticed hearing.",
                         "Sell the property quickly off-market to the first interested buyer to stop the bleeding."
@@ -4045,7 +4045,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "knowledge",
-        "subtopic":  "Federal Gift Tax â€” Form 709",
+        "subtopic":  "Federal Gift Tax — Form 709",
         "difficulty":  "medium",
         "question":  "Assume a court has granted a substituted-judgment order allowing the conservator to make a $50,000 gift from the conservatee\u0027s estate to a charity and a $30,000 gift to each of two grandchildren in 2026. With respect to federal gift-tax reporting, which statement is most accurate?",
         "options":  [
@@ -4055,7 +4055,7 @@
                         "All gifts of any amount by a conservatee require federal gift-tax payment within 30 days."
                     ],
         "correctAnswer":  1,
-        "explanation":  "Gifts made on behalf of a conservatee follow the same federal gift-tax rules as any individual. In 2026 the annual exclusion is approximately $19,000 per donee; gifts of $30,000 to each grandchild exceed that and require Form 709, though the excess typically just reduces the donor\u0027s lifetime unified credit rather than triggering current tax. Charitable gifts to qualified charities receive an unlimited charitable deduction and generally are not taxable but may still need to be reported when other reportable gifts exist. Option A is wrong â€” there is no conservator exemption. Option C confuses estate and gift tax forms. Option D invents a payment deadline that doesn\u0027t exist.",
+        "explanation":  "Gifts made on behalf of a conservatee follow the same federal gift-tax rules as any individual. In 2026 the annual exclusion is approximately $19,000 per donee; gifts of $30,000 to each grandchild exceed that and require Form 709, though the excess typically just reduces the donor\u0027s lifetime unified credit rather than triggering current tax. Charitable gifts to qualified charities receive an unlimited charitable deduction and generally are not taxable but may still need to be reported when other reportable gifts exist. Option A is wrong — there is no conservator exemption. Option C confuses estate and gift tax forms. Option D invents a payment deadline that doesn\u0027t exist.",
         "tags":  [
                      "gift-tax",
                      "form-709",
@@ -4070,7 +4070,7 @@
         "domain":  6,
         "domainName":  "Financial Management",
         "type":  "scenario",
-        "subtopic":  "Insurance â€” Adequacy Review",
+        "subtopic":  "Insurance — Adequacy Review",
         "difficulty":  "medium",
         "question":  "On taking over a new conservatorship, the conservator reviews existing insurance and finds: a homeowner\u0027s policy with $250,000 dwelling coverage on a home now worth $1.1 million; auto insurance on a vehicle the conservatee can no longer drive; no umbrella policy; and a small whole-life policy with cash value. What is the most prudent action plan?",
         "options":  [
@@ -4099,7 +4099,7 @@
         "difficulty":  "hard",
         "question":  "A conservatee on Medi-Cal long-term care dies owning her home (titled solely in her name) and a brokerage account. Her adult son, who lived with and cared for her in the home for the last 4 years before her institutionalization, hopes to inherit the house. What is the most accurate statement about Medi-Cal estate recovery in California today?",
         "options":  [
-                        "California recovers from all assets â€” including those held in a living trust or with named beneficiaries â€” regardless of probate status.",
+                        "California recovers from all assets — including those held in a living trust or with named beneficiaries — regardless of probate status.",
                         "Since the 2017 reforms, California Medi-Cal estate recovery is generally limited to assets passing through probate; assets that avoid probate (living trusts, joint tenancy with survivorship, beneficiary-designated accounts) are generally not subject to recovery, and certain hardship and caregiver-child exemptions may further protect the home.",
                         "Estate recovery applies only to assets acquired after the conservatee began receiving Medi-Cal.",
                         "California waives all estate recovery if the deceased was over age 80 at death."
@@ -4178,7 +4178,7 @@
                         "That at least two physicians have signed a DNR order"
                     ],
         "correctAnswer":  2,
-        "explanation":  "California law (Probate Code Ã‚Â§2356.5) imposes specific findings before a conservatee may be placed in a secured-perimeter residential care facility for the elderly: dementia diagnosis, lack of capacity to give or refuse consent to the placement, that the placement is needed for and would benefit the conservatee, and that it is the least restrictive option. Family agreement, recent hospitalization, and DNR status are irrelevant to the four required findings. This is a separate authority that must be specifically requested from the court Ã¢â‚¬â€ general conservator-of-the-person authority is not enough.",
+        "explanation":  "California law (Probate Code §2356.5) imposes specific findings before a conservatee may be placed in a secured-perimeter residential care facility for the elderly: dementia diagnosis, lack of capacity to give or refuse consent to the placement, that the placement is needed for and would benefit the conservatee, and that it is the least restrictive option. Family agreement, recent hospitalization, and DNR status are irrelevant to the four required findings. This is a separate authority that must be specifically requested from the court — general conservator-of-the-person authority is not enough.",
         "tags":  [
                      "secured-perimeter",
                      "dementia",
@@ -4202,7 +4202,7 @@
                         "Managing finances and paying bills"
                     ],
         "correctAnswer":  3,
-        "explanation":  "ADLs are basic self-care tasks: bathing, dressing, eating, toileting, transferring, and continence. IADLs are more complex tasks needed for independent community living: managing finances, shopping, cooking, housekeeping, transportation, managing medications, and using the telephone. The distinction matters in needs assessments Ã¢â‚¬â€ someone who can perform ADLs but cannot manage IADLs may be able to stay in their home with limited supports, while someone losing ADLs typically needs a higher level of care.",
+        "explanation":  "ADLs are basic self-care tasks: bathing, dressing, eating, toileting, transferring, and continence. IADLs are more complex tasks needed for independent community living: managing finances, shopping, cooking, housekeeping, transportation, managing medications, and using the telephone. The distinction matters in needs assessments — someone who can perform ADLs but cannot manage IADLs may be able to stay in their home with limited supports, while someone losing ADLs typically needs a higher level of care.",
         "tags":  [
                      "ADLs",
                      "IADLs",
@@ -4226,7 +4226,7 @@
                         "The probate court investigator before doing anything else"
                     ],
         "correctAnswer":  1,
-        "explanation":  "The Long-Term Care Ombudsman program (administered by the California Department of Aging) is the designated advocate for residents of long-term care facilities and handles concerns about resident care, including chemical restraint and over-medication. APS handles abuse, neglect, and exploitation but the ombudsman is the specific resource for facility-resident concerns. Criminal referral is premature. The probate court investigator is not the right channel for facility care concerns. The conservator should also escalate within the facility, contact the physician/pharmacist, and report suspected abuse to APS where warranted Ã¢â‚¬â€ but the ombudsman is the appropriate facility-specific advocate.",
+        "explanation":  "The Long-Term Care Ombudsman program (administered by the California Department of Aging) is the designated advocate for residents of long-term care facilities and handles concerns about resident care, including chemical restraint and over-medication. APS handles abuse, neglect, and exploitation but the ombudsman is the specific resource for facility-resident concerns. Criminal referral is premature. The probate court investigator is not the right channel for facility care concerns. The conservator should also escalate within the facility, contact the physician/pharmacist, and report suspected abuse to APS where warranted — but the ombudsman is the appropriate facility-specific advocate.",
         "tags":  [
                      "ombudsman",
                      "facility-monitoring",
@@ -4318,7 +4318,7 @@
         "options":  [
                         "Take no action because driving is a retained right",
                         "Physically take the keys without notice and dispose of the vehicle",
-                        "Arrange for a DMV reexamination referral (which physicians and others may submit), explore alternative transportation, communicate with the conservatee about safety, and document the decision process Ã¢â‚¬â€ escalating to court authority to surrender the license if necessary",
+                        "Arrange for a DMV reexamination referral (which physicians and others may submit), explore alternative transportation, communicate with the conservatee about safety, and document the decision process — escalating to court authority to surrender the license if necessary",
                         "Wait for a serious accident before intervening"
                     ],
         "correctAnswer":  2,
@@ -4371,7 +4371,7 @@
                         "Ignore the issue and let the family decide without consulting the conservatee"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Quality of life and the conservatee\u0027s emotional well-being are core duties of the conservator of the person. A long-bonded companion animal has significant value to a conservatee, especially during transitions. The conservator should consider pet-friendly housing alternatives, family/friend placement with visitation, or fostering Ã¢â‚¬â€ and involve the conservatee in the decision to the greatest extent possible. Surrendering or euthanizing the dog to make logistics easier disregards the conservatee\u0027s preferences and quality of life. Letting family decide unilaterally bypasses the conservator\u0027s responsibility and the conservatee\u0027s voice.",
+        "explanation":  "Quality of life and the conservatee\u0027s emotional well-being are core duties of the conservator of the person. A long-bonded companion animal has significant value to a conservatee, especially during transitions. The conservator should consider pet-friendly housing alternatives, family/friend placement with visitation, or fostering — and involve the conservatee in the decision to the greatest extent possible. Surrendering or euthanizing the dog to make logistics easier disregards the conservatee\u0027s preferences and quality of life. Letting family decide unilaterally bypasses the conservator\u0027s responsibility and the conservatee\u0027s voice.",
         "tags":  [
                      "pet-care",
                      "quality-of-life",
@@ -4443,7 +4443,7 @@
                         "The funeral home\u0027s recommendations"
                     ],
         "correctAnswer":  0,
-        "explanation":  "The conservator should look for the conservatee\u0027s documented preferences first Ã¢â‚¬â€ these may appear in a will, advance health care directive, prepaid funeral/burial contract, or other writing. Where written direction is absent, the conservator should rely on the conservatee\u0027s known religious practice, cultural traditions, and any prior statements (substituted judgment). Family preference may be considered but does not override documented wishes. Cost minimization is not the standard. The funeral home is a vendor, not a decision-maker. Planning ahead Ã¢â‚¬â€ discussing preferences while the conservatee can express them Ã¢â‚¬â€ is a best practice.",
+        "explanation":  "The conservator should look for the conservatee\u0027s documented preferences first — these may appear in a will, advance health care directive, prepaid funeral/burial contract, or other writing. Where written direction is absent, the conservator should rely on the conservatee\u0027s known religious practice, cultural traditions, and any prior statements (substituted judgment). Family preference may be considered but does not override documented wishes. Cost minimization is not the standard. The funeral home is a vendor, not a decision-maker. Planning ahead — discussing preferences while the conservatee can express them — is a best practice.",
         "tags":  [
                      "burial",
                      "funeral-preferences",
@@ -4491,7 +4491,7 @@
                         "A POLST is required for every adult; an AHCD is optional"
                     ],
         "correctAnswer":  2,
-        "explanation":  "The AHCD is a legal advance directive completed by an adult with capacity; it appoints a healthcare agent (DPAHC component) and may set out treatment preferences (living will component). The POLST is a medical order Ã¢â‚¬â€ a portable physician order set that translates wishes into actionable directives like full treatment, limited interventions, or comfort-focused care. POLSTs are intended for seriously ill or frail patients and travel with the patient across care settings. AHCDs name the agent; POLSTs do not. Neither document is universally required.",
+        "explanation":  "The AHCD is a legal advance directive completed by an adult with capacity; it appoints a healthcare agent (DPAHC component) and may set out treatment preferences (living will component). The POLST is a medical order — a portable physician order set that translates wishes into actionable directives like full treatment, limited interventions, or comfort-focused care. POLSTs are intended for seriously ill or frail patients and travel with the patient across care settings. AHCDs name the agent; POLSTs do not. Neither document is universally required.",
         "tags":  [
                      "AHCD",
                      "POLST",
@@ -4539,7 +4539,7 @@
                         "If a physician recommends the procedure, no further authority is needed"
                     ],
         "correctAnswer":  1,
-        "explanation":  "A conservator cannot consent to sterilization on behalf of a conservatee. Sterilization (and procedures whose primary or substantial effect would be sterilization, such as a hysterectomy with no medical alternative) is reserved for the court, with heightened procedural protections Ã¢â‚¬â€ especially for persons with developmental disabilities, where additional safeguards under California law (Probate Code Ã‚Â§1958 and Welfare \u0026 Institutions Code sterilization provisions) apply. Physician recommendation alone is insufficient. A parent has no special authority over an adult conservatee. If the menorrhagia could be treated by less drastic means, those should be exhausted first.",
+        "explanation":  "A conservator cannot consent to sterilization on behalf of a conservatee. Sterilization (and procedures whose primary or substantial effect would be sterilization, such as a hysterectomy with no medical alternative) is reserved for the court, with heightened procedural protections — especially for persons with developmental disabilities, where additional safeguards under California law (Probate Code §1958 and Welfare \u0026 Institutions Code sterilization provisions) apply. Physician recommendation alone is insufficient. A parent has no special authority over an adult conservatee. If the menorrhagia could be treated by less drastic means, those should be exhausted first.",
         "tags":  [
                      "sterilization",
                      "court-order-required",
@@ -4563,7 +4563,7 @@
                         "The conservator must oppose the request as a matter of law"
                     ],
         "correctAnswer":  2,
-        "explanation":  "Under California\u0027s End of Life Option Act, the qualifying individual must have capacity to make medical decisions, make the request personally (not through a surrogate), and self-administer the aid-in-dying drug. A conservator cannot consent to MAID on behalf of a conservatee. Conservatorship does not automatically disqualify a person, but the conservatee must independently satisfy capacity and procedural requirements. The conservator\u0027s role is supportive and informational where appropriate Ã¢â‚¬â€ not substitutive. The conservator does not have a legal duty to oppose the conservatee\u0027s autonomous, statute-compliant choice.",
+        "explanation":  "Under California\u0027s End of Life Option Act, the qualifying individual must have capacity to make medical decisions, make the request personally (not through a surrogate), and self-administer the aid-in-dying drug. A conservator cannot consent to MAID on behalf of a conservatee. Conservatorship does not automatically disqualify a person, but the conservatee must independently satisfy capacity and procedural requirements. The conservator\u0027s role is supportive and informational where appropriate — not substitutive. The conservator does not have a legal duty to oppose the conservatee\u0027s autonomous, statute-compliant choice.",
         "tags":  [
                      "MAID",
                      "end-of-life-option-act",
@@ -4606,12 +4606,12 @@
         "question":  "A probate conservatee with dementia is becoming agitated, and the treating physician recommends starting an antipsychotic medication. The conservator has standard authority over personal care decisions but no special grant of medical authority. The conservatee resists. What is the most accurate statement about the conservator\u0027s authority here?",
         "options":  [
                         "The conservator may force-medicate without any further process",
-                        "A probate conservator with standard medical decision-making authority generally may consent to most medications for a conservatee who lacks capacity, but California imposes special protections for psychotropic medications Ã¢â‚¬â€ including, in some circumstances, additional court approval for administration over the conservatee\u0027s objection Ã¢â‚¬â€ and the conservator should seek physician input, consult counsel, and obtain specific court authority where required",
+                        "A probate conservator with standard medical decision-making authority generally may consent to most medications for a conservatee who lacks capacity, but California imposes special protections for psychotropic medications — including, in some circumstances, additional court approval for administration over the conservatee\u0027s objection — and the conservator should seek physician input, consult counsel, and obtain specific court authority where required",
                         "The conservatee\u0027s objection automatically prevents administration in all cases",
                         "Only an LPS conservator may ever consent to any psychiatric medication"
                     ],
         "correctAnswer":  1,
-        "explanation":  "A probate conservator with general medical authority can consent to many medications for a conservatee who lacks capacity, but psychotropic medication carries special protections in California Ã¢â‚¬â€ particularly when the conservatee objects. For probate conservatees, additional court findings (lack of capacity to consent and that the medication is medically appropriate) may be required, and forcible administration over objection is constrained. LPS conservators have separate, broader authority over psychiatric medications. The conservator should not act unilaterally without confirming the scope of authority, document medical necessity, consider least-restrictive alternatives (behavioral interventions first), and seek counsel and court authority as needed.",
+        "explanation":  "A probate conservator with general medical authority can consent to many medications for a conservatee who lacks capacity, but psychotropic medication carries special protections in California — particularly when the conservatee objects. For probate conservatees, additional court findings (lack of capacity to consent and that the medication is medically appropriate) may be required, and forcible administration over objection is constrained. LPS conservators have separate, broader authority over psychiatric medications. The conservator should not act unilaterally without confirming the scope of authority, document medical necessity, consider least-restrictive alternatives (behavioral interventions first), and seek counsel and court authority as needed.",
         "tags":  [
                      "psychotropic-medications",
                      "court-approval",
@@ -4631,7 +4631,7 @@
         "options":  [
                         "Sign the DNR immediately without consulting the court",
                         "Refuse to discuss DNR under any circumstances",
-                        "Engage in shared decision-making with the medical team, gather information about the conservatee\u0027s prior expressed wishes (substituted judgment), assess capacity for this specific decision, and Ã¢â‚¬â€ because the conservator may not have unilateral authority absent exclusive medical authority or a clear advance directive Ã¢â‚¬â€ consult counsel and seek court guidance as appropriate",
+                        "Engage in shared decision-making with the medical team, gather information about the conservatee\u0027s prior expressed wishes (substituted judgment), assess capacity for this specific decision, and — because the conservator may not have unilateral authority absent exclusive medical authority or a clear advance directive — consult counsel and seek court guidance as appropriate",
                         "Defer entirely to whichever adult child appears at the hospital first"
                     ],
         "correctAnswer":  2,
@@ -4659,7 +4659,7 @@
                         "Honor the conservatee\u0027s expressed preferences (since she has capacity for this decision), engage the hospice/palliative care team, document the conservatee\u0027s stated goals of care, and address the co-conservator disagreement through facilitated discussion or, if necessary, court direction"
                     ],
         "correctAnswer":  3,
-        "explanation":  "Capacity is decision-specific. A conservatee who has capacity to weigh the choice between aggressive treatment and hospice may make that choice for herself, and the conservator\u0027s role is to support and advocate, not override. The conservator should engage the hospice team, document goals of care, and resolve co-conservator disagreement through dialogue, mediation, or court guidance. Hospice does not mean withdrawal of comfort medications Ã¢â‚¬â€ it emphasizes symptom management. A court hearing is not required when the conservatee herself can consent.",
+        "explanation":  "Capacity is decision-specific. A conservatee who has capacity to weigh the choice between aggressive treatment and hospice may make that choice for herself, and the conservator\u0027s role is to support and advocate, not override. The conservator should engage the hospice team, document goals of care, and resolve co-conservator disagreement through dialogue, mediation, or court guidance. Hospice does not mean withdrawal of comfort medications — it emphasizes symptom management. A court hearing is not required when the conservatee herself can consent.",
         "tags":  [
                      "hospice",
                      "palliative-care",
@@ -4684,7 +4684,7 @@
                         "Research participation is always prohibited for conservatees"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Conservatees have a right not to be involved in research projects or drug trials without an additional court order. Even where the trial seems beneficial, the conservator cannot unilaterally enroll the conservatee. The conservator should also assess whether the conservatee has the capacity to assent or dissent for this specific decision; an objection from a conservatee with relevant capacity must be respected. The IRB approves the study protocol generally Ã¢â‚¬â€ it does not substitute for the individual consent and court-authority requirements. Research is not categorically prohibited, but the additional safeguards exist precisely because of the vulnerability of conservatees.",
+        "explanation":  "Conservatees have a right not to be involved in research projects or drug trials without an additional court order. Even where the trial seems beneficial, the conservator cannot unilaterally enroll the conservatee. The conservator should also assess whether the conservatee has the capacity to assent or dissent for this specific decision; an objection from a conservatee with relevant capacity must be respected. The IRB approves the study protocol generally — it does not substitute for the individual consent and court-authority requirements. Research is not categorically prohibited, but the additional safeguards exist precisely because of the vulnerability of conservatees.",
         "tags":  [
                      "research",
                      "experimental-treatment",
@@ -4729,7 +4729,7 @@
                         "Authorize the surgery over the conservatee\u0027s objection because the conservator knows best",
                         "Move the conservatee to a hospital that will perform the surgery without consent",
                         "Petition the court to revoke the conservatee\u0027s right to refuse treatment",
-                        "Confirm capacity through a capacity evaluation specific to this decision, ensure the conservatee has received clear information about risks, benefits, and alternatives, explore the reasons behind the refusal, and respect the conservatee\u0027s autonomous decision if capacity is intact Ã¢â‚¬â€ even if the conservator disagrees"
+                        "Confirm capacity through a capacity evaluation specific to this decision, ensure the conservatee has received clear information about risks, benefits, and alternatives, explore the reasons behind the refusal, and respect the conservatee\u0027s autonomous decision if capacity is intact — even if the conservator disagrees"
                     ],
         "correctAnswer":  3,
         "explanation":  "Capacity for medical consent is presumed and decision-specific. A conservatee with capacity to consent to a particular treatment also has capacity to refuse it. The conservator\u0027s role is to ensure the conservatee has the information needed for informed consent, explore the reasons for the choice (reversible factors like depression, fear, or misunderstanding should be addressed), and respect an autonomous, informed refusal even if the conservator personally disagrees. Overriding by authorizing surgery, forum-shopping for a willing hospital, or attempting to strip the right are all violations of the conservatee\u0027s autonomy and likely improper.",
@@ -4756,7 +4756,7 @@
                         "Decide based solely on the conservator\u0027s personal view of quality of life"
                     ],
         "correctAnswer":  0,
-        "explanation":  "Substituted judgment asks what the person would want if they could speak Ã¢â‚¬â€ based on reliable evidence of prior expressed wishes, values, and beliefs. Even with no written directive, prior consistent statements to family and friends are probative evidence. Because withdrawal of life support is an extraordinary medical circumstance, the conservator should not act unilaterally Ã¢â‚¬â€ court direction is appropriate and protective. Defaulting to maximum intervention ignores the conservatee\u0027s known wishes. Deferring to the most emphatic family member or substituting the conservator\u0027s personal values violates the surrogate-decision-making framework.",
+        "explanation":  "Substituted judgment asks what the person would want if they could speak — based on reliable evidence of prior expressed wishes, values, and beliefs. Even with no written directive, prior consistent statements to family and friends are probative evidence. Because withdrawal of life support is an extraordinary medical circumstance, the conservator should not act unilaterally — court direction is appropriate and protective. Defaulting to maximum intervention ignores the conservatee\u0027s known wishes. Deferring to the most emphatic family member or substituting the conservator\u0027s personal values violates the surrogate-decision-making framework.",
         "tags":  [
                      "substituted-judgment",
                      "withdrawal-of-life-support",
@@ -4780,7 +4780,7 @@
                         "It is automatic in every conservatorship of the person"
                     ],
         "correctAnswer":  1,
-        "explanation":  "By default, conservatorship of the person does not strip the conservatee of all medical decision-making Ã¢â‚¬â€ both the conservator and the conservatee may consent, and providers may rely on the conservatee\u0027s consent in many situations. When the court makes specific findings (typically a lack of capacity to give informed consent), it may grant the conservator \u0027exclusive\u0027 authority over medical decisions. This is a meaningful step, not automatic, and requires updated Letters that the conservator should provide to hospitals, doctors, and facilities. It does not extinguish all conservatee rights, and it does not change financial authority (which is the estate conservator\u0027s separate role).",
+        "explanation":  "By default, conservatorship of the person does not strip the conservatee of all medical decision-making — both the conservator and the conservatee may consent, and providers may rely on the conservatee\u0027s consent in many situations. When the court makes specific findings (typically a lack of capacity to give informed consent), it may grant the conservator \u0027exclusive\u0027 authority over medical decisions. This is a meaningful step, not automatic, and requires updated Letters that the conservator should provide to hospitals, doctors, and facilities. It does not extinguish all conservatee rights, and it does not change financial authority (which is the estate conservator\u0027s separate role).",
         "tags":  [
                      "exclusive-medical-authority",
                      "scope-of-authority",
@@ -4804,7 +4804,7 @@
                         "Promptly contact the treating physician and pharmacist to review the new medication and possible side effects or interactions, document the observations, and request a medication reconciliation if appropriate"
                     ],
         "correctAnswer":  3,
-        "explanation":  "The conservator has an active medical-advocacy duty Ã¢â‚¬â€ monitor the conservatee\u0027s condition, watch for side effects and drug interactions, and engage clinicians when concerns arise. Promptly contacting the physician and pharmacist, documenting observations, and seeking medication reconciliation is exactly the expected response. Waiting passively could allow harm to escalate. Discontinuing a medication unilaterally is outside the conservator\u0027s clinical role and could itself cause harm. Criminal referral is premature without evidence of wrongdoing Ã¢â‚¬â€ the first step is clinical review.",
+        "explanation":  "The conservator has an active medical-advocacy duty — monitor the conservatee\u0027s condition, watch for side effects and drug interactions, and engage clinicians when concerns arise. Promptly contacting the physician and pharmacist, documenting observations, and seeking medication reconciliation is exactly the expected response. Waiting passively could allow harm to escalate. Discontinuing a medication unilaterally is outside the conservator\u0027s clinical role and could itself cause harm. Criminal referral is premature without evidence of wrongdoing — the first step is clinical review.",
         "tags":  [
                      "medical-advocacy",
                      "medication-monitoring",
@@ -4822,13 +4822,13 @@
         "difficulty":  "hard",
         "question":  "A psychiatrist recommends electroconvulsive therapy (ECT) for a probate conservatee with treatment-resistant major depression. The conservator agrees that the conservatee has not responded to other treatments. Can the conservator authorize the ECT?",
         "options":  [
-                        "No Ã¢â‚¬â€ ECT and other convulsive treatments are subject to special statutory protections in California, including capacity findings and, where the patient cannot consent, court authorization is required; the conservator\u0027s general medical authority does not extend to ECT without these protections",
+                        "No — ECT and other convulsive treatments are subject to special statutory protections in California, including capacity findings and, where the patient cannot consent, court authorization is required; the conservator\u0027s general medical authority does not extend to ECT without these protections",
                         "Yes, the conservator can authorize ECT like any other medical procedure",
                         "Yes, if a family member co-signs",
                         "Only if the conservatee has been on a 5150 hold within the last 30 days"
                     ],
         "correctAnswer":  0,
-        "explanation":  "ECT (and other convulsive treatments) is subject to heightened protections in California Ã¢â‚¬â€ there are specific consent and capacity findings required, and where a patient cannot give informed consent, court authorization is generally required before ECT may be administered. A probate conservator\u0027s general medical authority does not extend to ECT without these additional safeguards. Family co-signature is not a substitute. The 5150 hold framework is a separate involuntary-detention path under LPS and does not by itself authorize ECT. The conservator should engage counsel and pursue the proper court process if ECT is being considered.",
+        "explanation":  "ECT (and other convulsive treatments) is subject to heightened protections in California — there are specific consent and capacity findings required, and where a patient cannot give informed consent, court authorization is generally required before ECT may be administered. A probate conservator\u0027s general medical authority does not extend to ECT without these additional safeguards. Family co-signature is not a substitute. The 5150 hold framework is a separate involuntary-detention path under LPS and does not by itself authorize ECT. The conservator should engage counsel and pursue the proper court process if ECT is being considered.",
         "tags":  [
                      "ECT",
                      "convulsive-treatment",
