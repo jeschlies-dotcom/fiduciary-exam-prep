@@ -1,6 +1,15 @@
 {
-    "total_questions":  200,
-    "last_updated":  "2026-05-12",
+    "total_questions":  300,
+    "last_updated":  "2026-05-13",
+    "next_available_ids":  {
+                               "1":  "D1_048",
+                               "2":  "D2_037",
+                               "3":  "D3_032",
+                               "4":  "D4_041",
+                               "5":  "D5_034",
+                               "6":  "D6_085",
+                               "7":  "D7_030"
+                           },
     "questions":  [
                       {
                           "id":  "D1_001",
@@ -1090,7 +1099,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Public Benefits — SSA, VA, Medicare",
+                          "subtopic":  "Public Benefits â€” SSA, VA, Medicare",
                           "difficulty":  "easy",
                           "tags":  [
                                        "SSI",
@@ -1105,7 +1114,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Public Benefits — SSA, VA, Medicare",
+                          "subtopic":  "Public Benefits â€” SSA, VA, Medicare",
                           "difficulty":  "medium",
                           "tags":  [
                                        "SSI",
@@ -2197,7 +2206,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Tax Compliance — Fiduciary Income Tax",
+                          "subtopic":  "Tax Compliance â€” Fiduciary Income Tax",
                           "difficulty":  "medium",
                           "tags":  [
                                        "tax-compliance",
@@ -2212,7 +2221,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Property Tax — Prop 13 / Prop 19",
+                          "subtopic":  "Property Tax â€” Prop 13 / Prop 19",
                           "difficulty":  "hard",
                           "tags":  [
                                        "property-tax",
@@ -2227,7 +2236,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Prudent Investor Rule — Concentrated Stock",
+                          "subtopic":  "Prudent Investor Rule â€” Concentrated Stock",
                           "difficulty":  "hard",
                           "tags":  [
                                        "prudent-investor-rule",
@@ -2258,7 +2267,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "SSI — In-Kind Support and Maintenance",
+                          "subtopic":  "SSI â€” In-Kind Support and Maintenance",
                           "difficulty":  "hard",
                           "tags":  [
                                        "SSI",
@@ -2274,7 +2283,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Fee Setting — Probate Code §2640",
+                          "subtopic":  "Fee Setting â€” Probate Code Â§2640",
                           "difficulty":  "medium",
                           "tags":  [
                                        "fiduciary-fees",
@@ -2290,7 +2299,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Substituted Judgment — Gifting",
+                          "subtopic":  "Substituted Judgment â€” Gifting",
                           "difficulty":  "hard",
                           "tags":  [
                                        "substituted-judgment",
@@ -2306,7 +2315,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Special Needs Trusts — First-Party (d4A)",
+                          "subtopic":  "Special Needs Trusts â€” First-Party (d4A)",
                           "difficulty":  "medium",
                           "tags":  [
                                        "special-needs-trust",
@@ -2370,7 +2379,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Medicare — Coverage Gaps",
+                          "subtopic":  "Medicare â€” Coverage Gaps",
                           "difficulty":  "medium",
                           "tags":  [
                                        "Medicare",
@@ -2418,7 +2427,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Probate Accounting — Capital vs. Income",
+                          "subtopic":  "Probate Accounting â€” Capital vs. Income",
                           "difficulty":  "hard",
                           "tags":  [
                                        "fiduciary-accounting",
@@ -2449,7 +2458,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Trust Administration — Revocable Living Trust",
+                          "subtopic":  "Trust Administration â€” Revocable Living Trust",
                           "difficulty":  "medium",
                           "tags":  [
                                        "revocable-trust",
@@ -2465,7 +2474,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Marshaling Assets — Lost Assets",
+                          "subtopic":  "Marshaling Assets â€” Lost Assets",
                           "difficulty":  "easy",
                           "tags":  [
                                        "marshaling-assets",
@@ -2529,7 +2538,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Prudent Investor — Real Estate Holding",
+                          "subtopic":  "Prudent Investor â€” Real Estate Holding",
                           "difficulty":  "medium",
                           "tags":  [
                                        "prudent-investor-rule",
@@ -2545,7 +2554,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Federal Gift Tax — Form 709",
+                          "subtopic":  "Federal Gift Tax â€” Form 709",
                           "difficulty":  "medium",
                           "tags":  [
                                        "gift-tax",
@@ -2561,7 +2570,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Insurance — Adequacy Review",
+                          "subtopic":  "Insurance â€” Adequacy Review",
                           "difficulty":  "medium",
                           "tags":  [
                                        "insurance-review",
@@ -3040,6 +3049,1498 @@
                                        "informed-consent"
                                    ],
                           "addedDate":  "2026-05-12"
+                      },
+                      {
+                          "id":  "D1_031",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Alternatives to Conservatorship",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "alternatives-to-conservatorship",
+                                       "durable-power-of-attorney",
+                                       "least-restrictive-alternative",
+                                       "advance-health-care-directive"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_032",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Professional Fiduciaries Act \u0026 Licensing",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "professional-fiduciaries-act",
+                                       "licensing-thresholds",
+                                       "pfb"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_033",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Professional Fiduciaries Act \u0026 Licensing",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "annual-statement",
+                                       "pfb",
+                                       "license-renewal",
+                                       "filing-deadline"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_034",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Conflict of Interest",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "conflict-of-interest",
+                                       "trustee-duties",
+                                       "duty-of-loyalty",
+                                       "income-vs-remainder-beneficiaries"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_035",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Hiring Restrictions",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "hiring-restrictions",
+                                       "self-dealing",
+                                       "conflict-of-interest",
+                                       "court-approval"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_036",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Fiduciary Fees \u0026 Practice Management",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "fiduciary-fees",
+                                       "inventory-and-appraisal",
+                                       "fee-petition",
+                                       "90-day-rule"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_037",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Fiduciary Fees \u0026 Practice Management",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "fiduciary-fees",
+                                       "reasonableness-test",
+                                       "billing-rates",
+                                       "skill-level"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_038",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Confidentiality \u0026 HIPAA",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "confidentiality",
+                                       "conservatee-preferences",
+                                       "nga-standards",
+                                       "information-disclosure"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_039",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "NGA 10 Ethical Principles",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "nga-ethical-principles",
+                                       "self-determination",
+                                       "person-centered-planning",
+                                       "dignity"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_040",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Risk Management",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "risk-management",
+                                       "errors-and-omissions",
+                                       "workers-compensation",
+                                       "professional-liability"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_041",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Working with Co-Fiduciaries",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "co-fiduciary",
+                                       "self-dealing",
+                                       "real-property",
+                                       "court-petition",
+                                       "conflict-of-interest"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_042",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Fiduciary Standard of Care",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "fiduciary-standard-of-care",
+                                       "higher-standard",
+                                       "professional-fiduciary"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_043",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Conflict of Interest",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "conflict-of-interest",
+                                       "indirect-conflict",
+                                       "intake-screening",
+                                       "disclosure"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_044",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Recordkeeping \u0026 Billing",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "recordkeeping",
+                                       "billing-practices",
+                                       "fee-petition",
+                                       "contemporaneous-records"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_045",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Mandated Reporter Obligations",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "mandated-reporter",
+                                       "elder-abuse",
+                                       "aps",
+                                       "documentation"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_046",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "knowledge",
+                          "subtopic":  "Continuing Education",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "continuing-education",
+                                       "license-renewal",
+                                       "pfb-regulations",
+                                       "competence"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D1_047",
+                          "domain":  1,
+                          "domainName":  "Professional Practices",
+                          "type":  "scenario",
+                          "subtopic":  "Working with Other Professionals",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "prudent-investor-rule",
+                                       "delegation",
+                                       "investment-management",
+                                       "trustee-oversight"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_024",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Cultural \u0026 Religious Diversity",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "cultural-diversity",
+                                       "collectivist-decision-making",
+                                       "person-centered-planning",
+                                       "family-engagement"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_025",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "knowledge",
+                          "subtopic":  "Cultural \u0026 Religious Diversity",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "cultural-diversity",
+                                       "ethnocentrism",
+                                       "implicit-bias",
+                                       "definitions"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_026",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Cultural \u0026 Religious Diversity",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "religious-diversity",
+                                       "medical-decision-making",
+                                       "religious-healing",
+                                       "court-guidance"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_027",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "knowledge",
+                          "subtopic":  "Mental Illness \u0026 Intellectual Disabilities",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "developmental-disability",
+                                       "limited-conservatorship",
+                                       "definitions",
+                                       "regional-center"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_028",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Mental Illness \u0026 Intellectual Disabilities",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "mental-illness",
+                                       "anosognosia",
+                                       "dementia",
+                                       "insight"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_029",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "knowledge",
+                          "subtopic":  "LPS Conservatorships",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "lps-conservatorship",
+                                       "sb-43",
+                                       "gravely-disabled",
+                                       "substance-use-disorder"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_030",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "LPS Conservatorships",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "lps-conservatorship",
+                                       "public-guardian",
+                                       "county-petition",
+                                       "referrals"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_031",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Difficult Clients",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "difficult-clients",
+                                       "paranoia",
+                                       "documentation",
+                                       "treatment-team-coordination"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_032",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Family Dynamics \u0026 Concerns",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "family-dynamics",
+                                       "financial-exploitation",
+                                       "visitation",
+                                       "mandated-reporting"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_033",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Social History/Values/Beliefs",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "social-history",
+                                       "person-centered-planning",
+                                       "care-plan",
+                                       "values-and-beliefs"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_034",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Cultural \u0026 Religious Diversity",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "religious-diversity",
+                                       "kosher",
+                                       "sabbath",
+                                       "advocacy",
+                                       "placement"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_035",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "knowledge",
+                          "subtopic":  "Mental Illness \u0026 Intellectual Disabilities",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "decisional-capacity",
+                                       "definitions",
+                                       "capacity-is-decision-specific"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D2_036",
+                          "domain":  2,
+                          "domainName":  "Conservatees",
+                          "type":  "scenario",
+                          "subtopic":  "Difficult Clients",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "difficult-clients",
+                                       "boundaries",
+                                       "idealization",
+                                       "gifts",
+                                       "professionalism"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_021",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Supported Decision-Making",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "supported-decision-making",
+                                       "least-restrictive-alternative",
+                                       "alternatives-to-conservatorship"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_022",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "Decision-Making Standards",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "substituted-judgment",
+                                       "decision-making-standards"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_023",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Informed Consent",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "informed-consent",
+                                       "right-to-refuse-treatment",
+                                       "exclusive-medical-authority"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_024",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "Capacity",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "capacity",
+                                       "decision-specific-capacity",
+                                       "retained-rights"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_025",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Functional Assessment",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "functional-assessment",
+                                       "care-planning",
+                                       "multi-source-assessment"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_026",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Limits to Fiduciary\u0027s Authority",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "temporary-conservator",
+                                       "personal-residence",
+                                       "limits-to-authority",
+                                       "court-approval"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_027",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Least Restrictive Alternatives",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "least-restrictive-alternative",
+                                       "residential-placement",
+                                       "personal-residence"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_028",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "Limits to Fiduciary\u0027s Authority",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "limits-to-authority",
+                                       "sterilization",
+                                       "court-only-decisions"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_029",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Fiduciary Responsibilities",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "fiduciary-responsibilities",
+                                       "best-interest",
+                                       "prudent-investor",
+                                       "communication"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_030",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Capacity",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "capacity",
+                                       "right-to-marry",
+                                       "retained-rights"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D3_031",
+                          "domain":  3,
+                          "domainName":  "Surrogate Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Informed Consent",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "informed-consent",
+                                       "person-centered-care",
+                                       "documentation"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_027",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Inventory and Appraisal Deadline",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "inventory-appraisal",
+                                       "deadlines",
+                                       "estate-conservatorship"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_028",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Court Investigator Reviews",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "court-investigator",
+                                       "monitoring",
+                                       "compliance"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_029",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Court Supervision and Sanctions",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "surcharge",
+                                       "fee-petition",
+                                       "court-approval",
+                                       "sanctions"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_030",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Letters of Conservatorship",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "letters-of-conservatorship",
+                                       "documentation",
+                                       "third-party-recognition"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_031",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Substituted Judgment Petition",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "substituted-judgment",
+                                       "gifts",
+                                       "court-approval",
+                                       "estate-planning"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_032",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Due Process",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "due-process",
+                                       "notice",
+                                       "right-to-counsel"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_033",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Accounting Periods",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "accounting-periods",
+                                       "first-accounting",
+                                       "monitoring"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_034",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Actions Requiring Prior Court Approval",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "court-approval",
+                                       "routine-expenses",
+                                       "ordinary-administration"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_035",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Financial Powers of Attorney",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "financial-poa",
+                                       "durable-poa",
+                                       "court-approval",
+                                       "agent-misconduct"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_036",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Relationship with Court-Appointed Counsel",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "court-appointed-counsel",
+                                       "officers-of-the-court",
+                                       "conservatee-wishes"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_037",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "knowledge",
+                          "subtopic":  "Bond Requirements",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "bond",
+                                       "estate-conservatorship",
+                                       "asset-protection"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_038",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Modification and Termination",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "modification",
+                                       "termination",
+                                       "restoration-of-capacity",
+                                       "duty-to-monitor"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_039",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Mediation",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "mediation",
+                                       "family-disputes",
+                                       "alternative-dispute-resolution"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D4_040",
+                          "domain":  4,
+                          "domainName":  "Legal and Courts",
+                          "type":  "scenario",
+                          "subtopic":  "Compliance with Monitoring Systems",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "court-investigator",
+                                       "monitoring",
+                                       "cooperation",
+                                       "compliance"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_056",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Medi-Cal Asset Limit (2026 Reinstatement)",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "medi-cal",
+                                       "asset-limit",
+                                       "2026-rules",
+                                       "eligibility"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_057",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Trust Administration / HEMS Standard",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "hems-standard",
+                                       "trust-administration",
+                                       "distribution-standards",
+                                       "discretion"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_058",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Annual Gift Tax Exclusion (2026)",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "gift-tax",
+                                       "annual-exclusion",
+                                       "2026-figures",
+                                       "tax-planning"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_059",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Federal Estate Tax Exemption (2026)",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "estate-tax",
+                                       "federal-exemption",
+                                       "form-706",
+                                       "2026-figures"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_060",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Inherited IRA / SECURE Act 10-Year Rule",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "secure-act",
+                                       "inherited-ira",
+                                       "rmds",
+                                       "retirement-accounts"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_061",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Prudent Investor Rule / Concentrated Stock",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "prudent-investor",
+                                       "concentrated-stock",
+                                       "diversification",
+                                       "step-up-basis"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_062",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Step-Up in Basis at Death",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "step-up-basis",
+                                       "capital-gains",
+                                       "estate-tax-basis",
+                                       "tax-planning"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_063",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Income vs. Remainder Beneficiary Conflict",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "duty-of-impartiality",
+                                       "income-vs-remainder",
+                                       "prudent-investor",
+                                       "total-return"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_064",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Special Needs Trust / ABLE Account",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "able-account",
+                                       "snt",
+                                       "ssi",
+                                       "2026-figures"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_065",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "SSI Resource Limit",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "ssi",
+                                       "resource-limit",
+                                       "public-benefits",
+                                       "eligibility"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_066",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Medicare Part A SNF Coverage",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "medicare-part-a",
+                                       "snf-coverage",
+                                       "observation-status",
+                                       "3-day-rule"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_067",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Medicare IRMAA Surcharge (2026)",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "irmaa",
+                                       "medicare-premiums",
+                                       "magi",
+                                       "2026-figures"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_068",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Medi-Cal Look-Back / Penalty Period",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "medi-cal",
+                                       "look-back",
+                                       "transfer-penalty",
+                                       "2026-rules"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_069",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Crummey Powers / Withdrawal Rights",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "crummey-letter",
+                                       "irrevocable-trust",
+                                       "annual-exclusion",
+                                       "present-interest"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_070",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Reverse Mortgage / HECM",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "reverse-mortgage",
+                                       "hecm",
+                                       "home-equity",
+                                       "real-property"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_071",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Property Tax / Prop 19",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "property-tax",
+                                       "prop-19",
+                                       "real-property",
+                                       "reassessment"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_072",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Trust Income Tax / Form 1041 Compressed Brackets",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "form-1041",
+                                       "trust-taxation",
+                                       "compressed-brackets",
+                                       "dni"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_073",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Heggstad Petition",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "heggstad-petition",
+                                       "section-850",
+                                       "trust-funding",
+                                       "probate-alternatives"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_074",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Asset Safekeeping / Joint Account Titling",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "joint-account",
+                                       "bank-account-titling",
+                                       "marshaling",
+                                       "ownership-presumption"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_075",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Prudent Investor / Delegation to Professionals",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "delegation",
+                                       "prudent-investor",
+                                       "investment-advisor",
+                                       "fiduciary-duties"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_076",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Probate Accounting / Capital vs. Income",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "principal-and-income-act",
+                                       "capital-gains",
+                                       "trust-accounting",
+                                       "allocation"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_077",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "VA Aid and Attendance",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "va-pension",
+                                       "aid-and-attendance",
+                                       "veterans-benefits",
+                                       "2026-figures"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_078",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Insurance Adequacy Review",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "insurance-adequacy",
+                                       "homeowners-insurance",
+                                       "asset-protection",
+                                       "risk-management"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_079",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Real Estate Sale / Court Confirmation",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "real-estate-sale",
+                                       "court-confirmation",
+                                       "reappraisal",
+                                       "notice-of-sale"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_080",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Financial Exploitation Detection",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "financial-exploitation",
+                                       "elder-abuse",
+                                       "mandated-reporter",
+                                       "section-859"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_081",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Bond and Surety Requirements",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "bond",
+                                       "blocked-account",
+                                       "surety",
+                                       "asset-protection"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_082",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Substituted Judgment / Estate Planning",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "substituted-judgment",
+                                       "section-2580",
+                                       "gifting",
+                                       "estate-planning"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_083",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Generation-Skipping Transfer (GST) Tax",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "gst-tax",
+                                       "generation-skipping",
+                                       "estate-tax",
+                                       "2026-figures"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D6_084",
+                          "domain":  6,
+                          "domainName":  "Financial Management",
+                          "type":  "scenario",
+                          "subtopic":  "Spendthrift Clause / Creditor Protection",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "spendthrift-clause",
+                                       "creditor-protection",
+                                       "snt",
+                                       "trust-administration"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_025",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Caregiver Hiring and Oversight",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "caregiver-oversight",
+                                       "well-being-monitoring",
+                                       "in-home-care",
+                                       "documentation"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_026",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Dementia Wandering Protocols",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "dementia",
+                                       "wandering",
+                                       "secured-perimeter-facility",
+                                       "least-restrictive-alternative",
+                                       "rcfe"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_027",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "knowledge",
+                          "subtopic":  "RCFE vs SNF vs IL Distinctions",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "rcfe",
+                                       "snf",
+                                       "facility-licensing",
+                                       "assisted-living",
+                                       "department-of-social-services"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_028",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Social Isolation Interventions",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "social-isolation",
+                                       "depression",
+                                       "well-being-monitoring",
+                                       "medical-evaluation",
+                                       "least-restrictive"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_029",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Conservator of Person Care Plan Filing",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "care-plan",
+                                       "gc-355",
+                                       "deadline",
+                                       "court-reporting"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_030",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "knowledge",
+                          "subtopic":  "Court Investigator Visits",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "court-investigator",
+                                       "periodic-review",
+                                       "monitoring",
+                                       "probate-1850"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_031",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Vaccination Decisions",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "vaccination",
+                                       "substituted-judgment",
+                                       "best-interest",
+                                       "medical-decisions",
+                                       "family-input"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_032",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Abuse Reporting to APS",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "aps-reporting",
+                                       "mandatory-reporter",
+                                       "elder-abuse",
+                                       "ombudsman",
+                                       "rcfe"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D5_033",
+                          "domain":  5,
+                          "domainName":  "Personal Management",
+                          "type":  "scenario",
+                          "subtopic":  "Care Plan Conference Participation",
+                          "difficulty":  "easy",
+                          "tags":  [
+                                       "care-plan-conference",
+                                       "well-being-monitoring",
+                                       "advocacy",
+                                       "snf"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_023",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "Court Approval - Sterilization",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "sterilization",
+                                       "court-approval",
+                                       "special-medical-decisions",
+                                       "limited-conservatorship",
+                                       "due-process"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_024",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "AHCD Agent vs Conservator Priority",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "ahcd",
+                                       "health-care-agent",
+                                       "conservator-authority",
+                                       "exclusive-medical-authority",
+                                       "self-determination"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_025",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "POLST vs AHCD Conflict",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "polst",
+                                       "ahcd",
+                                       "end-of-life",
+                                       "conflict",
+                                       "dnr"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_026",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "knowledge",
+                          "subtopic":  "Court Approval - Psychotropic Medications (Dementia)",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "psychotropic-medication",
+                                       "dementia",
+                                       "special-powers",
+                                       "court-approval",
+                                       "non-lps"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_027",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Religious Refusal - Blood Transfusion",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "religious-refusal",
+                                       "blood-transfusion",
+                                       "substituted-judgment",
+                                       "jehovahs-witness",
+                                       "self-determination"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_028",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Off-Label Medication Use",
+                          "difficulty":  "medium",
+                          "tags":  [
+                                       "off-label-medication",
+                                       "informed-consent",
+                                       "experimental-vs-off-label",
+                                       "medical-advocacy"
+                                   ],
+                          "addedDate":  "2026-05-13"
+                      },
+                      {
+                          "id":  "D7_029",
+                          "domain":  7,
+                          "domainName":  "Medical Decision-Making",
+                          "type":  "scenario",
+                          "subtopic":  "Organ Donation Decisions",
+                          "difficulty":  "hard",
+                          "tags":  [
+                                       "organ-donation",
+                                       "anatomical-gift",
+                                       "death-of-conservatee",
+                                       "substituted-judgment",
+                                       "next-of-kin"
+                                   ],
+                          "addedDate":  "2026-05-13"
                       }
                   ]
 }
