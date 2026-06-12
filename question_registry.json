@@ -1,6 +1,6 @@
 {
     "total_questions":  300,
-    "last_updated":  "2026-05-13",
+    "last_updated":  "2026-06-12",
     "next_available_ids":  {
                                "1":  "D1_048",
                                "2":  "D2_037",
@@ -709,7 +709,7 @@
                           "id":  "D4_009",
                           "domain":  4,
                           "domainName":  "Legal and Courts",
-                          "type":  "scenario",
+                          "type":  "knowledge",
                           "subtopic":  "Due Process",
                           "difficulty":  "hard",
                           "tags":  [
@@ -1099,7 +1099,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Public Benefits â€” SSA, VA, Medicare",
+                          "subtopic":  "Public Benefits — SSA, VA, Medicare",
                           "difficulty":  "easy",
                           "tags":  [
                                        "SSI",
@@ -1114,7 +1114,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Public Benefits â€” SSA, VA, Medicare",
+                          "subtopic":  "Public Benefits — SSA, VA, Medicare",
                           "difficulty":  "medium",
                           "tags":  [
                                        "SSI",
@@ -2206,7 +2206,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Tax Compliance â€” Fiduciary Income Tax",
+                          "subtopic":  "Tax Compliance — Fiduciary Income Tax",
                           "difficulty":  "medium",
                           "tags":  [
                                        "tax-compliance",
@@ -2221,7 +2221,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Property Tax â€” Prop 13 / Prop 19",
+                          "subtopic":  "Property Tax — Prop 13 / Prop 19",
                           "difficulty":  "hard",
                           "tags":  [
                                        "property-tax",
@@ -2236,7 +2236,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Prudent Investor Rule â€” Concentrated Stock",
+                          "subtopic":  "Prudent Investor Rule — Concentrated Stock",
                           "difficulty":  "hard",
                           "tags":  [
                                        "prudent-investor-rule",
@@ -2267,7 +2267,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "SSI â€” In-Kind Support and Maintenance",
+                          "subtopic":  "SSI — In-Kind Support and Maintenance",
                           "difficulty":  "hard",
                           "tags":  [
                                        "SSI",
@@ -2283,7 +2283,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Fee Setting â€” Probate Code Â§2640",
+                          "subtopic":  "Fee Setting — Probate Code §2640",
                           "difficulty":  "medium",
                           "tags":  [
                                        "fiduciary-fees",
@@ -2299,7 +2299,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Substituted Judgment â€” Gifting",
+                          "subtopic":  "Substituted Judgment — Gifting",
                           "difficulty":  "hard",
                           "tags":  [
                                        "substituted-judgment",
@@ -2315,7 +2315,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Special Needs Trusts â€” First-Party (d4A)",
+                          "subtopic":  "Special Needs Trusts — First-Party (d4A)",
                           "difficulty":  "medium",
                           "tags":  [
                                        "special-needs-trust",
@@ -2379,7 +2379,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Medicare â€” Coverage Gaps",
+                          "subtopic":  "Medicare — Coverage Gaps",
                           "difficulty":  "medium",
                           "tags":  [
                                        "Medicare",
@@ -2427,7 +2427,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Probate Accounting â€” Capital vs. Income",
+                          "subtopic":  "Probate Accounting — Capital vs. Income",
                           "difficulty":  "hard",
                           "tags":  [
                                        "fiduciary-accounting",
@@ -2458,7 +2458,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Trust Administration â€” Revocable Living Trust",
+                          "subtopic":  "Trust Administration — Revocable Living Trust",
                           "difficulty":  "medium",
                           "tags":  [
                                        "revocable-trust",
@@ -2474,7 +2474,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Marshaling Assets â€” Lost Assets",
+                          "subtopic":  "Marshaling Assets — Lost Assets",
                           "difficulty":  "easy",
                           "tags":  [
                                        "marshaling-assets",
@@ -2538,7 +2538,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Prudent Investor â€” Real Estate Holding",
+                          "subtopic":  "Prudent Investor — Real Estate Holding",
                           "difficulty":  "medium",
                           "tags":  [
                                        "prudent-investor-rule",
@@ -2554,7 +2554,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "knowledge",
-                          "subtopic":  "Federal Gift Tax â€” Form 709",
+                          "subtopic":  "Federal Gift Tax — Form 709",
                           "difficulty":  "medium",
                           "tags":  [
                                        "gift-tax",
@@ -2570,7 +2570,7 @@
                           "domain":  6,
                           "domainName":  "Financial Management",
                           "type":  "scenario",
-                          "subtopic":  "Insurance â€” Adequacy Review",
+                          "subtopic":  "Insurance — Adequacy Review",
                           "difficulty":  "medium",
                           "tags":  [
                                        "insurance-review",
@@ -2707,10 +2707,10 @@
                           "domain":  5,
                           "domainName":  "Personal Management",
                           "type":  "scenario",
-                          "subtopic":  "Travel Out of State",
+                          "subtopic":  "Change of Residence Out of State",
                           "difficulty":  "medium",
                           "tags":  [
-                                       "travel",
+                                       "relocation",
                                        "out-of-state",
                                        "court-permission",
                                        "conservatee-preferences"
@@ -4332,9 +4332,8 @@
                           "tags":  [
                                        "rcfe",
                                        "snf",
-                                       "facility-licensing",
                                        "assisted-living",
-                                       "department-of-social-services"
+                                       "level-of-care"
                                    ],
                           "addedDate":  "2026-05-13"
                       },
