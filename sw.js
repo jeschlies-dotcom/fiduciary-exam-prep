@@ -28,9 +28,11 @@ self.addEventListener('fetch', event => {
   const url = new URL(event.request.url);
 
   if (url.pathname.endsWith('.json')) {
-    // Network first for question bank — fall back to cache
+    // Network first for question bank — fall back to cache.
+    // cache:'no-cache' revalidates with the server so a grown bank shows up
+    // immediately instead of waiting out the browser's HTTP cache.
     event.respondWith(
-      fetch(event.request)
+      fetch(event.request, { cache: 'no-cache' })
         .then(response => {
           const clone = response.clone();
           caches.open(CACHE_NAME).then(cache => cache.put(event.request, clone));
